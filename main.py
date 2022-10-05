@@ -62,12 +62,12 @@ def main():
     #laad de woorden in 2 woordenboeken. 1 van nederlands naar straattaal en 1 andersom.:
 
     # laad de "test.json" gemaakt door api request in get-data.py
-    with open("test.json", "r") as data:
+    with open("woorden.json", "r") as data:
         woorden = json.load(data)
         ned_str, str_ned = Woordenboek(), Woordenboek()
         for woord in woorden:
-            str_woord = woord["betekenis"]
-            ned_woord = woord["woord"]
+            ned_woord = woord["betekenis"]
+            str_woord = woord["woord"]
             ned_str.add(ned_woord, str_woord)
             str_ned.add(str_woord, ned_woord)
 
