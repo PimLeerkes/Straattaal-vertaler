@@ -13,7 +13,28 @@ def vertaal_woord(woord, richting, woorden):
 
 # iterate door de zin en vertaald elk woord los van elkaar:
 def vertaal_zin(zin, richting, woorden):
+
+    # split de zin eerst in mogelijke subzinnen
     zin = zin.split()
+    subzinnen = []
+    for i in range(len(zin)):
+        for j in range(i, len(zin)):
+            subzin = zin[i:j]
+            nieuw_subzin = ""
+            for woord in subzin:
+                nieuw_subzin = nieuw_subzin + " " + woord
+            subzinnen.append(nieuw_subzin[1:])
+    print(subzinnen)
+
+    # vertaal de losse subzinnen:
+    #nieuwe_subzinnen = []
+    #for subzin in subzinnen:
+    #    nieuw_subzin = vertaal_woord(subzin, richting, woorden)
+    #    subzin = nieuw_subzin
+    #    nieuwe_subzinnen.append(subzin)
+    #return nieuwe_subzinnen
+
+
     nieuwe_zin = ""
     for woord in zin:
         nieuw_woord = vertaal_woord(woord, richting, woorden)
@@ -24,7 +45,7 @@ def vertaal_zin(zin, richting, woorden):
 
 
 def main():
-    print("Welkom bij straattaalvertaler versie 0.0.2!")
+    print("Welkom bij straattaalvertaler versie 0.0.3!")
     print("Maak geen spellingsfouten bij het vertalen maar hoofdletters maken niet uit.")
     print("")
 
@@ -39,8 +60,9 @@ def main():
         woord = woord.replace('woord', "")
         woord = woord.replace('betekenis', "")
         woord = woord.replace('"', "")
-        if len(woord) > 4:
-            res.append(woord)
+        if woord != "" and woord[len(woord)-1] == " ":
+            woord = woord[:-1]
+        res.append(woord)
 
     #vraag om woorden te vertalen en print resultaat:
     while(True):
@@ -48,6 +70,7 @@ def main():
         zin = input("Welk woord of zin wil je vertalen?: ")
         vertaalde_woord = vertaal_zin(zin, richting, res)
         print("")
+        #print(vertaalde_woord)
         print("De vertaling voor: '" + zin + "' is: " + vertaalde_woord)
         print("")
 
