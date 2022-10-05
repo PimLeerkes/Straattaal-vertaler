@@ -10096,35 +10096,50 @@ id	"1774"
 betekenis	"Zwolle"
 woord	"Roddel-city"
 
-woord "anapara"
 betekenis "anale paracetemol"
+woord "anapara"
 
-woord "bradda"
 betekenis "vriend"
+woord "bradda"
 
-woord "Baad"
 betekenis "tof"
+woord "Baad"
 
-woord "waddie"
 betekenis "waddinxveen"
+woord "waddie"
 
-woord "capu"
 betekenis "cappucino"
+woord "capu"
 
-woord "smokka" 
 betekenis "roken"
+woord "smokka"
 
-woord "fantas"
 betekenis "fantastisch"
+woord "fantas"
 
-woord "kali"
 betekenis "kalender"
+woord "kali"
 
-woord "kato"
 betekenis "kaastosti"
+woord "kato"
 
-woord "NSB kaart"
 betekenis "NS business kaart"
+woord "NSB kaart"
+
+betekenis "toch"
+woord "tog"
+
+betekenis "koekje"
+woord "koekie"
+
+betekenis "draai"
+woord "spin"
+
+betekenis "broer"
+woord "bradda"
+
+betekenis "laatste deel van een joint"
+woord "affoe"
 
 
 
