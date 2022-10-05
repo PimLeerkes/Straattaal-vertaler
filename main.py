@@ -13,9 +13,8 @@ def vertaal_woord(woord, richting, woorden):
 
 # iterate door de zin en vertaald elk woord los van elkaar:
 def vertaal_zin(zin, richting, woorden):
-
+    zin = zin.split()
     # split de zin eerst in mogelijke subzinnen
-    #zin = zin.split()
     #subzinnen = []
     #for i in range(len(zin)):
     #    for j in range(i, len(zin)):
