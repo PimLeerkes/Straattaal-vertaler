@@ -1,5 +1,4 @@
 
-
 #vertaald woord op basis van richting in talen en beschikbare woordenboek
 def vertaal_woord(woord, richting, woorden):
     vertaald_woord = ""
@@ -12,8 +11,20 @@ def vertaal_woord(woord, richting, woorden):
     return vertaald_woord
 
 
+# iterate door de zin en vertaald elk woord los van elkaar:
+def vertaal_zin(zin, richting, woorden):
+    zin = zin.split()
+    nieuwe_zin = ""
+    for woord in zin:
+        nieuw_woord = vertaal_woord(woord, richting, woorden)
+        if nieuw_woord != "":
+            woord = nieuw_woord
+        nieuwe_zin = nieuwe_zin + " " + woord
+    return nieuwe_zin
+
+
 def main():
-    print("Welkom bij straattaalvertaler versie 0.0.1!")
+    print("Welkom bij straattaalvertaler versie 0.0.2!")
     print("Maak geen spellingsfouten bij het vertalen maar hoofdletters maken niet uit.")
     print("")
 
@@ -34,12 +45,14 @@ def main():
     #vraag om woorden te vertalen en print resultaat:
     while(True):
         richting = input("Wil je van nederlands naar straattaal? (1) of van straattaal naar nederlands? (2): ")
-        woord = input("Welk woord of zin wil je vertalen?: ")
-        vertaalde_woord = vertaal_woord(woord, richting, res)
-        print("De vertalling voor: '" + woord + "' is: " + vertaalde_woord)
+        zin = input("Welk woord of zin wil je vertalen?: ")
+        vertaalde_woord = vertaal_zin(zin, richting, res)
+        print("")
+        print("De vertaling voor: '" + zin + "' is: " + vertaalde_woord)
         print("")
 
 
 if __name__ == '__main__':
     main()
+
 
