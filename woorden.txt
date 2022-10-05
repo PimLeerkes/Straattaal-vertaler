@@ -10095,3 +10095,21 @@ woord	"Swinko"
 id	"1774"
 betekenis	"Zwolle"
 woord	"Roddel-city"
+
+woord "anapara"
+betekenis "anale paracetemol"
+
+woord "bradda"
+betekenis "vriend"
+
+woord "Baad"
+betekenis "tof"
+
+woord "waddie"
+betekenis "waddinxveen"
+
+woord "capu"
+betekenis "cappucino"
+
+
+
