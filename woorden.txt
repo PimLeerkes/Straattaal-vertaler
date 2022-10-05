@@ -1,0 +1,10097 @@
+	
+0	
+id	"447"
+betekenis	"10 euro "
+woord	"Donie"
+1	
+id	"448"
+betekenis	"10 euro "
+woord	"Donnie"
+2	
+id	"129"
+betekenis	"100 euro "
+woord	"Barkie"
+3	
+id	"814"
+betekenis	"100 Euro"
+woord	"Hoenoe"
+4	
+id	"437"
+betekenis	"1000 euro "
+woord	"Doezoe"
+5	
+id	"257"
+betekenis	"25 euro"
+woord	"Chawa"
+6	
+id	"2261"
+betekenis	"25 euro "
+woord	"Tjawa"
+7	
+id	"562"
+betekenis	"5 Euro"
+woord	"Fifa"
+8	
+id	"1203"
+betekenis	"5 euro "
+woord	"Loto"
+9	
+id	"1204"
+betekenis	"5 euro "
+woord	"Lotto"
+10	
+id	"124"
+betekenis	"50 euro"
+woord	"Bankoe"
+11	
+id	"563"
+betekenis	"50 Euro"
+woord	"Fiffie"
+12	
+id	"1537"
+betekenis	"Aangeven"
+woord	"Pasen"
+13	
+id	"162"
+betekenis	"Aanklagen"
+woord	"Beren"
+14	
+id	"547"
+betekenis	"Aanraken"
+woord	"Fassen"
+15	
+id	"221"
+betekenis	"Aansteker "
+woord	"Breeka"
+16	
+id	"1178"
+betekenis	"Aansteker "
+woord	"Litta"
+17	
+id	"2113"
+betekenis	"Aansteker "
+woord	"Stikri"
+18	
+id	"2367"
+betekenis	"Aansteker "
+woord	"Vuur"
+19	
+id	"421"
+betekenis	"Aap"
+woord	"Djoeka"
+20	
+id	"908"
+betekenis	"Aap"
+woord	"japjappie"
+21	
+id	"925"
+betekenis	"Aap"
+woord	"Joeka"
+22	
+id	"1231"
+betekenis	"Aap"
+woord	"Makaku"
+23	
+id	"1346"
+betekenis	"Aap"
+woord	"Monyet"
+24	
+id	"2019"
+betekenis	"Achterbaks"
+woord	"Sneaky"
+25	
+id	"2074"
+betekenis	"Achterdochtig"
+woord	"Spichtig"
+26	
+id	"33"
+betekenis	"Afhouden"
+woord	"Aftjappen"
+27	
+id	"1333"
+betekenis	"Afkorting voor Motherf*cker"
+woord	"Mofo"
+28	
+id	"2209"
+betekenis	"Afmaken"
+woord	"T-bone"
+29	
+id	"1394"
+betekenis	"Afro"
+woord	"negro"
+30	
+id	"1405"
+betekenis	"Afro"
+woord	"Nigga"
+31	
+id	"1406"
+betekenis	"Afro"
+woord	"Nigger"
+32	
+id	"1434"
+betekenis	"Afro"
+woord	"Nugu"
+33	
+id	"1531"
+betekenis	"Afro"
+woord	"PaPua"
+34	
+id	"2070"
+betekenis	"Afro"
+woord	"Speerwerper"
+35	
+id	"2322"
+betekenis	"Afro die wit voetje probeert te halen bij Nederlanders"
+woord	"Uncle Tom"
+36	
+id	"2199"
+betekenis	"Afsnauwen"
+woord	"Tapanahoni"
+37	
+id	"65"
+betekenis	"Aftrekken "
+woord	"Anoeska"
+38	
+id	"777"
+betekenis	"Aftrekken "
+woord	"Hari"
+39	
+id	"1050"
+betekenis	"Aftrekken "
+woord	"Kloppen"
+40	
+id	"1261"
+betekenis	"Aftrekken "
+woord	"Masten"
+41	
+id	"2435"
+betekenis	"Aftrekken"
+woord	"Wiecksen"
+42	
+id	"1854"
+betekenis	"Afzeiken"
+woord	"Schotten"
+43	
+id	"322"
+betekenis	"Agent"
+woord	"Commadant"
+44	
+id	"1568"
+betekenis	"Akka achter het standbeen langs"
+woord	"P"
+45	
+id	"46"
+betekenis	"Alkmaar"
+woord	"Alki"
+46	
+id	"22"
+betekenis	"All cops are basterds"
+woord	"ACAB"
+47	
+id	"1750"
+betekenis	"Alleen"
+woord	"Remi"
+48	
+id	"1752"
+betekenis	"Alleen"
+woord	"Remy"
+49	
+id	"537"
+betekenis	"Alles goed vriend?"
+woord	"Faka G"
+50	
+id	"8"
+betekenis	"Alles goed? "
+woord	"A mooi"
+51	
+id	"47"
+betekenis	"Alles goed? "
+woord	"Alles chill"
+52	
+id	"48"
+betekenis	"Alles goed? "
+woord	"Alles cool"
+53	
+id	"49"
+betekenis	"Alles goed? "
+woord	"Alles gucci"
+54	
+id	"50"
+betekenis	"Alles goed? "
+woord	"Alles toko"
+55	
+id	"426"
+betekenis	"Alles goed?"
+woord	"Dobro"
+56	
+id	"536"
+betekenis	"Alles goed? "
+woord	"Faka"
+57	
+id	"555"
+betekenis	"Alles goed? "
+woord	"Fawaka?"
+58	
+id	"1146"
+betekenis	"Alles goed?"
+woord	"Lebes"
+59	
+id	"2371"
+betekenis	"Alles goed?"
+woord	"Wadup"
+60	
+id	"2395"
+betekenis	"Alles goed?"
+woord	"Wassup"
+61	
+id	"2095"
+betekenis	"Alles is goed"
+woord	"Stabiel"
+62	
+id	"1550"
+betekenis	"Alles rustig"
+woord	"Peace"
+63	
+id	"51"
+betekenis	"Almere"
+woord	"Alli"
+64	
+id	"52"
+betekenis	"Almere"
+woord	"Ally"
+65	
+id	"42"
+betekenis	"Also knows as"
+woord	"AKA"
+66	
+id	"1619"
+betekenis	"Alstublieft"
+woord	"Plaeze"
+67	
+id	"54"
+betekenis	"Amersfoort"
+woord	"Amera"
+68	
+id	"1265"
+betekenis	"Amesrfoort"
+woord	"Masterfoort"
+69	
+id	"1560"
+betekenis	"Amfetamine"
+woord	"Pep"
+70	
+id	"372"
+betekenis	"Amsterdam "
+woord	"Damsco"
+71	
+id	"374"
+betekenis	"Amsterdam"
+woord	"Damsko"
+72	
+id	"375"
+betekenis	"Amsterdam "
+woord	"Damsko"
+73	
+id	"1264"
+betekenis	"Amsterdam"
+woord	"Masterdam"
+74	
+id	"1342"
+betekenis	"Amsterdam"
+woord	"Mokum"
+75	
+id	"2307"
+betekenis	"Amsterdam"
+woord	"Triple X"
+76	
+id	"373"
+betekenis	"Amsterdam-Noord"
+woord	"Damsco Noord Side"
+77	
+id	"677"
+betekenis	"Anaal beverdigt zijn"
+woord	"Gemast"
+78	
+id	"66"
+betekenis	"Antilliaan "
+woord	"Anti"
+79	
+id	"354"
+betekenis	"Anus"
+woord	"Culo"
+80	
+id	"723"
+betekenis	"Anus"
+woord	"Gouf"
+81	
+id	"975"
+betekenis	"Anus"
+woord	"Kaolo"
+82	
+id	"69"
+betekenis	"Apeldoorn"
+woord	"Apeltown"
+83	
+id	"1840"
+betekenis	"Arm"
+woord	"Scare"
+84	
+id	"1941"
+betekenis	"Arm"
+woord	"Skeer"
+85	
+id	"1548"
+betekenis	"Arm persoon"
+woord	"Pauper"
+86	
+id	"1581"
+betekenis	"Arm zijn"
+woord	"Pienaren"
+87	
+id	"1942"
+betekenis	"Arm(-oedig)"
+woord	"Skeer"
+88	
+id	"73"
+betekenis	"Armeen "
+woord	"Armo"
+89	
+id	"74"
+betekenis	"Arnhem"
+woord	"Arnomsko"
+90	
+id	"2281"
+betekenis	"Aso"
+woord	"Tokkie"
+91	
+id	"79"
+betekenis	"Asociaal"
+woord	"Aso"
+92	
+id	"765"
+betekenis	"Auto"
+woord	"Haggie"
+93	
+id	"1480"
+betekenis	"Auto"
+woord	"Oto"
+94	
+id	"1760"
+betekenis	"Auto "
+woord	"Ride"
+95	
+id	"2372"
+betekenis	"Auto "
+woord	"Waggi"
+96	
+id	"2373"
+betekenis	"Auto "
+woord	"Waggie"
+97	
+id	"2374"
+betekenis	"Auto "
+woord	"Wagi"
+98	
+id	"2375"
+betekenis	"Auto "
+woord	"Wagie"
+99	
+id	"161"
+betekenis	"Autoradio"
+woord	"Benzibox"
+100	
+id	"2244"
+betekenis	"Autoradio"
+woord	"Tippo"
+101	
+id	"906"
+betekenis	"Baas"
+woord	"Janksto"
+102	
+id	"1117"
+betekenis	"Baas"
+woord	"La main"
+103	
+id	"2497"
+betekenis	"Baas"
+woord	"Zalmi"
+104	
+id	"236"
+betekenis	"Baas (van alle bazen)"
+woord	"Capo (di tutti capi)"
+105	
+id	"1800"
+betekenis	"Baas zijn"
+woord	"Rulen"
+106	
+id	"715"
+betekenis	"Ballen"
+woord	"Goja"
+107	
+id	"1515"
+betekenis	"Balzak"
+woord	"Pampam"
+108	
+id	"267"
+betekenis	"Bang"
+woord	"Chicken"
+109	
+id	"635"
+betekenis	"Bang"
+woord	"Fridi"
+110	
+id	"725"
+betekenis	"Bed"
+woord	"Graf"
+111	
+id	"2233"
+betekenis	"Bedankt"
+woord	"Thx"
+112	
+id	"1846"
+betekenis	"Bedenken"
+woord	"Scemen"
+113	
+id	"1951"
+betekenis	"Bedenken"
+woord	"Skiemen"
+114	
+id	"145"
+betekenis	"Beest"
+woord	"Beast"
+115	
+id	"28"
+betekenis	"Beetje"
+woord	"Afoe"
+116	
+id	"1399"
+betekenis	"Beginner"
+woord	"Newbie"
+117	
+id	"1429"
+betekenis	"Beginner"
+woord	"Noop"
+118	
+id	"916"
+betekenis	"Begrepen?"
+woord	"Jeh grabbing"
+119	
+id	"234"
+betekenis	"Begrijp je?"
+woord	"Capish"
+120	
+id	"235"
+betekenis	"Begrijp je?"
+woord	"Capishe"
+121	
+id	"724"
+betekenis	"Begrijp je?"
+woord	"Graboe"
+122	
+id	"2424"
+betekenis	"Begrijp je?"
+woord	"Wette"
+123	
+id	"2338"
+betekenis	"Begrijpen"
+woord	"Vatten"
+124	
+id	"2032"
+betekenis	"Behaarde vrouw"
+woord	"Snorfiets"
+125	
+id	"728"
+betekenis	"Bejaarde"
+woord	"Graftak"
+126	
+id	"1076"
+betekenis	"Bekend zijn"
+woord	"Kojebama"
+127	
+id	"406"
+betekenis	"Bekijk het maar"
+woord	"Dikke Doei"
+128	
+id	"1377"
+betekenis	"Belazeren"
+woord	"Naki wan inter"
+129	
+id	"397"
+betekenis	"Bemoeien"
+woord	"Dieken"
+130	
+id	"158"
+betekenis	"Ben je gek?"
+woord	"Ben je lauw?"
+131	
+id	"943"
+betekenis	"Ben je gek?"
+woord	"Ju e lauw?"
+132	
+id	"160"
+betekenis	"Beneden"
+woord	"Benoekoe"
+133	
+id	"163"
+betekenis	"Berkel en Rodenrijs"
+woord	"Berkel City"
+134	
+id	"166"
+betekenis	"Best Friends"
+woord	"BF"
+135	
+id	"1028"
+betekenis	"Beste"
+woord	"King"
+136	
+id	"181"
+betekenis	"Beste vriend"
+woord	"Billenmattie"
+137	
+id	"338"
+betekenis	"Betalen"
+woord	"Coveren"
+138	
+id	"439"
+betekenis	"Betalen"
+woord	"Dokken"
+139	
+id	"1130"
+betekenis	"Betalen"
+woord	"Lappen"
+140	
+id	"37"
+betekenis	"Beter "
+woord	"Aight"
+141	
+id	"1285"
+betekenis	"Beter"
+woord	"Meglio"
+142	
+id	"1044"
+betekenis	"Betrappen"
+woord	"Klemmen"
+143	
+id	"2290"
+betekenis	"Beuken"
+woord	"Topen"
+144	
+id	"164"
+betekenis	"Beverwaard"
+woord	"Beveri"
+145	
+id	"1424"
+betekenis	"Bewusteloos"
+woord	"Nokkie"
+146	
+id	"1485"
+betekenis	"Bezitten"
+woord	"Own"
+147	
+id	"1486"
+betekenis	"Bezitten"
+woord	"Ownen"
+148	
+id	"169"
+betekenis	"Bier"
+woord	"Bierie"
+149	
+id	"183"
+betekenis	"Bier"
+woord	"Biri"
+150	
+id	"184"
+betekenis	"Bier"
+woord	"Birri"
+151	
+id	"885"
+betekenis	"Bijleggen"
+woord	"Invest"
+152	
+id	"2351"
+betekenis	"Bijlmer"
+woord	"Vimre"
+153	
+id	"81"
+betekenis	"Billen"
+woord	"Asser"
+154	
+id	"83"
+betekenis	"Billen"
+woord	"Assr"
+155	
+id	"249"
+betekenis	"Billen"
+woord	"Chan chan"
+156	
+id	"721"
+betekenis	"Billen"
+woord	"Gotje"
+157	
+id	"798"
+betekenis	"Billen"
+woord	"Hezza"
+158	
+id	"961"
+betekenis	"Billen"
+woord	"Kadetjes"
+159	
+id	"1102"
+betekenis	"Billen"
+woord	"Kuenu"
+160	
+id	"1524"
+betekenis	"Billen"
+woord	"Pantat"
+161	
+id	"1828"
+betekenis	"Billen"
+woord	"Sanka"
+162	
+id	"976"
+betekenis	"Billen Afro"
+woord	"Kaolo Joeka"
+163	
+id	"167"
+betekenis	"Bitch "
+woord	"Biatch"
+164	
+id	"2446"
+betekenis	"Blanke Afro"
+woord	"Wigger"
+165	
+id	"222"
+betekenis	"Blij"
+woord	"Breetie"
+166	
+id	"634"
+betekenis	"Blijf staan"
+woord	"Freeze"
+167	
+id	"2188"
+betekenis	"Blijven zitten"
+woord	"Tan plan"
+168	
+id	"292"
+betekenis	"Blowen "
+woord	"Choken"
+169	
+id	"1055"
+betekenis	"Blowen"
+woord	"Knallen"
+170	
+id	"1586"
+betekenis	"Blowen"
+woord	"Pieten roken"
+171	
+id	"2002"
+betekenis	"Blowen "
+woord	"Smoken"
+172	
+id	"2003"
+betekenis	"Blowen"
+woord	"Smoken"
+173	
+id	"2013"
+betekenis	"Blowen"
+woord	"Snaken"
+174	
+id	"2039"
+betekenis	"Blowen"
+woord	"Soetoe"
+175	
+id	"2184"
+betekenis	"Blowen"
+woord	"takkie klappen"
+176	
+id	"1943"
+betekenis	"Blut"
+woord	"Skeer"
+177	
+id	"150"
+betekenis	"BMW"
+woord	"Beemer"
+178	
+id	"157"
+betekenis	"BMW"
+woord	"Bempi"
+179	
+id	"1376"
+betekenis	"Boeie"
+woord	"Naka"
+180	
+id	"883"
+betekenis	"Boeiend"
+woord	"Inter"
+181	
+id	"1529"
+betekenis	"Boete"
+woord	"Papiertje"
+182	
+id	"224"
+betekenis	"Boos"
+woord	"Broeia"
+183	
+id	"1612"
+betekenis	"Boos"
+woord	"Pislink"
+184	
+id	"1621"
+betekenis	"Bord"
+woord	"Plaka"
+185	
+id	"92"
+betekenis	"Borsten"
+woord	"Babelooba's"
+186	
+id	"198"
+betekenis	"Borsten"
+woord	"Bobs"
+187	
+id	"926"
+betekenis	"Borsten"
+woord	"Joepen"
+188	
+id	"1420"
+betekenis	"Borsten"
+woord	"Noenga noenga's"
+189	
+id	"1946"
+betekenis	"Borsten"
+woord	"Sketten"
+190	
+id	"2278"
+betekenis	"Borsten"
+woord	"toetoes"
+191	
+id	"2328"
+betekenis	"Bovenkarspel"
+woord	"Upper K"
+192	
+id	"143"
+betekenis	"Breakdancer"
+woord	"B-boy"
+193	
+id	"219"
+betekenis	"Broek "
+woord	"Brakka"
+194	
+id	"2042"
+betekenis	"Broek"
+woord	"Soffel"
+195	
+id	"2130"
+betekenis	"Brutaal gezicht"
+woord	"Strakke poster"
+196	
+id	"1661"
+betekenis	"Buik"
+woord	"Pokkel"
+197	
+id	"2306"
+betekenis	"Buiten gesltoten worden"
+woord	"Tricken"
+198	
+id	"188"
+betekenis	"Bullshit"
+woord	"Bla"
+199	
+id	"1738"
+betekenis	"Buurman"
+woord	"Ramtjoe"
+200	
+id	"130"
+betekenis	"Buurt"
+woord	"Barrio"
+201	
+id	"826"
+betekenis	"Buurt"
+woord	"Hood"
+202	
+id	"1631"
+betekenis	"Casanova"
+woord	"Player"
+203	
+id	"243"
+betekenis	"Centraal Station"
+woord	"Centje"
+204	
+id	"1923"
+betekenis	"Chageriijnig"
+woord	"sjaggie"
+205	
+id	"1797"
+betekenis	"Chaos"
+woord	"Ru"
+206	
+id	"1798"
+betekenis	"Chaos"
+woord	"Ru"
+207	
+id	"1934"
+betekenis	"Chauffeur"
+woord	"Sjoofie"
+208	
+id	"1582"
+betekenis	"Checken"
+woord	"Piepen"
+209	
+id	"1048"
+betekenis	"Chillen"
+woord	"Klippen"
+210	
+id	"1761"
+betekenis	"Chillen"
+woord	"Riden"
+211	
+id	"1549"
+betekenis	"Chillen zonder drank en drugs"
+woord	"Pauperen"
+212	
+id	"286"
+betekenis	"Chinees "
+woord	"Chiney"
+213	
+id	"289"
+betekenis	"Chinees "
+woord	"Chinoe"
+214	
+id	"301"
+betekenis	"Chinees"
+woord	"Chulu"
+215	
+id	"1598"
+betekenis	"Chinees"
+woord	"Pinda"
+216	
+id	"2021"
+betekenis	"Chinees"
+woord	"Snesi"
+217	
+id	"2022"
+betekenis	"Chinees"
+woord	"Snesie"
+218	
+id	"2464"
+betekenis	"Chinees"
+woord	"Wok"
+219	
+id	"2260"
+betekenis	"Chinees-Surinaams gerecht"
+woord	"Tjauw min"
+220	
+id	"285"
+betekenis	"Chinese Indo"
+woord	"Chindo"
+221	
+id	"1033"
+betekenis	"Clitoris"
+woord	"Kittelaar"
+222	
+id	"131"
+betekenis	"Coca"
+woord	"Base"
+223	
+id	"319"
+betekenis	"Coca"
+woord	"Cokos"
+224	
+id	"779"
+betekenis	"Coca"
+woord	"Harken"
+225	
+id	"1125"
+betekenis	"Coca"
+woord	"Lala"
+226	
+id	"2015"
+betekenis	"Coca"
+woord	"Snatsen"
+227	
+id	"2046"
+betekenis	"Coca"
+woord	"Sos"
+228	
+id	"2047"
+betekenis	"Coca"
+woord	"Sosaa"
+229	
+id	"2049"
+betekenis	"Coca"
+woord	"Sossa"
+230	
+id	"2482"
+betekenis	"Coca"
+woord	"Yayo"
+231	
+id	"2485"
+betekenis	"Coca"
+woord	"Yeyo"
+232	
+id	"1900"
+betekenis	"Coffeeshop"
+woord	"Shoppa"
+233	
+id	"295"
+betekenis	"Coffeshop"
+woord	"Chopa"
+234	
+id	"1895"
+betekenis	"Coffeshop"
+woord	"Shobba"
+235	
+id	"2246"
+betekenis	"Coffeshop"
+woord	"Tjabbi"
+236	
+id	"2247"
+betekenis	"Coffeshop"
+woord	"Tjabbie"
+237	
+id	"2248"
+betekenis	"Coffeshop"
+woord	"Tjabi"
+238	
+id	"2249"
+betekenis	"Coffeshop"
+woord	"Tjabie"
+239	
+id	"927"
+betekenis	"Computeren"
+woord	"Joeteren"
+240	
+id	"328"
+betekenis	"Condoom"
+woord	"Connie"
+241	
+id	"329"
+betekenis	"Condoom"
+woord	"Conny"
+242	
+id	"337"
+betekenis	"Condoom"
+woord	"Cosoe"
+243	
+id	"1794"
+betekenis	"Condoom"
+woord	"Rubbertje"
+244	
+id	"325"
+betekenis	"Conducteur"
+woord	"Condoekoe"
+245	
+id	"438"
+betekenis	"Conducteur"
+woord	"Dokka"
+246	
+id	"281"
+betekenis	"Cool"
+woord	"Chillwings"
+247	
+id	"452"
+betekenis	"Cool"
+woord	"Dope"
+248	
+id	"453"
+betekenis	"Cool"
+woord	"Dope"
+249	
+id	"533"
+betekenis	"Cool"
+woord	"Faja"
+250	
+id	"590"
+betekenis	"Cool"
+woord	"Flex"
+251	
+id	"594"
+betekenis	"Cool"
+woord	"Flexi"
+252	
+id	"606"
+betekenis	"Cool"
+woord	"Fly"
+253	
+id	"617"
+betekenis	"Cool"
+woord	"Foeroe"
+254	
+id	"672"
+betekenis	"Cool"
+woord	"Gataar"
+255	
+id	"685"
+betekenis	"Cool"
+woord	"Gers"
+256	
+id	"702"
+betekenis	"Cool"
+woord	"Gin"
+257	
+id	"722"
+betekenis	"Cool"
+woord	"Goud"
+258	
+id	"735"
+betekenis	"Cool"
+woord	"Gravy"
+259	
+id	"749"
+betekenis	"Cool"
+woord	"Gruwelijk"
+260	
+id	"752"
+betekenis	"Cool"
+woord	"Gucci"
+261	
+id	"753"
+betekenis	"Cool"
+woord	"Guccu"
+262	
+id	"772"
+betekenis	"Cool"
+woord	"Hard"
+263	
+id	"796"
+betekenis	"Cool"
+woord	"Het doet"
+264	
+id	"867"
+betekenis	"Cool"
+woord	"IJselijk"
+265	
+id	"875"
+betekenis	"Cool"
+woord	"Ill"
+266	
+id	"876"
+betekenis	"Cool"
+woord	"Ill shit"
+267	
+id	"879"
+betekenis	"Cool"
+woord	"Immo"
+268	
+id	"884"
+betekenis	"Cool"
+woord	"Inter"
+269	
+id	"921"
+betekenis	"Cool"
+woord	"Jiggy"
+270	
+id	"1010"
+betekenis	"Cool"
+woord	"Kicken"
+271	
+id	"1026"
+betekenis	"Cool"
+woord	"Killer"
+272	
+id	"1029"
+betekenis	"Cool"
+woord	"Kinky"
+273	
+id	"1039"
+betekenis	"Cool"
+woord	"Klef"
+274	
+id	"1111"
+betekenis	"Cool"
+woord	"Kvlt"
+275	
+id	"1119"
+betekenis	"Cool"
+woord	"Laamraoui"
+276	
+id	"1139"
+betekenis	"Cool"
+woord	"Lau"
+277	
+id	"1191"
+betekenis	"Cool"
+woord	"Loent"
+278	
+id	"1230"
+betekenis	"Cool"
+woord	"Makaan"
+279	
+id	"1266"
+betekenis	"Cool"
+woord	"Masterlijk"
+280	
+id	"1331"
+betekenis	"Cool"
+woord	"Moetig"
+281	
+id	"1393"
+betekenis	"Cool"
+woord	"Neet"
+282	
+id	"1454"
+betekenis	"Cool"
+woord	"On te bont"
+283	
+id	"1461"
+betekenis	"Cool"
+woord	"Onyx"
+284	
+id	"1519"
+betekenis	"Cool"
+woord	"Panja"
+285	
+id	"1571"
+betekenis	"Cool"
+woord	"Phat"
+286	
+id	"1618"
+betekenis	"Cool"
+woord	"Pjotr"
+287	
+id	"1733"
+betekenis	"Cool"
+woord	"Radicaal"
+288	
+id	"1741"
+betekenis	"Cool"
+woord	"Raszz"
+289	
+id	"1743"
+betekenis	"Cool"
+woord	"Real"
+290	
+id	"1747"
+betekenis	"Cool"
+woord	"Relax"
+291	
+id	"1748"
+betekenis	"Cool"
+woord	"Relaxed"
+292	
+id	"1749"
+betekenis	"Cool"
+woord	"Relaxt"
+293	
+id	"1803"
+betekenis	"Cool"
+woord	"Ruud"
+294	
+id	"1907"
+betekenis	"Cool"
+woord	"Sick"
+295	
+id	"1913"
+betekenis	"Cool"
+woord	"Siki"
+296	
+id	"1975"
+betekenis	"Cool"
+woord	"Skraffa"
+297	
+id	"1980"
+betekenis	"Cool"
+woord	"Skunnig"
+298	
+id	"2004"
+betekenis	"Cool"
+woord	"Smooth"
+299	
+id	"2068"
+betekenis	"Cool"
+woord	"Sparky"
+300	
+id	"2079"
+betekenis	"Cool"
+woord	"Spiffy"
+301	
+id	"2126"
+betekenis	"Cool"
+woord	"Stragga"
+302	
+id	"2128"
+betekenis	"Cool"
+woord	"Strak"
+303	
+id	"2143"
+betekenis	"Cool"
+woord	"Styl"
+304	
+id	"2144"
+betekenis	"Cool"
+woord	"Stylie"
+305	
+id	"2146"
+betekenis	"Cool"
+woord	"Styling"
+306	
+id	"2147"
+betekenis	"Cool"
+woord	"Stylo"
+307	
+id	"2211"
+betekenis	"Cool"
+woord	"T"
+308	
+id	"2221"
+betekenis	"Cool"
+woord	"Tev"
+309	
+id	"2279"
+betekenis	"Cool"
+woord	"Tof"
+310	
+id	"2299"
+betekenis	"Cool"
+woord	"Tranga"
+311	
+id	"2325"
+betekenis	"Cool"
+woord	"Unkie"
+312	
+id	"2327"
+betekenis	"Cool"
+woord	"Unky"
+313	
+id	"2344"
+betekenis	"Cool"
+woord	"Vers"
+314	
+id	"2345"
+betekenis	"Cool"
+woord	"Verse"
+315	
+id	"2347"
+betekenis	"Cool"
+woord	"Vet"
+316	
+id	"2405"
+betekenis	"Cool"
+woord	"Waush"
+317	
+id	"2407"
+betekenis	"Cool"
+woord	"Wauz"
+318	
+id	"2408"
+betekenis	"Cool"
+woord	"Wax"
+319	
+id	"2409"
+betekenis	"Cool"
+woord	"Wayooh"
+320	
+id	"2429"
+betekenis	"Cool"
+woord	"Wicked"
+321	
+id	"2460"
+betekenis	"Cool"
+woord	"Woei"
+322	
+id	"2463"
+betekenis	"Cool"
+woord	"Wojoh"
+323	
+id	"2467"
+betekenis	"Cool"
+woord	"Word up"
+324	
+id	"2471"
+betekenis	"Cool"
+woord	"Wreed"
+325	
+id	"625"
+betekenis	"Cool (fucking dope)"
+woord	"Fope"
+326	
+id	"704"
+betekenis	"Coole gozer"
+woord	"Giorgo"
+327	
+id	"932"
+betekenis	"Coole gozer"
+woord	"Jonas"
+328	
+id	"1269"
+betekenis	"Coole gozer"
+woord	"Maton"
+329	
+id	"1270"
+betekenis	"Coole gozer"
+woord	"Matong"
+330	
+id	"1308"
+betekenis	"Coole gozer"
+woord	"Michel"
+331	
+id	"877"
+betekenis	"Coolste"
+woord	"Illest"
+332	
+id	"1628"
+betekenis	"Credit card"
+woord	"Plastic"
+333	
+id	"1337"
+betekenis	"Criminele Marrokaan"
+woord	"Moker"
+334	
+id	"239"
+betekenis	"Culemborg"
+woord	"Cborg"
+335	
+id	"298"
+betekenis	"Dankjewel"
+woord	"Choukran"
+336	
+id	"2270"
+betekenis	"Dankjewel"
+woord	"Tnx man!"
+337	
+id	"118"
+betekenis	"Dans"
+woord	"Banamba"
+338	
+id	"2448"
+betekenis	"Dans"
+woord	"Wiggle"
+339	
+id	"2139"
+betekenis	"Dansen"
+woord	"Stuiteren"
+340	
+id	"11"
+betekenis	"Dat meisje is een sloerie"
+woord	"A sma ede weri"
+341	
+id	"12"
+betekenis	"Dat meisje is gek"
+woord	"A sma ede wous"
+342	
+id	"396"
+betekenis	"Dat meisje is lekker!"
+woord	"Die kill wandelt"
+343	
+id	"1766"
+betekenis	"De anus oraal bevredigen"
+woord	"Rimmen"
+344	
+id	"174"
+betekenis	"De baas"
+woord	"Bigi anu"
+345	
+id	"1016"
+betekenis	"De baas"
+woord	"Kike"
+346	
+id	"1260"
+betekenis	"De baas"
+woord	"Mastah"
+347	
+id	"788"
+betekenis	"De baas zijn"
+woord	"Heersen"
+348	
+id	"2225"
+betekenis	"De beste"
+woord	"Tha bomb"
+349	
+id	"1982"
+betekenis	"Dealen"
+woord	"Slanging"
+350	
+id	"860"
+betekenis	"Dealer"
+woord	"Icecreaman"
+351	
+id	"1103"
+betekenis	"Dealer"
+woord	"Kuipoe"
+352	
+id	"1370"
+betekenis	"Dealer"
+woord	"Nachtapotheek"
+353	
+id	"2086"
+betekenis	"Delen"
+woord	"Splitten"
+354	
+id	"389"
+betekenis	"Delft"
+woord	"Devoe"
+355	
+id	"400"
+betekenis	"Delft"
+woord	"Diffi"
+356	
+id	"34"
+betekenis	"Den Haag "
+woord	"Aga"
+357	
+id	"35"
+betekenis	"Den Haag "
+woord	"Agga"
+358	
+id	"395"
+betekenis	"Den Haag"
+woord	"Die Haga"
+359	
+id	"387"
+betekenis	"Den Helder"
+woord	"Delly"
+360	
+id	"1693"
+betekenis	"Denken"
+woord	"Prakseri"
+361	
+id	"477"
+betekenis	"Diaree"
+woord	"Dunne derrie"
+362	
+id	"1731"
+betekenis	"Diaree"
+woord	"Racekak"
+363	
+id	"616"
+betekenis	"Dief"
+woord	"Foermang"
+364	
+id	"1046"
+betekenis	"Dief"
+woord	"Klepto"
+365	
+id	"300"
+betekenis	"Dik"
+woord	"Chubby"
+366	
+id	"548"
+betekenis	"Dik"
+woord	"Fati bomba"
+367	
+id	"2333"
+betekenis	"Dik"
+woord	"Vadzig"
+368	
+id	"896"
+betekenis	"Dik meisje"
+woord	"Jabu jabu"
+369	
+id	"899"
+betekenis	"Dik meisje"
+woord	"Jackie"
+370	
+id	"2505"
+betekenis	"Dik meisje"
+woord	"Zeug"
+371	
+id	"1772"
+betekenis	"Dikke gozer"
+woord	"Robin"
+372	
+id	"2469"
+betekenis	"Dikke moslim"
+woord	"Worstlim"
+373	
+id	"407"
+betekenis	"Dikke penis"
+woord	"Dikke tak"
+374	
+id	"2005"
+betekenis	"Dikzak"
+woord	"Smulrol"
+375	
+id	"2071"
+betekenis	"Dikzak"
+woord	"Spekkie"
+376	
+id	"2149"
+betekenis	"Direct"
+woord	"Subiet"
+377	
+id	"380"
+betekenis	"Dodelijk"
+woord	"DD"
+378	
+id	"1416"
+betekenis	"Doe niet zo stoer!"
+woord	"No play pompoe pompoe"
+379	
+id	"2414"
+betekenis	"Doe niet zo stoer!"
+woord	"Weejoh"
+380	
+id	"429"
+betekenis	"Doe wat je wilt"
+woord	"Doe je ding"
+381	
+id	"2218"
+betekenis	"Doen"
+woord	"Temmen"
+382	
+id	"468"
+betekenis	"Doetinchem"
+woord	"DTC"
+383	
+id	"2103"
+betekenis	"Dollen"
+woord	"Stangen"
+384	
+id	"476"
+betekenis	"Dom"
+woord	"Dunko"
+385	
+id	"1199"
+betekenis	"Dom"
+woord	"Loos"
+386	
+id	"2051"
+betekenis	"Dom doen"
+woord	"Spacen"
+387	
+id	"600"
+betekenis	"Donder op"
+woord	"Flokker op"
+388	
+id	"1378"
+betekenis	"Donkere gozer"
+woord	"Nakio"
+389	
+id	"383"
+betekenis	"Dood"
+woord	"Dede"
+390	
+id	"392"
+betekenis	"Dood "
+woord	"Didde"
+391	
+id	"393"
+betekenis	"Dood "
+woord	"Diddi"
+392	
+id	"394"
+betekenis	"Dood "
+woord	"Diddih"
+393	
+id	"1876"
+betekenis	"Dood "
+woord	"Scrap"
+394	
+id	"1922"
+betekenis	"Dood "
+woord	"Six feet"
+395	
+id	"2394"
+betekenis	"Dood"
+woord	"Wasa"
+396	
+id	"1679"
+betekenis	"Doodschieten"
+woord	"Poppen"
+397	
+id	"469"
+betekenis	"Dordrecht"
+woord	"D-Town"
+398	
+id	"456"
+betekenis	"Dordrecht"
+woord	"Dordt"
+399	
+id	"457"
+betekenis	"Dordrecht"
+woord	"Dorra"
+400	
+id	"412"
+betekenis	"Draaierig"
+woord	"Dizzy"
+401	
+id	"1773"
+betekenis	"Dragen"
+woord	"Rocken"
+402	
+id	"1169"
+betekenis	"Drank"
+woord	"Lika"
+403	
+id	"463"
+betekenis	"Drinken"
+woord	"Drini"
+404	
+id	"464"
+betekenis	"Drinken"
+woord	"Drinie"
+405	
+id	"2202"
+betekenis	"Drinken "
+woord	"Tappen"
+406	
+id	"2510"
+betekenis	"Drinken "
+woord	"Zippen"
+407	
+id	"71"
+betekenis	"Dronken "
+woord	"Appa"
+408	
+id	"333"
+betekenis	"Dronken"
+woord	"Cookie"
+409	
+id	"341"
+betekenis	"Dronken"
+woord	"Crackie"
+410	
+id	"388"
+betekenis	"Dronken "
+woord	"Der af"
+411	
+id	"465"
+betekenis	"Dronken "
+woord	"Droeloe"
+412	
+id	"466"
+betekenis	"Dronken "
+woord	"Droengoe"
+413	
+id	"1126"
+betekenis	"Dronken"
+woord	"Lam"
+414	
+id	"1145"
+betekenis	"Dronken"
+woord	"Lazerus"
+415	
+id	"1345"
+betekenis	"Dronken"
+woord	"Monka dunky"
+416	
+id	"1520"
+betekenis	"Dronken "
+woord	"Panja"
+417	
+id	"1525"
+betekenis	"Dronken "
+woord	"Panya"
+418	
+id	"1554"
+betekenis	"Dronken "
+woord	"Peige sjikes"
+419	
+id	"1593"
+betekenis	"Dronken "
+woord	"Pila"
+420	
+id	"2336"
+betekenis	"Dronken"
+woord	"Van de kaart"
+421	
+id	"2342"
+betekenis	"Dronken"
+woord	"Ver"
+422	
+id	"2396"
+betekenis	"Dronken"
+woord	"Wasted"
+423	
+id	"32"
+betekenis	"Dronken worden"
+woord	"Aftanken"
+424	
+id	"890"
+betekenis	"Drugs"
+woord	"Ish"
+425	
+id	"964"
+betekenis	"Drugs"
+woord	"Kaiki"
+426	
+id	"1497"
+betekenis	"Drugs"
+woord	"Paddo"
+427	
+id	"2444"
+betekenis	"Drugs"
+woord	"Wietrie"
+428	
+id	"165"
+betekenis	"Drugsgebruiker"
+woord	"Bezerd"
+429	
+id	"340"
+betekenis	"Drugsgebruiker"
+woord	"Cracker"
+430	
+id	"343"
+betekenis	"Drugsgebruiker"
+woord	"Crackjunk"
+431	
+id	"918"
+betekenis	"Drugsgebruiker"
+woord	"Jenk"
+432	
+id	"935"
+betekenis	"Drugsgebruiker"
+woord	"Jonki"
+433	
+id	"948"
+betekenis	"Drugsgebruiker"
+woord	"Junk"
+434	
+id	"1250"
+betekenis	"Drugsgebruiker"
+woord	"Marie"
+435	
+id	"2062"
+betekenis	"Druk maken"
+woord	"Spangen"
+436	
+id	"350"
+betekenis	"Duidelijk"
+woord	"Crystal Clear"
+437	
+id	"368"
+betekenis	"Duivel"
+woord	"Damien"
+438	
+id	"2235"
+betekenis	"Dunne gast"
+woord	"Tiekieman"
+439	
+id	"398"
+betekenis	"Duur"
+woord	"Dieri"
+440	
+id	"488"
+betekenis	"Echt"
+woord	"Eg"
+441	
+id	"2519"
+betekenis	"Echt"
+woord	"Zuiver"
+442	
+id	"613"
+betekenis	"Echt waar?"
+woord	"Fo sho"
+443	
+id	"626"
+betekenis	"Echt waar?"
+woord	"For real"
+444	
+id	"991"
+betekenis	"Echt waar?"
+woord	"Kats"
+445	
+id	"1118"
+betekenis	"Een bende"
+woord	"La Rouge"
+446	
+id	"1827"
+betekenis	"Een ding"
+woord	"Sani"
+447	
+id	"2127"
+betekenis	"Eerlijk"
+woord	"Straight"
+448	
+id	"82"
+betekenis	"Eikel"
+woord	"Asshole"
+449	
+id	"152"
+betekenis	"Eikel"
+woord	"Beftekkel"
+450	
+id	"182"
+betekenis	"Eikel"
+woord	"Biotch"
+451	
+id	"231"
+betekenis	"Eikel"
+woord	"Cabron"
+452	
+id	"611"
+betekenis	"Eikel"
+woord	"Fo"
+453	
+id	"647"
+betekenis	"Eikel"
+woord	"Fucker"
+454	
+id	"1557"
+betekenis	"Eikel"
+woord	"Pendejo"
+455	
+id	"1660"
+betekenis	"Eikel"
+woord	"Pokkaai"
+456	
+id	"1689"
+betekenis	"Eikel"
+woord	"Potter"
+457	
+id	"1818"
+betekenis	"Eikel"
+woord	"Saka saka"
+458	
+id	"1819"
+betekenis	"Eikel"
+woord	"Sakat"
+459	
+id	"513"
+betekenis	"Eindhoven"
+woord	"E-town"
+460	
+id	"489"
+betekenis	"Eindhoven"
+woord	"EHV"
+461	
+id	"492"
+betekenis	"Eindhoven"
+woord	"Eindj"
+462	
+id	"491"
+betekenis	"Eindhoven"
+woord	"Eindje"
+463	
+id	"493"
+betekenis	"Eindhoven"
+woord	"Eindscko"
+464	
+id	"501"
+betekenis	"Emmeloord"
+woord	"Emmeloco"
+465	
+id	"503"
+betekenis	"Emmeloord"
+woord	"Emmytown"
+466	
+id	"345"
+betekenis	"Engerd"
+woord	"Creep"
+467	
+id	"504"
+betekenis	"Enkhuizen"
+woord	"Enky"
+468	
+id	"159"
+betekenis	"Enschede "
+woord	"Bengschede"
+469	
+id	"505"
+betekenis	"Enschede"
+woord	"Ensko"
+470	
+id	"2389"
+betekenis	"Er bij willen horen"
+woord	"Wannabee"
+471	
+id	"707"
+betekenis	"Erectie"
+woord	"Girpeh"
+472	
+id	"1294"
+betekenis	"Erectie"
+woord	"Mi abi spier"
+473	
+id	"2076"
+betekenis	"Erectie"
+woord	"Spieren"
+474	
+id	"2108"
+betekenis	"Erectie"
+woord	"Stibba"
+475	
+id	"2112"
+betekenis	"Erectie"
+woord	"Stiffa"
+476	
+id	"532"
+betekenis	"Erg"
+woord	"Faja"
+477	
+id	"1158"
+betekenis	"Erg"
+woord	"Lelijk"
+478	
+id	"1451"
+betekenis	"Erg"
+woord	"Omin"
+479	
+id	"1837"
+betekenis	"Erg"
+woord	"Scandi"
+480	
+id	"1452"
+betekenis	"Erg cool"
+woord	"Omin lauw"
+481	
+id	"660"
+betekenis	"Erg goed"
+woord	"Ganga"
+482	
+id	"2305"
+betekenis	"Erg homo / vrouwelijk"
+woord	"Tr"
+483	
+id	"1003"
+betekenis	"Erg lekker"
+woord	"Keispang"
+484	
+id	"1580"
+betekenis	"Ergens aan frunniken"
+woord	"Piemelen"
+485	
+id	"1882"
+betekenis	"Erotisch"
+woord	"Sexiano"
+486	
+id	"792"
+betekenis	"Erotische tekenfilm"
+woord	"Hentai"
+487	
+id	"180"
+betekenis	"Eten"
+woord	"Bikken"
+488	
+id	"252"
+betekenis	"Eten"
+woord	"Chappen"
+489	
+id	"974"
+betekenis	"Eten "
+woord	"Kanen"
+490	
+id	"1389"
+betekenis	"Eten"
+woord	"Nazzar"
+491	
+id	"1435"
+betekenis	"Eten"
+woord	"Nyan"
+492	
+id	"1940"
+betekenis	"Eten"
+woord	"Skaveren"
+493	
+id	"2256"
+betekenis	"Eten"
+woord	"Tjappa"
+494	
+id	"2257"
+betekenis	"Eten "
+woord	"Tjappen"
+495	
+id	"496"
+betekenis	"Etten-Leur"
+woord	"E-L"
+496	
+id	"147"
+betekenis	"Euro"
+woord	"Beatrix"
+497	
+id	"514"
+betekenis	"Euro"
+woord	"Eurie"
+498	
+id	"697"
+betekenis	"Euro"
+woord	"Gila"
+499	
+id	"1633"
+betekenis	"Euro"
+woord	"Pleuro"
+500	
+id	"889"
+betekenis	"Euro's"
+woord	"Ira"
+501	
+id	"487"
+betekenis	"Even"
+woord	"Effe"
+502	
+id	"561"
+betekenis	"Even"
+woord	"FF"
+503	
+id	"2241"
+betekenis	"Even wachten"
+woord	"Timer"
+504	
+id	"775"
+betekenis	"Extreem"
+woord	"Hardcore"
+505	
+id	"411"
+betekenis	"F*ck you"
+woord	"Diw Lee"
+506	
+id	"913"
+betekenis	"F*ck You"
+woord	"Je zus"
+507	
+id	"914"
+betekenis	"F*ck You"
+woord	"Jebi se"
+508	
+id	"1006"
+betekenis	"F*ck you"
+woord	"Kerem da kuset"
+509	
+id	"2334"
+betekenis	"F*cking"
+woord	"Vaking"
+510	
+id	"868"
+betekenis	"Facebook "
+woord	"Ik check je bekendheid"
+511	
+id	"544"
+betekenis	"Fantasie"
+woord	"Fanta"
+512	
+id	"558"
+betekenis	"Feest"
+woord	"Fesa"
+513	
+id	"571"
+betekenis	"Feest "
+woord	"Fissa"
+514	
+id	"1734"
+betekenis	"Feesten tot"
+woord	"Rais tha"
+515	
+id	"178"
+betekenis	"Fiets "
+woord	"Bika"
+516	
+id	"179"
+betekenis	"Fiets "
+woord	"Bikka"
+517	
+id	"2321"
+betekenis	"Fietsband "
+woord	"Umpielumpie"
+518	
+id	"1030"
+betekenis	"Film"
+woord	"Kino"
+519	
+id	"153"
+betekenis	"Flauw vallen"
+woord	"Begaaien"
+520	
+id	"199"
+betekenis	"Flauwe humor "
+woord	"Boe"
+521	
+id	"1576"
+betekenis	"Foto"
+woord	"Pica"
+522	
+id	"523"
+betekenis	"Friends for life"
+woord	"F4L"
+523	
+id	"609"
+betekenis	"Frietje met mayonaise en pindasaus"
+woord	"FMP"
+524	
+id	"644"
+betekenis	"Fuck the police"
+woord	"FTP"
+525	
+id	"369"
+betekenis	"Fucked up "
+woord	"Damn"
+526	
+id	"556"
+betekenis	"Fucked up "
+woord	"Faya"
+527	
+id	"619"
+betekenis	"Ga weg "
+woord	"Fok op"
+528	
+id	"653"
+betekenis	"Ga weg"
+woord	"Ga das"
+529	
+id	"654"
+betekenis	"Ga weg"
+woord	"Ga loezoe"
+530	
+id	"755"
+betekenis	"Ga weg"
+woord	"Gwanda"
+531	
+id	"402"
+betekenis	"Gaaf"
+woord	"Dik"
+532	
+id	"427"
+betekenis	"Gaaf"
+woord	"Dodelijk"
+533	
+id	"2455"
+betekenis	"Gaaf"
+woord	"Wix"
+534	
+id	"309"
+betekenis	"Gang"
+woord	"Click"
+535	
+id	"2091"
+betekenis	"Gangmaker"
+woord	"Spuiter"
+536	
+id	"2043"
+betekenis	"Gangster"
+woord	"Soldier"
+537	
+id	"2231"
+betekenis	"Gangster"
+woord	"Thug"
+538	
+id	"506"
+betekenis	"Ganster"
+woord	"Epko"
+539	
+id	"694"
+betekenis	"Ganster"
+woord	"Gi"
+540	
+id	"1553"
+betekenis	"Ganster"
+woord	"Peepz"
+541	
+id	"2232"
+betekenis	"Ganster"
+woord	"Thug"
+542	
+id	"2452"
+betekenis	"Ganster"
+woord	"Wiseguy"
+543	
+id	"1626"
+betekenis	"Gas geven"
+woord	"Planken"
+544	
+id	"1446"
+betekenis	"Gat"
+woord	"Ollo"
+545	
+id	"1447"
+betekenis	"Gat"
+woord	"Olloh"
+546	
+id	"527"
+betekenis	"Ge"
+woord	"Facka"
+547	
+id	"994"
+betekenis	"Gebruiker"
+woord	"Kaulo priK"
+548	
+id	"1367"
+betekenis	"Gedag zeggen"
+woord	"Murrie"
+549	
+id	"695"
+betekenis	"Geef een seintje"
+woord	"Gi wan pingi"
+550	
+id	"701"
+betekenis	"Geef me een kusje!"
+woord	"Gimmi bossie"
+551	
+id	"434"
+betekenis	"Geen geld"
+woord	"Doekoeloos"
+552	
+id	"1"
+betekenis	"Geen kracht meer"
+woord	"A batterij zwak"
+553	
+id	"473"
+betekenis	"Geen twijfel"
+woord	"Duidelijk"
+554	
+id	"1414"
+betekenis	"Geen zorgen"
+woord	"No badda"
+555	
+id	"1417"
+betekenis	"Geen zorgen"
+woord	"No spang"
+556	
+id	"676"
+betekenis	"Gefopt"
+woord	"Gejenst"
+557	
+id	"1966"
+betekenis	"Gehandicapte"
+woord	"Skizo"
+558	
+id	"218"
+betekenis	"Gek "
+woord	"Brainwash"
+559	
+id	"382"
+betekenis	"Gek "
+woord	"Debiel"
+560	
+id	"546"
+betekenis	"Gek"
+woord	"Farjat"
+561	
+id	"637"
+betekenis	"Gek"
+woord	"Frog"
+562	
+id	"698"
+betekenis	"Gek"
+woord	"Gila"
+563	
+id	"958"
+betekenis	"Gek"
+woord	"Kaballa"
+564	
+id	"1092"
+betekenis	"Gek "
+woord	"Kranka"
+565	
+id	"1095"
+betekenis	"Gek"
+woord	"Krasie"
+566	
+id	"1096"
+betekenis	"Gek"
+woord	"Kriekoes"
+567	
+id	"1098"
+betekenis	"Gek"
+woord	"Krikoes"
+568	
+id	"1185"
+betekenis	"Gek"
+woord	"Locco"
+569	
+id	"1186"
+betekenis	"Gek"
+woord	"Loco"
+570	
+id	"1195"
+betekenis	"Gek"
+woord	"Loko"
+571	
+id	"1836"
+betekenis	"Gek"
+woord	"Scaffa"
+572	
+id	"2377"
+betekenis	"Gek "
+woord	"Waka"
+573	
+id	"1532"
+betekenis	"Gek maken"
+woord	"Para"
+574	
+id	"596"
+betekenis	"Gek worden"
+woord	"Flippa"
+575	
+id	"597"
+betekenis	"Gek worden"
+woord	"Flippen"
+576	
+id	"228"
+betekenis	"Geld "
+woord	"Buit"
+577	
+id	"408"
+betekenis	"Geld"
+woord	"Dinero"
+578	
+id	"425"
+betekenis	"Geld"
+woord	"Do"
+579	
+id	"431"
+betekenis	"Geld"
+woord	"Doekoe"
+580	
+id	"432"
+betekenis	"Geld "
+woord	"Doekoe"
+581	
+id	"435"
+betekenis	"Geld"
+woord	"Doeks"
+582	
+id	"599"
+betekenis	"Geld "
+woord	"Floes"
+583	
+id	"631"
+betekenis	"Geld "
+woord	"Franco"
+584	
+id	"742"
+betekenis	"Geld"
+woord	"Groentoe"
+585	
+id	"951"
+betekenis	"Geld"
+woord	"Juwelen "
+586	
+id	"1101"
+betekenis	"Geld"
+woord	"Ksaba"
+587	
+id	"1124"
+betekenis	"Geld "
+woord	"Lakoenza"
+588	
+id	"1176"
+betekenis	"Geld"
+woord	"Liquide middelen"
+589	
+id	"1343"
+betekenis	"Geld"
+woord	"Money"
+590	
+id	"1344"
+betekenis	"Geld"
+woord	"Monie"
+591	
+id	"1657"
+betekenis	"Geld"
+woord	"Poetie"
+592	
+id	"1809"
+betekenis	"Geld"
+woord	"Saaf"
+593	
+id	"1877"
+betekenis	"Geld "
+woord	"Scrilla"
+594	
+id	"2318"
+betekenis	"Geld "
+woord	"Uang"
+595	
+id	"968"
+betekenis	"Gelul"
+woord	"Kaka info"
+596	
+id	"348"
+betekenis	"Gemengde cultuur"
+woord	"Cross culture"
+597	
+id	"898"
+betekenis	"Gemixed"
+woord	"Jacked"
+598	
+id	"679"
+betekenis	"Genaaid zijn"
+woord	"Genackt"
+599	
+id	"1716"
+betekenis	"Genept"
+woord	"Punked"
+600	
+id	"1293"
+betekenis	"Geod"
+woord	"Mezian"
+601	
+id	"688"
+betekenis	"Gepakt"
+woord	"Gesniperd"
+602	
+id	"2521"
+betekenis	"Gepakt"
+woord	"Zuur"
+603	
+id	"1516"
+betekenis	"Gepoord"
+woord	"Pana"
+604	
+id	"254"
+betekenis	"Geroosterd varkensvlees bereid met rode saus"
+woord	"Char-sieuw"
+605	
+id	"1897"
+betekenis	"Gestoorde Afro"
+woord	"Shoco loco"
+606	
+id	"1227"
+betekenis	"Gevaarlijk"
+woord	"Maffia"
+607	
+id	"1326"
+betekenis	"Gevaarlijk"
+woord	"Moekoe"
+608	
+id	"1173"
+betekenis	"Gevaarlijk persoon"
+woord	"Linkmiegel"
+609	
+id	"103"
+betekenis	"Gevangenis"
+woord	"Bajes"
+610	
+id	"922"
+betekenis	"Gevangenis "
+woord	"Jilla"
+611	
+id	"2219"
+betekenis	"Gevangenis "
+woord	"Teringcel"
+612	
+id	"135"
+betekenis	"Gevecht"
+woord	"Batlle"
+613	
+id	"1735"
+betekenis	"Gevecht"
+woord	"Rampa"
+614	
+id	"1493"
+betekenis	"Geven"
+woord	"Paas"
+615	
+id	"303"
+betekenis	"Gevouwen jurk"
+woord	"Ckotto"
+616	
+id	"192"
+betekenis	"Geweer"
+woord	"Blaster"
+617	
+id	"381"
+betekenis	"Geweldig"
+woord	"De puta madre"
+618	
+id	"786"
+betekenis	"Geweldig"
+woord	"Hebimento"
+619	
+id	"787"
+betekenis	"Geweldig"
+woord	"Hebimento"
+620	
+id	"1001"
+betekenis	"Geweldig "
+woord	"Keihard"
+621	
+id	"981"
+betekenis	"Gezellig"
+woord	"Kapu"
+622	
+id	"570"
+betekenis	"Gezicht"
+woord	"Fisi"
+623	
+id	"737"
+betekenis	"Gezicht"
+woord	"Grill"
+624	
+id	"543"
+betekenis	"Gezin"
+woord	"Famiri"
+625	
+id	"2165"
+betekenis	"Gezwel"
+woord	"Swella"
+626	
+id	"1114"
+betekenis	"Ghanees"
+woord	"Kwasia"
+627	
+id	"736"
+betekenis	"Gierig"
+woord	"Griedie"
+628	
+id	"1073"
+betekenis	"Gierig persoon "
+woord	"Koenis"
+629	
+id	"2362"
+betekenis	"Gierig persoon "
+woord	"Vras"
+630	
+id	"1025"
+betekenis	"Glas alcohol in "
+woord	"killen"
+631	
+id	"17"
+betekenis	"Goed"
+woord	"Aan"
+632	
+id	"38"
+betekenis	"Goed "
+woord	"Aightz"
+633	
+id	"102"
+betekenis	"Goed "
+woord	"Baik"
+634	
+id	"123"
+betekenis	"Goed "
+woord	"Baniz"
+635	
+id	"132"
+betekenis	"Goed"
+woord	"Basis"
+636	
+id	"151"
+betekenis	"Goed "
+woord	"Beest"
+637	
+id	"206"
+betekenis	"Goed "
+woord	"Boeng"
+638	
+id	"207"
+betekenis	"Goed "
+woord	"Boeng"
+639	
+id	"209"
+betekenis	"Goed"
+woord	"Bon"
+640	
+id	"232"
+betekenis	"Goed"
+woord	"caffa"
+641	
+id	"306"
+betekenis	"Goed"
+woord	"Classic"
+642	
+id	"1149"
+betekenis	"Goed"
+woord	"Leet"
+643	
+id	"1153"
+betekenis	"Goed"
+woord	"Leipe Shit"
+644	
+id	"1283"
+betekenis	"Goed"
+woord	"Meck"
+645	
+id	"1309"
+betekenis	"Goed"
+woord	"Mieters"
+646	
+id	"1508"
+betekenis	"Goed"
+woord	"Paletti"
+647	
+id	"1801"
+betekenis	"Goed"
+woord	"Rustig"
+648	
+id	"1802"
+betekenis	"Goed"
+woord	"Rustik"
+649	
+id	"2129"
+betekenis	"Goed"
+woord	"Strak"
+650	
+id	"2507"
+betekenis	"Goed"
+woord	"Ziek"
+651	
+id	"455"
+betekenis	"Goed spul"
+woord	"Dope shit"
+652	
+id	"1032"
+betekenis	"Goed voor je"
+woord	"Kisengmooi"
+653	
+id	"1398"
+betekenis	"Goed zo"
+woord	"Netjes"
+654	
+id	"197"
+betekenis	"Goede plaat"
+woord	"Bo slecta"
+655	
+id	"2337"
+betekenis	"Goede vriend"
+woord	"Vato"
+656	
+id	"211"
+betekenis	"Gooien"
+woord	"Bonken"
+657	
+id	"251"
+betekenis	"Gozer"
+woord	"Chap(-pie)"
+658	
+id	"470"
+betekenis	"Gozer"
+woord	"Dude"
+659	
+id	"528"
+betekenis	"Gozer"
+woord	"Faffi"
+660	
+id	"651"
+betekenis	"Gozer"
+woord	"Fur"
+661	
+id	"1020"
+betekenis	"Gozer"
+woord	"Kill"
+662	
+id	"1066"
+betekenis	"Gozer "
+woord	"Knuiter"
+663	
+id	"1067"
+betekenis	"Gozer "
+woord	"Knul"
+664	
+id	"1352"
+betekenis	"Gozer"
+woord	"Moruk"
+665	
+id	"1353"
+betekenis	"Gozer"
+woord	"Mos"
+666	
+id	"1530"
+betekenis	"Gozer"
+woord	"PaPPie"
+667	
+id	"1541"
+betekenis	"Gozer"
+woord	"Patje"
+668	
+id	"1927"
+betekenis	"Gozer"
+woord	"Sjappie"
+669	
+id	"2156"
+betekenis	"Gozer "
+woord	"Swa"
+670	
+id	"2391"
+betekenis	"Gozer"
+woord	"Wanne"
+671	
+id	"726"
+betekenis	"Graffiti"
+woord	"Graff"
+672	
+id	"1579"
+betekenis	"Graffiti"
+woord	"Piece"
+673	
+id	"2346"
+betekenis	"Graffiti"
+woord	"Verven"
+674	
+id	"1856"
+betekenis	"Graffiti artiest"
+woord	"Schrijver"
+675	
+id	"2077"
+betekenis	"Graffiti spuiten"
+woord	"Spietie"
+676	
+id	"727"
+betekenis	"Graffiti spuiter"
+woord	"Graffer"
+677	
+id	"699"
+betekenis	"Grandmother I like to f*ck"
+woord	"GILF"
+678	
+id	"550"
+betekenis	"Grapje "
+woord	"Fatoe"
+679	
+id	"553"
+betekenis	"Grapje "
+woord	"Fattoe"
+680	
+id	"929"
+betekenis	"Grapje "
+woord	"Joka"
+681	
+id	"930"
+betekenis	"Grapje "
+woord	"Joke"
+682	
+id	"931"
+betekenis	"Grapje "
+woord	"jokko"
+683	
+id	"245"
+betekenis	"Grappig"
+woord	"Chadding"
+684	
+id	"1143"
+betekenis	"Grappig"
+woord	"Lawl"
+685	
+id	"583"
+betekenis	"Grappig persoon"
+woord	"Flappie"
+686	
+id	"552"
+betekenis	"Grappige man"
+woord	"Fatoeman"
+687	
+id	"633"
+betekenis	"Griezelig"
+woord	"Freaky"
+688	
+id	"2366"
+betekenis	"Groe gansters"
+woord	"V-unit"
+689	
+id	"305"
+betekenis	"Groep vrienden"
+woord	"Clan"
+690	
+id	"310"
+betekenis	"Groep vrienden"
+woord	"Click"
+691	
+id	"311"
+betekenis	"Groep vrienden"
+woord	"CliCkah"
+692	
+id	"314"
+betekenis	"Groep vrienden"
+woord	"Cliq"
+693	
+id	"751"
+betekenis	"Groningen"
+woord	"G-town"
+694	
+id	"745"
+betekenis	"Groningen"
+woord	"Gronchi"
+695	
+id	"746"
+betekenis	"Groningen"
+woord	"Grontjie"
+696	
+id	"98"
+betekenis	"Groot"
+woord	"Baga"
+697	
+id	"170"
+betekenis	"Groot"
+woord	"Big"
+698	
+id	"172"
+betekenis	"Groot"
+woord	"Big time"
+699	
+id	"696"
+betekenis	"Groot"
+woord	"Giant"
+700	
+id	"304"
+betekenis	"Groot en lelijk"
+woord	"CL"
+701	
+id	"173"
+betekenis	"Grote billen"
+woord	"Biggisanka"
+702	
+id	"41"
+betekenis	"Grote borsten"
+woord	"Air bags"
+703	
+id	"171"
+betekenis	"Grote borsten"
+woord	"Big Patatoes"
+704	
+id	"481"
+betekenis	"Gruwelijk"
+woord	"Dyna"
+705	
+id	"9"
+betekenis	"H"
+woord	"A mos"
+706	
+id	"516"
+betekenis	"H"
+woord	"Ewa"
+707	
+id	"519"
+betekenis	"H"
+woord	"Ey man"
+708	
+id	"2488"
+betekenis	"H"
+woord	"Yo tjappie"
+709	
+id	"2433"
+betekenis	"Haar"
+woord	"Wie"
+710	
+id	"2440"
+betekenis	"Haar"
+woord	"Wier"
+711	
+id	"2441"
+betekenis	"Haar"
+woord	"Wieri"
+712	
+id	"1647"
+betekenis	"Haar vagina"
+woord	"Poentawierie"
+713	
+id	"2475"
+betekenis	"Haarelastiek"
+woord	"Wussel"
+714	
+id	"31"
+betekenis	"Haarstijl"
+woord	"Afro"
+715	
+id	"29"
+betekenis	"Half"
+woord	"Afoe"
+716	
+id	"494"
+betekenis	"Hallo"
+woord	"Ej manin"
+717	
+id	"518"
+betekenis	"Hallo"
+woord	"Ey"
+718	
+id	"763"
+betekenis	"Hallo "
+woord	"Hadihoi"
+719	
+id	"764"
+betekenis	"Hallo "
+woord	"Hadihoi"
+720	
+id	"1334"
+betekenis	"Hallo"
+woord	"Moi"
+721	
+id	"1407"
+betekenis	"Hallo"
+woord	"Nihauw"
+722	
+id	"1820"
+betekenis	"Hallo "
+woord	"Salaam"
+723	
+id	"1886"
+betekenis	"Hallo"
+woord	"Shalom"
+724	
+id	"2230"
+betekenis	"Hallo "
+woord	"Thuaka"
+725	
+id	"63"
+betekenis	"Hand"
+woord	"Anoe"
+726	
+id	"208"
+betekenis	"Hand geven"
+woord	"Boks"
+727	
+id	"768"
+betekenis	"Handschoenen"
+woord	"Handpatta's"
+728	
+id	"560"
+betekenis	"Hangen "
+woord	"Feune"
+729	
+id	"2194"
+betekenis	"Hard "
+woord	"Tantoe"
+730	
+id	"418"
+betekenis	"Hard drugs"
+woord	"djebboes"
+731	
+id	"201"
+betekenis	"Hard rijden "
+woord	"Boeken"
+732	
+id	"25"
+betekenis	"Hasj"
+woord	"Adidas"
+733	
+id	"57"
+betekenis	"Hasj"
+woord	"Ampoe"
+734	
+id	"76"
+betekenis	"Hasj"
+woord	"Asie"
+735	
+id	"80"
+betekenis	"Hasj"
+woord	"Assens"
+736	
+id	"107"
+betekenis	"Hasj"
+woord	"Bakkeluloe"
+737	
+id	"141"
+betekenis	"Hasj"
+woord	"Bazz"
+738	
+id	"260"
+betekenis	"Hasj"
+woord	"Cheiba"
+739	
+id	"299"
+betekenis	"Hasj"
+woord	"Chronic"
+740	
+id	"663"
+betekenis	"Hasj"
+woord	"Ganja"
+741	
+id	"732"
+betekenis	"Hasj"
+woord	"Gras"
+742	
+id	"781"
+betekenis	"Hasj"
+woord	"Hashiesh"
+743	
+id	"782"
+betekenis	"Hasj"
+woord	"Hassie"
+744	
+id	"818"
+betekenis	"Hasj"
+woord	"Hollandse Groente"
+745	
+id	"894"
+betekenis	"Hasj"
+woord	"J"
+746	
+id	"989"
+betekenis	"Hasj"
+woord	"Kassis"
+747	
+id	"996"
+betekenis	"Hasj"
+woord	"Kaya"
+748	
+id	"1258"
+betekenis	"Hasj"
+woord	"Mary jane"
+749	
+id	"1291"
+betekenis	"Hasj"
+woord	"Method"
+750	
+id	"1354"
+betekenis	"Hasj"
+woord	"Mota"
+751	
+id	"1356"
+betekenis	"Hasj"
+woord	"Motta"
+752	
+id	"1522"
+betekenis	"Hasj"
+woord	"Panne"
+753	
+id	"1617"
+betekenis	"Hasj"
+woord	"Pitt"
+754	
+id	"1892"
+betekenis	"Hasj"
+woord	"Shizzl"
+755	
+id	"1893"
+betekenis	"Hasj"
+woord	"Shizzle"
+756	
+id	"1979"
+betekenis	"Hasj"
+woord	"Skunk"
+757	
+id	"2251"
+betekenis	"Hasj"
+woord	"Tjaiba"
+758	
+id	"2437"
+betekenis	"Hasj"
+woord	"Wiedie"
+759	
+id	"2442"
+betekenis	"Hasj"
+woord	"Wierrie"
+760	
+id	"2443"
+betekenis	"Hasj"
+woord	"Wiet"
+761	
+id	"2451"
+betekenis	"Hasj"
+woord	"Wiri"
+762	
+id	"915"
+betekenis	"Heel erg"
+woord	"Jeckols"
+763	
+id	"1246"
+betekenis	"Heel erg"
+woord	"Manne"
+764	
+id	"1458"
+betekenis	"Heel erg "
+woord	"Onmin"
+765	
+id	"2195"
+betekenis	"Heel erg "
+woord	"Tantoe"
+766	
+id	"508"
+betekenis	"Heel erg dronken worden"
+woord	"Escaleren"
+767	
+id	"2196"
+betekenis	"Heel erg spanned"
+woord	"Tantoe spang"
+768	
+id	"2197"
+betekenis	"Heel erg spanned"
+woord	"Tantu Spang"
+769	
+id	"840"
+betekenis	"Heemskerk"
+woord	"HSK"
+770	
+id	"841"
+betekenis	"Heemstede"
+woord	"H-ste"
+771	
+id	"783"
+betekenis	"Heerenveen"
+woord	"H-city"
+772	
+id	"800"
+betekenis	"Heerhugowaard"
+woord	"HHW"
+773	
+id	"809"
+betekenis	"Heiloo"
+woord	"H-low"
+774	
+id	"992"
+betekenis	"Heineken bier"
+woord	"Kattepis"
+775	
+id	"351"
+betekenis	"Helder"
+woord	"Crystal Clear"
+776	
+id	"2314"
+betekenis	"Helemaal"
+woord	"Tur tur den dash"
+777	
+id	"405"
+betekenis	"Helemaal goed"
+woord	"Dikke chill"
+778	
+id	"1223"
+betekenis	"Helemaal maf"
+woord	"Maddish"
+779	
+id	"321"
+betekenis	"Herhaling"
+woord	"Come again"
+780	
+id	"225"
+betekenis	"Hero"
+woord	"Broenoe"
+781	
+id	"2453"
+betekenis	"Hero"
+woord	"Wit"
+782	
+id	"2454"
+betekenis	"Hero"
+woord	"Wittie"
+783	
+id	"1284"
+betekenis	"Het beste"
+woord	"Meesterlijk"
+784	
+id	"360"
+betekenis	"Het einde"
+woord	"Da bomb"
+785	
+id	"1295"
+betekenis	"Het gaat"
+woord	"Mi de"
+786	
+id	"797"
+betekenis	"Het gaat goed"
+woord	"Het klapt"
+787	
+id	"2036"
+betekenis	"Het gaat goed"
+woord	"Soepel"
+788	
+id	"2385"
+betekenis	"Het gaat goed"
+woord	"Wandel"
+789	
+id	"1834"
+betekenis	"Het is een Indo"
+woord	"Saya Cinta Padamu"
+790	
+id	"901"
+betekenis	"Het zal wel"
+woord	"Jah lauw mang"
+791	
+id	"1160"
+betekenis	"Hetzelfde"
+woord	"Leps"
+792	
+id	"7"
+betekenis	"Hij is goed"
+woord	"A mang echt"
+793	
+id	"1528"
+betekenis	"Hij/zij is niks waard"
+woord	"Papfles"
+794	
+id	"802"
+betekenis	"Hilversum"
+woord	"Hilly"
+795	
+id	"803"
+betekenis	"Hilversum"
+woord	"HillyWood"
+796	
+id	"1790"
+betekenis	"Hindoestaans, Surimaams gerecht"
+woord	"Roti"
+797	
+id	"119"
+betekenis	"Hip, modern"
+woord	"Bananas"
+798	
+id	"68"
+betekenis	"Hoe gaat het? "
+woord	"Apa kabar?"
+799	
+id	"323"
+betekenis	"Hoe gaat het? "
+woord	"Como esta?"
+800	
+id	"332"
+betekenis	"Hoe gaat het? "
+woord	"Conta"
+801	
+id	"524"
+betekenis	"Hoe gaat het? "
+woord	"Fa"
+802	
+id	"526"
+betekenis	"Hoe gaat het? "
+woord	"Fa"
+803	
+id	"525"
+betekenis	"Hoe gaat het? "
+woord	"Fa waka"
+804	
+id	"540"
+betekenis	"Hoe gaat het? "
+woord	"Fakka"
+805	
+id	"554"
+betekenis	"Hoe gaat het? "
+woord	"Favie"
+806	
+id	"837"
+betekenis	"Hoe gaat het? "
+woord	"How"
+807	
+id	"838"
+betekenis	"Hoe gaat het? "
+woord	"How"
+808	
+id	"965"
+betekenis	"Hoe gaat het? "
+woord	"Kaise"
+809	
+id	"1012"
+betekenis	"Hoe gaat het?"
+woord	"Kieder"
+810	
+id	"1013"
+betekenis	"Hoe gaat het?"
+woord	"Kiefesh"
+811	
+id	"1816"
+betekenis	"Hoe gaat het? "
+woord	"Saisa"
+812	
+id	"2154"
+betekenis	"Hoe gaat het? "
+woord	"Sup"
+813	
+id	"2201"
+betekenis	"Hoe gaat het? "
+woord	"Tapimofo"
+814	
+id	"2427"
+betekenis	"Hoe gaat het? "
+woord	"Whazzza"
+815	
+id	"2461"
+betekenis	"Hoe gaat het? "
+woord	"Woekiki"
+816	
+id	"2468"
+betekenis	"Hoe gaat het? "
+woord	"Word up"
+817	
+id	"2399"
+betekenis	"Hoe laat is het?"
+woord	"Wat is de leeftijd?"
+818	
+id	"126"
+betekenis	"Hoi "
+woord	"Barew"
+819	
+id	"517"
+betekenis	"Hoi "
+woord	"Ewa"
+820	
+id	"923"
+betekenis	"Hoi "
+woord	"Jo"
+821	
+id	"2426"
+betekenis	"Hoi "
+woord	"Whattup"
+822	
+id	"2486"
+betekenis	"Hoi "
+woord	"Yo"
+823	
+id	"815"
+betekenis	"Holten"
+woord	"Hole-10"
+824	
+id	"45"
+betekenis	"Homo"
+woord	"Alfa"
+825	
+id	"140"
+betekenis	"Homo"
+woord	"Battie boy"
+826	
+id	"205"
+betekenis	"Homo"
+woord	"Boeler"
+827	
+id	"271"
+betekenis	"Homo"
+woord	"chiemboy"
+828	
+id	"291"
+betekenis	"Homo"
+woord	"Choco"
+829	
+id	"499"
+betekenis	"Homo"
+woord	"Elmo"
+830	
+id	"530"
+betekenis	"Homo"
+woord	"Faggit"
+831	
+id	"595"
+betekenis	"Homo"
+woord	"Flick"
+832	
+id	"673"
+betekenis	"Homo"
+woord	"Gay"
+833	
+id	"709"
+betekenis	"Homo"
+woord	"Gitje"
+834	
+id	"716"
+betekenis	"Homo"
+woord	"Gomik"
+835	
+id	"720"
+betekenis	"Homo"
+woord	"Gordon"
+836	
+id	"857"
+betekenis	"Homo"
+woord	"Ibne"
+837	
+id	"902"
+betekenis	"Homo"
+woord	"Jamal"
+838	
+id	"1040"
+betekenis	"Homo"
+woord	"Kleibeuker"
+839	
+id	"1072"
+betekenis	"Homo"
+woord	"Koeni"
+840	
+id	"1082"
+betekenis	"Homo"
+woord	"Kontvriend"
+841	
+id	"1249"
+betekenis	"Homo"
+woord	"Maric"
+842	
+id	"1251"
+betekenis	"Homo"
+woord	"Marikoe"
+843	
+id	"1252"
+betekenis	"Homo"
+woord	"Mariku"
+844	
+id	"1385"
+betekenis	"Homo"
+woord	"Napl"
+845	
+id	"1551"
+betekenis	"Homo"
+woord	"Peder"
+846	
+id	"1558"
+betekenis	"Homo"
+woord	"Pendew"
+847	
+id	"1675"
+betekenis	"Homo"
+woord	"Poot"
+848	
+id	"1720"
+betekenis	"Homo"
+woord	"Pustie"
+849	
+id	"1796"
+betekenis	"Homo"
+woord	"Ruigpoot"
+850	
+id	"1811"
+betekenis	"Homo"
+woord	"Sachbin"
+851	
+id	"2501"
+betekenis	"Homo"
+woord	"Zebby"
+852	
+id	"2502"
+betekenis	"Homo"
+woord	"Zehmer"
+853	
+id	"2506"
+betekenis	"Homo"
+woord	"Zibi"
+854	
+id	"502"
+betekenis	"Homo-paar"
+woord	"Emmeloco"
+855	
+id	"1318"
+betekenis	"Homo-paar"
+woord	"M-L"
+856	
+id	"363"
+betekenis	"Hond"
+woord	"Daggoe"
+857	
+id	"364"
+betekenis	"Hond "
+woord	"Dagoe"
+858	
+id	"618"
+betekenis	"Hond"
+woord	"Fogga"
+859	
+id	"1109"
+betekenis	"Hond"
+woord	"Kuta"
+860	
+id	"484"
+betekenis	"Hoofd"
+woord	"Ebbe"
+861	
+id	"485"
+betekenis	"Hoofd"
+woord	"Ebbeh"
+862	
+id	"861"
+betekenis	"Hoofd"
+woord	"Idder"
+863	
+id	"862"
+betekenis	"Hoofd"
+woord	"Idi"
+864	
+id	"892"
+betekenis	"Hoofd"
+woord	"Its"
+865	
+id	"1056"
+betekenis	"Hoofd"
+woord	"Knar"
+866	
+id	"842"
+betekenis	"Hoofddorp"
+woord	"H-Town"
+867	
+id	"839"
+betekenis	"Hoogezand"
+woord	"H'santi"
+868	
+id	"784"
+betekenis	"Hoogezand"
+woord	"He santi"
+869	
+id	"785"
+betekenis	"Hoogezand"
+woord	"He santi"
+870	
+id	"795"
+betekenis	"Hoogezand"
+woord	"Hesanti"
+871	
+id	"799"
+betekenis	"Hoogezand"
+woord	"HGZ"
+872	
+id	"1770"
+betekenis	"Hoorn"
+woord	"Rizzy"
+873	
+id	"845"
+betekenis	"Hosselen"
+woord	"Husselen"
+874	
+id	"2135"
+betekenis	"Hosselen"
+woord	"Stroggelen"
+875	
+id	"846"
+betekenis	"Hou van jou"
+woord	"HVJ"
+876	
+id	"808"
+betekenis	"Houd je bek"
+woord	"HJB"
+877	
+id	"2"
+betekenis	"Houd je mond"
+woord	"A blub ya"
+878	
+id	"233"
+betekenis	"Houd je mond"
+woord	"Cala boca"
+879	
+id	"1817"
+betekenis	"Houd je mond"
+woord	"Saja luku"
+880	
+id	"1894"
+betekenis	"Houd je mond"
+woord	"Shjattafakkap"
+881	
+id	"2173"
+betekenis	"Houd je mond"
+woord	"Ta pie mov"
+882	
+id	"2174"
+betekenis	"Houd je mond"
+woord	"Ta pie movoe"
+883	
+id	"2175"
+betekenis	"Houd je mond"
+woord	"Tab je lip"
+884	
+id	"2198"
+betekenis	"Houd je mond"
+woord	"Tap je smoel"
+885	
+id	"905"
+betekenis	"Huilen "
+woord	"Janken"
+886	
+id	"229"
+betekenis	"Huis"
+woord	"C"
+887	
+id	"237"
+betekenis	"Huis"
+woord	"Casa"
+888	
+id	"347"
+betekenis	"Huis"
+woord	"Crib"
+889	
+id	"1214"
+betekenis	"Huis "
+woord	"Ma crib"
+890	
+id	"1474"
+betekenis	"Huis "
+woord	"Oso"
+891	
+id	"1476"
+betekenis	"Huis "
+woord	"Ossel"
+892	
+id	"1477"
+betekenis	"Huis "
+woord	"Osso"
+893	
+id	"1512"
+betekenis	"Huis"
+woord	"Pallace"
+894	
+id	"847"
+betekenis	"Huiswerk"
+woord	"HW"
+895	
+id	"848"
+betekenis	"Huizen"
+woord	"HZN"
+896	
+id	"1069"
+betekenis	"Hulpje"
+woord	"Koeli"
+897	
+id	"1070"
+betekenis	"Hulpje"
+woord	"Koelie"
+898	
+id	"1071"
+betekenis	"Hulpje"
+woord	"Koellie"
+899	
+id	"886"
+betekenis	"Ideale orale bevredigings hoogte"
+woord	"IPH"
+900	
+id	"1152"
+betekenis	"Idioot"
+woord	"Leipe frea"
+901	
+id	"142"
+betekenis	"Iemand die beatboxt"
+woord	"Bboxer"
+902	
+id	"1156"
+betekenis	"Iemand die interessant loopt te doen"
+woord	"Lekker doen"
+903	
+id	"587"
+betekenis	"Iemand die mensen voor de gek houdt"
+woord	"Flasher"
+904	
+id	"1700"
+betekenis	"Iemand die onzin vertelt"
+woord	"Priet prater"
+905	
+id	"2073"
+betekenis	"Iemand die spreekt met consumptie"
+woord	"Spetterbek"
+906	
+id	"1150"
+betekenis	"Iemand die veel weet en uitlegt"
+woord	"Legualeza"
+907	
+id	"1174"
+betekenis	"Iemand met een hazenlip"
+woord	"Lip"
+908	
+id	"509"
+betekenis	"Iemand met een jas met een bontkraag"
+woord	"Eskimo"
+909	
+id	"148"
+betekenis	"Iemand met een opvallend brede mond"
+woord	"Beckenbauer"
+910	
+id	"2271"
+betekenis	"Iemand met opvallend grote ogen"
+woord	"Todo-ai"
+911	
+id	"739"
+betekenis	"Iemand met veel puistjes"
+woord	"Grinttegelkop"
+912	
+id	"226"
+betekenis	"Iemand standje geven"
+woord	"Brokken"
+913	
+id	"1386"
+betekenis	"Iemand vervelen"
+woord	"Narren"
+914	
+id	"1694"
+betekenis	"Iemand zonder vrienden"
+woord	"Prasnji"
+915	
+id	"401"
+betekenis	"Iets goed vinden"
+woord	"diggen"
+916	
+id	"895"
+betekenis	"Iets groots"
+woord	"Jaap"
+917	
+id	"1652"
+betekenis	"Iets wat niet leuk is"
+woord	"Poepzuur"
+918	
+id	"346"
+betekenis	"IJsje "
+woord	"Cr"
+919	
+id	"495"
+betekenis	"Ik"
+woord	"Ek"
+920	
+id	"361"
+betekenis	"Ik ben rijk"
+woord	"Da don"
+921	
+id	"1307"
+betekenis	"Ik ga naar huis"
+woord	"Mi ta bai kas"
+922	
+id	"870"
+betekenis	"Ik ga weg "
+woord	"Ik ga loesoe"
+923	
+id	"59"
+betekenis	"Ik hou van je"
+woord	"Ana habbek"
+924	
+id	"873"
+betekenis	"Ik hou van je"
+woord	"Iku cinta padamu"
+925	
+id	"971"
+betekenis	"Ik hou van je"
+woord	"Kamaftoe"
+926	
+id	"1120"
+betekenis	"Ik hou van je"
+woord	"Laf ya"
+927	
+id	"1299"
+betekenis	"Ik hou van je"
+woord	"Mi lob you"
+928	
+id	"1300"
+betekenis	"Ik hou van je"
+woord	"Mi Lobi joe"
+929	
+id	"1301"
+betekenis	"Ik hou van je"
+woord	"Mi Lobi You"
+930	
+id	"1302"
+betekenis	"Ik hou van je"
+woord	"Mi lobie you"
+931	
+id	"1502"
+betekenis	"Ik hou van je"
+woord	"Paka mii toet"
+932	
+id	"1880"
+betekenis	"Ik hou van je"
+woord	"Seni seviyorum"
+933	
+id	"1841"
+betekenis	"Ik n*k je"
+woord	"Scarrem"
+934	
+id	"1881"
+betekenis	"Ik n*k je"
+woord	"Seni sikerim"
+935	
+id	"1912"
+betekenis	"Ik n*k je"
+woord	"Sikerim"
+936	
+id	"62"
+betekenis	"Ik n*k je moeder"
+woord	"Annani Sikyim"
+937	
+id	"871"
+betekenis	"Ik n*k je moeder"
+woord	"Ik poepamoeder"
+938	
+id	"1320"
+betekenis	"Ik sla je in elkaar"
+woord	"Mo Prietie"
+939	
+id	"1296"
+betekenis	"Ik voel je"
+woord	"Mi firi"
+940	
+id	"1304"
+betekenis	"Ik weet"
+woord	"Mi sabi"
+941	
+id	"60"
+betekenis	"Ik wil je schatje"
+woord	"Anaa tuihacht habibi"
+942	
+id	"1303"
+betekenis	"Ik zou het niet weten"
+woord	"Mi no sabi"
+943	
+id	"2382"
+betekenis	"Ik zweer"
+woord	"Walla"
+944	
+id	"2384"
+betekenis	"Ik zweer"
+woord	"Wallah"
+945	
+id	"2428"
+betekenis	"Ik zweer"
+woord	"Whola"
+946	
+id	"2465"
+betekenis	"Ik zweer"
+woord	"Wollah"
+947	
+id	"880"
+betekenis	"In de beginfase van een relatie zijn"
+woord	"In de flow zijn"
+948	
+id	"1256"
+betekenis	"In de bips"
+woord	"Mars"
+949	
+id	"581"
+betekenis	"In de gaten houden"
+woord	"Flaka a tori"
+950	
+id	"2025"
+betekenis	"In de gaten houden"
+woord	"Sniperen"
+951	
+id	"586"
+betekenis	"In de maling nemen"
+woord	"Flashen"
+952	
+id	"1728"
+betekenis	"In de pan gehakt"
+woord	"Pwnd!"
+953	
+id	"1729"
+betekenis	"In de pan hakken"
+woord	"Pwnen"
+954	
+id	"863"
+betekenis	"In De War"
+woord	"IDW"
+955	
+id	"1011"
+betekenis	"In elkaar slaan"
+woord	"KicKen"
+956	
+id	"2356"
+betekenis	"In elkaar slaan"
+woord	"Vloeren"
+957	
+id	"1468"
+betekenis	"In orde"
+woord	"Ordes"
+958	
+id	"881"
+betekenis	"Indo"
+woord	"Indo"
+959	
+id	"1599"
+betekenis	"Indo"
+woord	"Pinda"
+960	
+id	"678"
+betekenis	"Ingepakt"
+woord	"Genaaid"
+961	
+id	"1851"
+betekenis	"Intelligent"
+woord	"Scherp"
+962	
+id	"1567"
+betekenis	"Iranees"
+woord	"Perzian"
+963	
+id	"2355"
+betekenis	"Irritant"
+woord	"Vlieg"
+964	
+id	"1875"
+betekenis	"Irritant persoon"
+woord	"scrale toekan"
+965	
+id	"2105"
+betekenis	"Irriteren"
+woord	"Starken"
+966	
+id	"3"
+betekenis	"Is goed"
+woord	"A boeng"
+967	
+id	"891"
+betekenis	"Italiaan"
+woord	"Italo"
+968	
+id	"2053"
+betekenis	"Italiaan"
+woord	"Spaghettivreter"
+969	
+id	"258"
+betekenis	"Ja"
+woord	"check"
+970	
+id	"919"
+betekenis	"Ja"
+woord	"Jep"
+971	
+id	"928"
+betekenis	"Ja"
+woord	"Joi"
+972	
+id	"1878"
+betekenis	"Ja"
+woord	"Se"
+973	
+id	"2503"
+betekenis	"Ja"
+woord	"Zekerzzz"
+974	
+id	"2520"
+betekenis	"Ja"
+woord	"Zuiver"
+975	
+id	"920"
+betekenis	"Ja, hij is gek"
+woord	"Jhazhimzhim"
+976	
+id	"1879"
+betekenis	"Ja, vriend"
+woord	"Se swa"
+977	
+id	"1600"
+betekenis	"Jammer"
+woord	"Pindakaas"
+978	
+id	"897"
+betekenis	"Jas"
+woord	"Jacka"
+979	
+id	"1928"
+betekenis	"Jawel"
+woord	"Sjawel"
+980	
+id	"2172"
+betekenis	"Je bent een kind van een prostituee"
+woord	"Ta bon diamec"
+981	
+id	"2000"
+betekenis	"Je bent erg"
+woord	"Smocho"
+982	
+id	"1908"
+betekenis	"Je bent gek"
+woord	"Sickie"
+983	
+id	"2484"
+betekenis	"Je bent gevaarlijk bezig"
+woord	"Ye kot vonk"
+984	
+id	"19"
+betekenis	"Je bent mijn schatje"
+woord	"Aan ta habibi"
+985	
+id	"865"
+betekenis	"Je bent waardeloos"
+woord	"Ie weinig"
+986	
+id	"804"
+betekenis	"Je moeder"
+woord	"Himesh"
+987	
+id	"910"
+betekenis	"Je moeder"
+woord	"Je moer"
+988	
+id	"917"
+betekenis	"Je moeder"
+woord	"Jemek"
+989	
+id	"1172"
+betekenis	"Je moeder"
+woord	"Limi hodi"
+990	
+id	"1239"
+betekenis	"Je moeder"
+woord	"Mamak"
+991	
+id	"1336"
+betekenis	"Je moeder"
+woord	"Mok"
+992	
+id	"1722"
+betekenis	"Je moeder is een prostituee"
+woord	"Puta madre"
+993	
+id	"1723"
+betekenis	"Je moeder is een prostituee"
+woord	"Puta madri"
+994	
+id	"1213"
+betekenis	"Je moeder sukkel"
+woord	"Ma coolo ma pampa"
+995	
+id	"1215"
+betekenis	"Je moeders vagina"
+woord	"Ma pampa"
+996	
+id	"1247"
+betekenis	"Je moeders vagina"
+woord	"MaPangPang"
+997	
+id	"1359"
+betekenis	"Je moeders vagina"
+woord	"Mpampa"
+998	
+id	"2179"
+betekenis	"Je moeders vagina"
+woord	"Tabon dimac"
+999	
+id	"2180"
+betekenis	"Je moeders vagina"
+woord	"Tabond jemek"
+1000	
+id	"2492"
+betekenis	"Je moeders vagina "
+woord	"Youma pang pang"
+1001	
+id	"1257"
+betekenis	"Je raar gedragen"
+woord	"Martijnen"
+1002	
+id	"2234"
+betekenis	"Je stinkt"
+woord	"Ti smerdsjich"
+1003	
+id	"2242"
+betekenis	"Je stinkt uit je mond"
+woord	"Tini Mofo"
+1004	
+id	"1273"
+betekenis	"Je vrienden in de steek laten"
+woord	"Mattennakker"
+1005	
+id	"85"
+betekenis	"Je weet toch"
+woord	"Aytogg"
+1006	
+id	"850"
+betekenis	"Je weet toch"
+woord	"I sabhi toh"
+1007	
+id	"851"
+betekenis	"Je weet toch"
+woord	"I sabi"
+1008	
+id	"911"
+betekenis	"Je weet toch"
+woord	"Je weet toch"
+1009	
+id	"912"
+betekenis	"Je weet toch"
+woord	"Je weet Zeluf"
+1010	
+id	"952"
+betekenis	"Je Weet Toch"
+woord	"JWT"
+1011	
+id	"1305"
+betekenis	"Je weet toch"
+woord	"Mi Stima Bo Hopi Dushi"
+1012	
+id	"1306"
+betekenis	"Je weet toch"
+woord	"Mi stiMabu"
+1013	
+id	"1808"
+betekenis	"Je weet toch"
+woord	"Sa kaba"
+1014	
+id	"882"
+betekenis	"Jij bent mijn leven"
+woord	"Inta hayati"
+1015	
+id	"924"
+betekenis	"Joegoslaaf"
+woord	"Joego"
+1016	
+id	"2493"
+betekenis	"Joegoslaaf"
+woord	"Yugo"
+1017	
+id	"2504"
+betekenis	"Joegoslaaf"
+woord	"Zemo"
+1018	
+id	"58"
+betekenis	"Joint"
+woord	"Ampoe"
+1019	
+id	"89"
+betekenis	"Joint"
+woord	"Baap"
+1020	
+id	"108"
+betekenis	"Joint"
+woord	"Bakoe"
+1021	
+id	"196"
+betekenis	"Joint "
+woord	"Blunt"
+1022	
+id	"404"
+betekenis	"Joint"
+woord	"dikke"
+1023	
+id	"423"
+betekenis	"Joint "
+woord	"Djonko"
+1024	
+id	"424"
+betekenis	"Joint "
+woord	"Djonkoe"
+1025	
+id	"480"
+betekenis	"Joint "
+woord	"Dutchie"
+1026	
+id	"541"
+betekenis	"Joint"
+woord	"Fakkel"
+1027	
+id	"615"
+betekenis	"Joint"
+woord	"Foemp"
+1028	
+id	"740"
+betekenis	"Joint "
+woord	"Groene"
+1029	
+id	"741"
+betekenis	"Joint "
+woord	"Groene vriend"
+1030	
+id	"903"
+betekenis	"Joint "
+woord	"Jamma"
+1031	
+id	"909"
+betekenis	"Joint"
+woord	"Jay"
+1032	
+id	"934"
+betekenis	"Joint"
+woord	"jonkel"
+1033	
+id	"936"
+betekenis	"Joint "
+woord	"Jonko"
+1034	
+id	"937"
+betekenis	"Joint"
+woord	"Jonkol"
+1035	
+id	"939"
+betekenis	"Joint"
+woord	"Joppie"
+1036	
+id	"945"
+betekenis	"Joint"
+woord	"Jueno"
+1037	
+id	"1038"
+betekenis	"Joint "
+woord	"Klatser"
+1038	
+id	"1052"
+betekenis	"Joint"
+woord	"Knaapje"
+1039	
+id	"1106"
+betekenis	"Joint "
+woord	"Kush"
+1040	
+id	"1255"
+betekenis	"Joint"
+woord	"Marley"
+1041	
+id	"1456"
+betekenis	"Joint"
+woord	"Onkel"
+1042	
+id	"1490"
+betekenis	"Joint"
+woord	"P2"
+1043	
+id	"1540"
+betekenis	"Joint"
+woord	"Pater"
+1044	
+id	"1604"
+betekenis	"Joint "
+woord	"Pintoo"
+1045	
+id	"1605"
+betekenis	"Joint "
+woord	"Pintu"
+1046	
+id	"1607"
+betekenis	"Joint "
+woord	"Pipa"
+1047	
+id	"1613"
+betekenis	"Joint "
+woord	"Pit"
+1048	
+id	"1614"
+betekenis	"Joint"
+woord	"Pitje"
+1049	
+id	"1615"
+betekenis	"Joint"
+woord	"Pitoe"
+1050	
+id	"1699"
+betekenis	"Joint"
+woord	"Pretsjekkie"
+1051	
+id	"2009"
+betekenis	"Joint"
+woord	"Snaak"
+1052	
+id	"2010"
+betekenis	"Joint "
+woord	"Snaak"
+1053	
+id	"2084"
+betekenis	"Joint"
+woord	"Spliff"
+1054	
+id	"2109"
+betekenis	"Joint"
+woord	"Stickie"
+1055	
+id	"2123"
+betekenis	"Joint"
+woord	"Stokkie"
+1056	
+id	"2161"
+betekenis	"Joint "
+woord	"Swampa"
+1057	
+id	"2255"
+betekenis	"Joint"
+woord	"Tjaper"
+1058	
+id	"2266"
+betekenis	"Joint"
+woord	"Tjonkel"
+1059	
+id	"2272"
+betekenis	"Joint "
+woord	"Toektoek"
+1060	
+id	"2329"
+betekenis	"Joint"
+woord	"Urfie"
+1061	
+id	"2489"
+betekenis	"Joint "
+woord	"Yoera"
+1062	
+id	"2516"
+betekenis	"Joint "
+woord	"Zuen"
+1063	
+id	"2517"
+betekenis	"Joint "
+woord	"Zuena"
+1064	
+id	"2275"
+betekenis	"Joint (dikke)"
+woord	"Toeter"
+1065	
+id	"1057"
+betekenis	"Joint groot"
+woord	"Kneiter"
+1066	
+id	"703"
+betekenis	"Jong"
+woord	"Gio"
+1067	
+id	"933"
+betekenis	"Jonge gangster"
+woord	"Jongster"
+1068	
+id	"1241"
+betekenis	"Jonge god"
+woord	"Manel"
+1069	
+id	"1592"
+betekenis	"Jonge gozer"
+woord	"Pikkie"
+1070	
+id	"270"
+betekenis	"Jongen"
+woord	"chico"
+1071	
+id	"419"
+betekenis	"Jongen "
+woord	"Djie"
+1072	
+id	"757"
+betekenis	"Jongen"
+woord	"Haabe"
+1073	
+id	"1019"
+betekenis	"Jongen "
+woord	"Kill"
+1074	
+id	"2157"
+betekenis	"Jongen "
+woord	"Swa"
+1075	
+id	"2265"
+betekenis	"jongen"
+woord	"Tjollie"
+1076	
+id	"36"
+betekenis	"Jongen uit Den Haag"
+woord	"AggaKill"
+1077	
+id	"2311"
+betekenis	"Juist"
+woord	"True that"
+1078	
+id	"194"
+betekenis	"Juwelen"
+woord	"Bling bin"
+1079	
+id	"986"
+betekenis	"Kaart"
+woord	"Karta"
+1080	
+id	"1543"
+betekenis	"Kaartspel"
+woord	"Patta patta"
+1081	
+id	"2098"
+betekenis	"Kabel"
+woord	"Stamang"
+1082	
+id	"1282"
+betekenis	"Kakkerlak"
+woord	"Mechribi"
+1083	
+id	"1243"
+betekenis	"Kale"
+woord	"Manie"
+1084	
+id	"1286"
+betekenis	"Kale gabber"
+woord	"Meloenie"
+1085	
+id	"592"
+betekenis	"Kalmeren"
+woord	"Flexen"
+1086	
+id	"324"
+betekenis	"Kameraad "
+woord	"Compadre"
+1087	
+id	"1002"
+betekenis	"Kanaleneiland"
+woord	"K-Eiland"
+1088	
+id	"242"
+betekenis	"Kanker"
+woord	"Cencer"
+1089	
+id	"569"
+betekenis	"Kapot"
+woord	"Fillestijnen"
+1090	
+id	"643"
+betekenis	"Kapot"
+woord	"Frox"
+1091	
+id	"646"
+betekenis	"Kapot"
+woord	"Fucked up"
+1092	
+id	"658"
+betekenis	"Kapot"
+woord	"Gaga"
+1093	
+id	"1533"
+betekenis	"Kapot"
+woord	"Para"
+1094	
+id	"175"
+betekenis	"Kapsones"
+woord	"Bigi fasi"
+1095	
+id	"176"
+betekenis	"Kapsones"
+woord	"Bigi Tash"
+1096	
+id	"979"
+betekenis	"Kapsones"
+woord	"Kappa"
+1097	
+id	"980"
+betekenis	"Kapsones"
+woord	"Kappie"
+1098	
+id	"261"
+betekenis	"Kaugum"
+woord	"Chewie"
+1099	
+id	"2264"
+betekenis	"Kaugum"
+woord	"Tjoewie"
+1100	
+id	"843"
+betekenis	"Kauwgum"
+woord	"Hubbabubba"
+1101	
+id	"1188"
+betekenis	"Kijken"
+woord	"Loekoe"
+1102	
+id	"1583"
+betekenis	"Kijken"
+woord	"Piepen"
+1103	
+id	"1944"
+betekenis	"Klaarkomen"
+woord	"Skeet"
+1104	
+id	"2089"
+betekenis	"Klaarkomen"
+woord	"Spoitie"
+1105	
+id	"2490"
+betekenis	"Klaarkomen"
+woord	"Yoggeren"
+1106	
+id	"1045"
+betekenis	"Klant"
+woord	"Klennie"
+1107	
+id	"106"
+betekenis	"Klap "
+woord	"Bakka"
+1108	
+id	"334"
+betekenis	"Klap"
+woord	"Cookie"
+1109	
+id	"813"
+betekenis	"Klap"
+woord	"Hoekoe"
+1110	
+id	"1034"
+betekenis	"Klap geven"
+woord	"klappa"
+1111	
+id	"97"
+betekenis	"Klappen geven"
+woord	"Baffoes"
+1112	
+id	"1703"
+betekenis	"Klef doen"
+woord	"Pritten"
+1113	
+id	"288"
+betekenis	"Klein meisje"
+woord	"Chingmeid"
+1114	
+id	"1426"
+betekenis	"Kleine borsten"
+woord	"NoNberg"
+1115	
+id	"636"
+betekenis	"Kleine oren"
+woord	"Frodo"
+1116	
+id	"417"
+betekenis	"Kleren"
+woord	"Djakka"
+1117	
+id	"1100"
+betekenis	"Kleren"
+woord	"Krossies"
+1118	
+id	"645"
+betekenis	"Klote"
+woord	"Fuck"
+1119	
+id	"1051"
+betekenis	"Kluis"
+woord	"Kluza"
+1120	
+id	"1680"
+betekenis	"Knallen"
+woord	"Poppen"
+1121	
+id	"607"
+betekenis	"Knap"
+woord	"Fly"
+1122	
+id	"1042"
+betekenis	"Knap"
+woord	"Kleina"
+1123	
+id	"1053"
+betekenis	"Knokkel"
+woord	"Knaka"
+1124	
+id	"522"
+betekenis	"Kom hier"
+woord	"Ezjie"
+1125	
+id	"10"
+betekenis	"Komt goed"
+woord	"A regel"
+1126	
+id	"1317"
+betekenis	"Koppelen"
+woord	"Mixxen"
+1127	
+id	"128"
+betekenis	"Kots"
+woord	"Barfoes"
+1128	
+id	"127"
+betekenis	"Kotsen"
+woord	"Barfen"
+1129	
+id	"1087"
+betekenis	"Koud"
+woord	"Kouru"
+1130	
+id	"1090"
+betekenis	"Kracht soep"
+woord	"Kraktisupu"
+1131	
+id	"1089"
+betekenis	"Kraken"
+woord	"Krakas"
+1132	
+id	"1091"
+betekenis	"Kralingen Rotterdam"
+woord	"Krala"
+1133	
+id	"185"
+betekenis	"Kreng"
+woord	"Bitch"
+1134	
+id	"567"
+betekenis	"Kunstpenis"
+woord	"Fildo"
+1135	
+id	"215"
+betekenis	"Kus"
+woord	"Bossie"
+1136	
+id	"1412"
+betekenis	"Kus m"
+woord	"Njang mi m"
+1137	
+id	"1374"
+betekenis	"Kusje"
+woord	"Nafnoe"
+1138	
+id	"2030"
+betekenis	"Kusje"
+woord	"Snoggie"
+1139	
+id	"2153"
+betekenis	"Kusje"
+woord	"Sunchi"
+1140	
+id	"110"
+betekenis	"Kwade geest"
+woord	"Bakroe"
+1141	
+id	"287"
+betekenis	"kwartje"
+woord	"Ching chawa"
+1142	
+id	"1123"
+betekenis	"Laag"
+woord	"Lagi"
+1143	
+id	"1181"
+betekenis	"Laakkwartier"
+woord	"LKT"
+1144	
+id	"1128"
+betekenis	"Laat maar"
+woord	"Lama"
+1145	
+id	"462"
+betekenis	"Laatste glas met iets alcoholish"
+woord	"Downen"
+1146	
+id	"1121"
+betekenis	"Lachen "
+woord	"Laffoe"
+1147	
+id	"1122"
+betekenis	"Lachen "
+woord	"Lafoe"
+1148	
+id	"1197"
+betekenis	"Lachen"
+woord	"Lol"
+1149	
+id	"1585"
+betekenis	"Lachen "
+woord	"Pierie tiefie"
+1150	
+id	"2140"
+betekenis	"Lachen"
+woord	"Stuk gaan"
+1151	
+id	"1129"
+betekenis	"Landsmeer"
+woord	"Landsie"
+1152	
+id	"946"
+betekenis	"Langskomen"
+woord	"Jump Around"
+1153	
+id	"1131"
+betekenis	"Laptop "
+woord	"Lappi"
+1154	
+id	"1132"
+betekenis	"Laptop "
+woord	"Lappie"
+1155	
+id	"734"
+betekenis	"lastig"
+woord	"Grauw"
+1156	
+id	"1905"
+betekenis	"Laten zien"
+woord	"Showen"
+1157	
+id	"2075"
+betekenis	"Latino"
+woord	"Spick"
+1158	
+id	"1182"
+betekenis	"Laughing My Ass Off"
+woord	"LMAO"
+1159	
+id	"1850"
+betekenis	"Leeg"
+woord	"Scheer"
+1160	
+id	"1148"
+betekenis	"Leerdam"
+woord	"Leempy"
+1161	
+id	"1179"
+betekenis	"Leeuwarden"
+woord	"Liuwsja"
+1162	
+id	"1210"
+betekenis	"Leeuwarden"
+woord	"LWD"
+1163	
+id	"90"
+betekenis	"Leider"
+woord	"Baas"
+1164	
+id	"2498"
+betekenis	"Leider"
+woord	"Zalmi"
+1165	
+id	"1166"
+betekenis	"Leiderdorp "
+woord	"Lidorro"
+1166	
+id	"1759"
+betekenis	"Lekker"
+woord	"Rico"
+1167	
+id	"1831"
+betekenis	"Lekker"
+woord	"Sappig"
+1168	
+id	"1852"
+betekenis	"Lekker"
+woord	"Schier"
+1169	
+id	"2055"
+betekenis	"Lekker"
+woord	"Spang"
+1170	
+id	"2058"
+betekenis	"Lekker"
+woord	"Spange"
+1171	
+id	"2163"
+betekenis	"Lekker"
+woord	"Sweetie"
+1172	
+id	"893"
+betekenis	"Lelijk"
+woord	"Itske"
+1173	
+id	"978"
+betekenis	"Lelijk"
+woord	"Kapot"
+1174	
+id	"1018"
+betekenis	"Lelijk"
+woord	"Kikiriekie"
+1175	
+id	"1157"
+betekenis	"Lelijk"
+woord	"LeLie"
+1176	
+id	"2182"
+betekenis	"Lelijk"
+woord	"Taker"
+1177	
+id	"2224"
+betekenis	"Lelijk"
+woord	"Tfoe"
+1178	
+id	"2349"
+betekenis	"Lelijk"
+woord	"Vies"
+1179	
+id	"2066"
+betekenis	"Lelijk hoofd"
+woord	"Spankhoofd"
+1180	
+id	"1395"
+betekenis	"Lelijk meisje"
+woord	"Nepmop"
+1181	
+id	"1732"
+betekenis	"Lelijk meisje"
+woord	"Rachel"
+1182	
+id	"712"
+betekenis	"Lelijk persoon"
+woord	"Gmurk"
+1183	
+id	"2326"
+betekenis	"Lelijk persoon"
+woord	"unkoe"
+1184	
+id	"1205"
+betekenis	"Lelystad"
+woord	"L-Town"
+1185	
+id	"1688"
+betekenis	"Lesbo"
+woord	"Pot"
+1186	
+id	"998"
+betekenis	"Leugenaar"
+woord	"Kedab"
+1187	
+id	"649"
+betekenis	"Leuk"
+woord	"Funnig"
+1188	
+id	"1065"
+betekenis	"Leuk"
+woord	"Knopje"
+1189	
+id	"1112"
+betekenis	"Leuk"
+woord	"Kwaka"
+1190	
+id	"1324"
+betekenis	"Leuk"
+woord	"Moeilijk"
+1191	
+id	"2102"
+betekenis	"Leuk"
+woord	"Stang"
+1192	
+id	"2145"
+betekenis	"Leuk"
+woord	"Styling"
+1193	
+id	"2250"
+betekenis	"Leuk"
+woord	"Tjading"
+1194	
+id	"2508"
+betekenis	"Leuk"
+woord	"Ziek"
+1195	
+id	"1163"
+betekenis	"leven"
+woord	"Libie"
+1196	
+id	"1164"
+betekenis	"Levenloos"
+woord	"Libieloos"
+1197	
+id	"1177"
+betekenis	"Licht"
+woord	"Liti"
+1198	
+id	"1664"
+betekenis	"Liedje "
+woord	"Pokoe"
+1199	
+id	"1668"
+betekenis	"Liedje "
+woord	"Poku"
+1200	
+id	"1183"
+betekenis	"Liefde"
+woord	"Lobi"
+1201	
+id	"1843"
+betekenis	"Liefhebber van n*ken in het andere gaatje"
+woord	"Scat lover"
+1202	
+id	"87"
+betekenis	"Lieve"
+woord	"Aziz"
+1203	
+id	"2310"
+betekenis	"Lieve Turk"
+woord	"Troetelturk"
+1204	
+id	"789"
+betekenis	"Lift"
+woord	"Heisbakkiej"
+1205	
+id	"1171"
+betekenis	"Limburger"
+woord	"Limbo"
+1206	
+id	"1756"
+betekenis	"Limburger"
+woord	"Reservebelg"
+1207	
+id	"1175"
+betekenis	"Lippen"
+woord	"Liptenays"
+1208	
+id	"1200"
+betekenis	"Lomp"
+woord	"Loos"
+1209	
+id	"1167"
+betekenis	"Lopen "
+woord	"Lijn 11"
+1210	
+id	"2110"
+betekenis	"Lopen"
+woord	"Stiefelen"
+1211	
+id	"2243"
+betekenis	"Lopen"
+woord	"Tippelen"
+1212	
+id	"2379"
+betekenis	"Lopen "
+woord	"Wakka"
+1213	
+id	"1736"
+betekenis	"Los gaan"
+woord	"Rampeneren"
+1214	
+id	"1211"
+betekenis	"Love You"
+woord	"Ly"
+1215	
+id	"23"
+betekenis	"LSD"
+woord	"Acid"
+1216	
+id	"1206"
+betekenis	"Lucht"
+woord	"Luga"
+1217	
+id	"1184"
+betekenis	"Lui"
+woord	"Lobo"
+1218	
+id	"1514"
+betekenis	"Lul"
+woord	"Pampa"
+1219	
+id	"2515"
+betekenis	"Lullig"
+woord	"Zoutig"
+1220	
+id	"1208"
+betekenis	"Lunetten Utrecht"
+woord	"Luna"
+1221	
+id	"1329"
+betekenis	"Maak je geen zorgen"
+woord	"Moenie Worrie Niet"
+1222	
+id	"67"
+betekenis	"Maar ja"
+woord	"Anyway"
+1223	
+id	"1362"
+betekenis	"Maastricht"
+woord	"M-Town"
+1224	
+id	"1259"
+betekenis	"Maastricht"
+woord	"Massa"
+1225	
+id	"1425"
+betekenis	"Macho"
+woord	"Nol"
+1226	
+id	"717"
+betekenis	"Maf"
+woord	"Goofy"
+1227	
+id	"1151"
+betekenis	"Maf"
+woord	"Leip"
+1228	
+id	"1154"
+betekenis	"Maf"
+woord	"Leipo"
+1229	
+id	"1189"
+betekenis	"Maf"
+woord	"LoeLoe"
+1230	
+id	"1201"
+betekenis	"Maf"
+woord	"Lori"
+1231	
+id	"1588"
+betekenis	"Maf"
+woord	"Pietkwiet"
+1232	
+id	"1043"
+betekenis	"Maf doen"
+woord	"Kleipen"
+1233	
+id	"1225"
+betekenis	"Mafkees"
+woord	"Mafcheese"
+1234	
+id	"290"
+betekenis	"Mafketel"
+woord	"Chizzle"
+1235	
+id	"362"
+betekenis	"Mafketel"
+woord	"Daap"
+1236	
+id	"365"
+betekenis	"Mafketel"
+woord	"Dakhaas"
+1237	
+id	"475"
+betekenis	"Mafketel"
+woord	"Dummi"
+1238	
+id	"486"
+betekenis	"Mafketel"
+woord	"Ebby"
+1239	
+id	"507"
+betekenis	"Mafketel"
+woord	"Eppo"
+1240	
+id	"632"
+betekenis	"Mafketel"
+woord	"Freak"
+1241	
+id	"940"
+betekenis	"Mafketel"
+woord	"Josti"
+1242	
+id	"941"
+betekenis	"Mafketel"
+woord	"Jostie"
+1243	
+id	"1168"
+betekenis	"Mafketel"
+woord	"Lijperik"
+1244	
+id	"1222"
+betekenis	"Mafketel"
+woord	"Macfees"
+1245	
+id	"1228"
+betekenis	"Mafketel"
+woord	"Maffie"
+1246	
+id	"1236"
+betekenis	"Mafketel"
+woord	"Malaka"
+1247	
+id	"1313"
+betekenis	"Mafketel"
+woord	"Misjkin"
+1248	
+id	"1603"
+betekenis	"Mafketel"
+woord	"Pino"
+1249	
+id	"1757"
+betekenis	"Mafketel"
+woord	"Retard"
+1250	
+id	"1958"
+betekenis	"Mafketel"
+woord	"Skintie"
+1251	
+id	"2357"
+betekenis	"Mafketel"
+woord	"Vogel"
+1252	
+id	"2406"
+betekenis	"Mafketel"
+woord	"Wausie"
+1253	
+id	"2418"
+betekenis	"Mafketel"
+woord	"Weirdo"
+1254	
+id	"2491"
+betekenis	"Mafketel"
+woord	"Yosti"
+1255	
+id	"1957"
+betekenis	"Mager"
+woord	"Skinny"
+1256	
+id	"2083"
+betekenis	"Mager meisje"
+woord	"Splietje"
+1257	
+id	"866"
+betekenis	"Makkelijk"
+woord	"ieng"
+1258	
+id	"483"
+betekenis	"Makkelijk te versieren meisje"
+woord	"Easy pussy"
+1259	
+id	"430"
+betekenis	"Mama"
+woord	"Doedoe"
+1260	
+id	"70"
+betekenis	"Man"
+woord	"Apoe Scapoe"
+1261	
+id	"1021"
+betekenis	"Man"
+woord	"Kill"
+1262	
+id	"1023"
+betekenis	"Manwijf"
+woord	"Killa mang"
+1263	
+id	"1322"
+betekenis	"Marokkaan "
+woord	"Mocro"
+1264	
+id	"1340"
+betekenis	"Marokkaan "
+woord	"Mokro"
+1265	
+id	"1366"
+betekenis	"Marrokaan en een Turk samen"
+woord	"Murk"
+1266	
+id	"263"
+betekenis	"Marrokaanse"
+woord	"Chi ishen"
+1267	
+id	"1339"
+betekenis	"Marrokkaan"
+woord	"Mokkie"
+1268	
+id	"545"
+betekenis	"Mastruberen"
+woord	"Fappen"
+1269	
+id	"778"
+betekenis	"Mastruberen"
+woord	"Hari"
+1270	
+id	"1495"
+betekenis	"Mastruberen"
+woord	"Pachen"
+1271	
+id	"1500"
+betekenis	"Mastruberen"
+woord	"Paga"
+1272	
+id	"1501"
+betekenis	"Mastruberen"
+woord	"Pagga slaan"
+1273	
+id	"1620"
+betekenis	"Mastruberen"
+woord	"Plagga slaan"
+1274	
+id	"1671"
+betekenis	"Mastruberen"
+woord	"Polsgymanstiek"
+1275	
+id	"1829"
+betekenis	"Mastruberen"
+woord	"Sanlo"
+1276	
+id	"2436"
+betekenis	"Mastruberen"
+woord	"Wiecksen"
+1277	
+id	"1781"
+betekenis	"Mate van stoer zijn"
+woord	"Rofheid"
+1278	
+id	"1279"
+betekenis	"McDonalds"
+woord	"Mc D."
+1279	
+id	"1986"
+betekenis	"Mee gaan"
+woord	"Slikken"
+1280	
+id	"1686"
+betekenis	"Meeloper"
+woord	"Poser"
+1281	
+id	"2383"
+betekenis	"Meen je dat? "
+woord	"Walla"
+1282	
+id	"1319"
+betekenis	"Meer geld"
+woord	"Mo money"
+1283	
+id	"1262"
+betekenis	"Meesterlijk"
+woord	"Master"
+1284	
+id	"256"
+betekenis	"Meisje"
+woord	"Chaurie"
+1285	
+id	"265"
+betekenis	"Meisje "
+woord	"Chick(ie)"
+1286	
+id	"266"
+betekenis	"Meisje "
+woord	"Chicka"
+1287	
+id	"283"
+betekenis	"Meisje "
+woord	"Chimeid"
+1288	
+id	"652"
+betekenis	"Meisje "
+woord	"G"
+1289	
+id	"1240"
+betekenis	"Meisje"
+woord	"Mammie"
+1290	
+id	"1316"
+betekenis	"Meisje "
+woord	"Mitti"
+1291	
+id	"1438"
+betekenis	"Meisje "
+woord	"Oema"
+1292	
+id	"1992"
+betekenis	"Meisje"
+woord	"Sma"
+1293	
+id	"1993"
+betekenis	"Meisje "
+woord	"Sma"
+1294	
+id	"1995"
+betekenis	"Meisje "
+woord	"Smatje"
+1295	
+id	"2190"
+betekenis	"Meisje "
+woord	"Tanga"
+1296	
+id	"2262"
+betekenis	"Meisje"
+woord	"Tjik"
+1297	
+id	"1849"
+betekenis	"Meisje dat is gescoord"
+woord	"Scharrel"
+1298	
+id	"2323"
+betekenis	"Meisje dat net doet alsof ze geen sloerie is"
+woord	"Undercoverputa"
+1299	
+id	"1198"
+betekenis	"Meisje dat van feesten houdt"
+woord	"Lolita"
+1300	
+id	"15"
+betekenis	"Meisje dat veel in de weer is"
+woord	"A16"
+1301	
+id	"2064"
+betekenis	"Meisje klap op haar billen geven"
+woord	"Spangkee(S)"
+1302	
+id	"2212"
+betekenis	"Meisje wat uitdaagt en verder niets wil"
+woord	"teaser"
+1303	
+id	"1235"
+betekenis	"Melig"
+woord	"Mala"
+1304	
+id	"1552"
+betekenis	"Mensen"
+woord	"Peeps"
+1305	
+id	"168"
+betekenis	"Mercedes"
+woord	"Bibi Binzi"
+1306	
+id	"1288"
+betekenis	"Mercedes"
+woord	"Merrie"
+1307	
+id	"1403"
+betekenis	"Mes"
+woord	"Niffie"
+1308	
+id	"1411"
+betekenis	"Mes"
+woord	"Nivi"
+1309	
+id	"2115"
+betekenis	"Mes"
+woord	"Stilo"
+1310	
+id	"2525"
+betekenis	"Met je penis iets opzettelijk  aanraken"
+woord	"Zwaffelen"
+1311	
+id	"104"
+betekenis	"Met je platte hand op iemands achterhoofd slaan"
+woord	"Baka"
+1312	
+id	"14"
+betekenis	"Met jou?"
+woord	"A toe"
+1313	
+id	"1196"
+betekenis	"Metro"
+woord	"Loko"
+1314	
+id	"1277"
+betekenis	"Middelburg"
+woord	"MBG"
+1315	
+id	"2192"
+betekenis	"Miesjes"
+woord	"tangas"
+1316	
+id	"706"
+betekenis	"Miesjesachtig"
+woord	"Girly"
+1317	
+id	"1297"
+betekenis	"Mijn god "
+woord	"Mi gaddo"
+1318	
+id	"1216"
+betekenis	"Mijn reet"
+woord	"Ma pampang"
+1319	
+id	"1298"
+betekenis	"Mijn schatje"
+woord	"Mi goedoe"
+1320	
+id	"1218"
+betekenis	"Mijn zaakjes"
+woord	"Ma shit"
+1321	
+id	"605"
+betekenis	"Mislukking "
+woord	"Flutse"
+1322	
+id	"2296"
+betekenis	"Mislukte Grafittispuiter"
+woord	"Toy"
+1323	
+id	"1361"
+betekenis	"Misschien"
+woord	"Msjallah"
+1324	
+id	"1263"
+betekenis	"mister cool"
+woord	"Master swa"
+1325	
+id	"399"
+betekenis	"Mix van cola en sinas"
+woord	"Diesel"
+1326	
+id	"240"
+betekenis	"Mobieltje"
+woord	"Cell"
+1327	
+id	"241"
+betekenis	"Mobieltje"
+woord	"Cellular"
+1328	
+id	"624"
+betekenis	"Mobieltje"
+woord	"Fonna"
+1329	
+id	"1207"
+betekenis	"Mobieltje"
+woord	"Lulijzer"
+1330	
+id	"1321"
+betekenis	"Mobieltje"
+woord	"Mobila"
+1331	
+id	"1573"
+betekenis	"Mobieltje"
+woord	"Phona"
+1332	
+id	"1639"
+betekenis	"Mobieltje"
+woord	"Pocket"
+1333	
+id	"1662"
+betekenis	"Mobieltje"
+woord	"Pokki"
+1334	
+id	"1663"
+betekenis	"Mobieltje"
+woord	"Pokkie"
+1335	
+id	"1684"
+betekenis	"Mobieltje"
+woord	"Portjie"
+1336	
+id	"2186"
+betekenis	"Mobieltje"
+woord	"Talla"
+1337	
+id	"2214"
+betekenis	"Mobieltje"
+woord	"tellie"
+1338	
+id	"2215"
+betekenis	"Mobieltje"
+woord	"Telly"
+1339	
+id	"1323"
+betekenis	"Mode"
+woord	"Modo"
+1340	
+id	"2116"
+betekenis	"Mode"
+woord	"Stilo"
+1341	
+id	"451"
+betekenis	"Moe"
+woord	"Dopa"
+1342	
+id	"655"
+betekenis	"Moe"
+woord	"Gaar"
+1343	
+id	"1127"
+betekenis	"Moe"
+woord	"Lam"
+1344	
+id	"1611"
+betekenis	"Moe"
+woord	"Pislauw"
+1345	
+id	"1224"
+betekenis	"Moeder"
+woord	"Madre"
+1346	
+id	"1330"
+betekenis	"Moeder "
+woord	"Moer"
+1347	
+id	"1107"
+betekenis	"Moedern*ker"
+woord	"Kusmodar"
+1348	
+id	"1713"
+betekenis	"Moedern*ker"
+woord	"Pukimai"
+1349	
+id	"534"
+betekenis	"Moeilijk"
+woord	"Faja"
+1350	
+id	"750"
+betekenis	"Moeilijk"
+woord	"Gruwelijk"
+1351	
+id	"2483"
+betekenis	"Moeite doen"
+woord	"Ye hossel"
+1352	
+id	"1328"
+betekenis	"Moet niet"
+woord	"Moenie"
+1353	
+id	"1341"
+betekenis	"Moksi Meti "
+woord	"Moksi"
+1354	
+id	"2303"
+betekenis	"Molukker"
+woord	"Treinkaper"
+1355	
+id	"657"
+betekenis	"Mond"
+woord	"Gaffel"
+1356	
+id	"954"
+betekenis	"Mond"
+woord	"Kaak"
+1357	
+id	"1276"
+betekenis	"Mond"
+woord	"Maula"
+1358	
+id	"1332"
+betekenis	"Mond"
+woord	"Moffo"
+1359	
+id	"1364"
+betekenis	"Mond"
+woord	"Muil"
+1360	
+id	"1365"
+betekenis	"Mond"
+woord	"Mulut"
+1361	
+id	"2200"
+betekenis	"Mond dicht"
+woord	"Tapi movo"
+1362	
+id	"2511"
+betekenis	"Mond dicht"
+woord	"Zippit"
+1363	
+id	"403"
+betekenis	"Mooi"
+woord	"Dik"
+1364	
+id	"2335"
+betekenis	"Mooi"
+woord	"Valeska"
+1365	
+id	"125"
+betekenis	"Mooi meisje"
+woord	"Barbie"
+1366	
+id	"156"
+betekenis	"Mooi meisje"
+woord	"Bella"
+1367	
+id	"269"
+betekenis	"Mooi meisje"
+woord	"Chicky"
+1368	
+id	"273"
+betekenis	"Mooi meisje"
+woord	"Chikie"
+1369	
+id	"282"
+betekenis	"Mooi meisje"
+woord	"Chima"
+1370	
+id	"308"
+betekenis	"Mooi meisje"
+woord	"Cleopatra"
+1371	
+id	"355"
+betekenis	"Mooi meisje"
+woord	"Curva"
+1372	
+id	"357"
+betekenis	"Mooi meisje"
+woord	"Cuty"
+1373	
+id	"549"
+betekenis	"Mooi meisje"
+woord	"Fatima"
+1374	
+id	"711"
+betekenis	"Mooi meisje"
+woord	"G-meid"
+1375	
+id	"730"
+betekenis	"Mooi meisje"
+woord	"Gramma girl"
+1376	
+id	"761"
+betekenis	"Mooi meisje"
+woord	"Habibi"
+1377	
+id	"794"
+betekenis	"Mooi meisje"
+woord	"Hertje"
+1378	
+id	"1155"
+betekenis	"Mooi meisje"
+woord	"Lekka lek"
+1379	
+id	"1180"
+betekenis	"Mooi meisje"
+woord	"lkkrding"
+1380	
+id	"1233"
+betekenis	"Mooi meisje"
+woord	"Makkel"
+1381	
+id	"1311"
+betekenis	"Mooi meisje"
+woord	"Mima"
+1382	
+id	"1338"
+betekenis	"Mooi meisje"
+woord	"Mokkel"
+1383	
+id	"1349"
+betekenis	"Mooi meisje"
+woord	"Mooimeid"
+1384	
+id	"1351"
+betekenis	"Mooi meisje"
+woord	"Morajka"
+1385	
+id	"1561"
+betekenis	"Mooi meisje"
+woord	"Pepa"
+1386	
+id	"1650"
+betekenis	"Mooi meisje"
+woord	"Poepertje"
+1387	
+id	"1653"
+betekenis	"Mooi meisje"
+woord	"Poes"
+1388	
+id	"1681"
+betekenis	"Mooi meisje"
+woord	"Poppie"
+1389	
+id	"2057"
+betekenis	"Mooi meisje"
+woord	"Spanga"
+1390	
+id	"2060"
+betekenis	"Mooi meisje"
+woord	"Spange chick"
+1391	
+id	"2061"
+betekenis	"Mooi meisje"
+woord	"Spange tanga"
+1392	
+id	"2063"
+betekenis	"Mooi meisje"
+woord	"Spangerd"
+1393	
+id	"2191"
+betekenis	"Mooi meisje"
+woord	"Tanga"
+1394	
+id	"2210"
+betekenis	"Mooi meisje"
+woord	"Tchumai"
+1395	
+id	"2269"
+betekenis	"Mooi meisje"
+woord	"Tjumai"
+1396	
+id	"2317"
+betekenis	"Mooi meisje"
+woord	"Tyalosyni"
+1397	
+id	"2360"
+betekenis	"Mooi meisje"
+woord	"Vpang"
+1398	
+id	"2376"
+betekenis	"Mooi meisje"
+woord	"Wahra"
+1399	
+id	"2509"
+betekenis	"Mooi meisje"
+woord	"Zine"
+1400	
+id	"608"
+betekenis	"Mooi meisjes"
+woord	"Flygirls"
+1401	
+id	"96"
+betekenis	"Mooie billen"
+woord	"Badonkadonk"
+1402	
+id	"2207"
+betekenis	"Mooie billen"
+woord	"Tazzibal"
+1403	
+id	"1061"
+betekenis	"Mooie borsten"
+woord	"Knijp kanjers"
+1404	
+id	"264"
+betekenis	"Mooie jongen"
+woord	"Chiboy"
+1405	
+id	"836"
+betekenis	"Mooie jongen"
+woord	"Hot chocholate"
+1406	
+id	"1335"
+betekenis	"Mooie jongen"
+woord	"Moiboi"
+1407	
+id	"1348"
+betekenis	"Mooie jongen"
+woord	"Mooiboy"
+1408	
+id	"2065"
+betekenis	"Mooie jongen"
+woord	"Spangmang"
+1409	
+id	"2159"
+betekenis	"Mooie jongen "
+woord	"Swagga"
+1410	
+id	"2160"
+betekenis	"Mooie jongen "
+woord	"Swagga boy"
+1411	
+id	"1325"
+betekenis	"Mooie schoenen"
+woord	"Moeilijke plattas"
+1412	
+id	"1596"
+betekenis	"Mooier maken"
+woord	"Pimpen"
+1413	
+id	"2187"
+betekenis	"Morgen"
+woord	"Tamara"
+1414	
+id	"1368"
+betekenis	"Most Valuable Player"
+woord	"MVP"
+1415	
+id	"1310"
+betekenis	"Mother I Like to F*ck"
+woord	"Milf"
+1416	
+id	"353"
+betekenis	"Motherfucker"
+woord	"Cujo bo mama"
+1417	
+id	"1280"
+betekenis	"Multicultureel"
+woord	"MCR"
+1418	
+id	"1665"
+betekenis	"Muziek"
+woord	"Pokoe"
+1419	
+id	"146"
+betekenis	"Muziek zonder zang"
+woord	"Beat"
+1420	
+id	"692"
+betekenis	"N*k je moeder"
+woord	"Gheilaiem"
+1421	
+id	"6"
+betekenis	"N*ken"
+woord	"A kog"
+1422	
+id	"61"
+betekenis	"N*ken"
+woord	"Ankeren"
+1423	
+id	"111"
+betekenis	"N*ken"
+woord	"baksen"
+1424	
+id	"114"
+betekenis	"N*ken"
+woord	"Ballen"
+1425	
+id	"121"
+betekenis	"N*ken"
+woord	"Bangen"
+1426	
+id	"138"
+betekenis	"N*ken"
+woord	"batsen"
+1427	
+id	"296"
+betekenis	"N*ken"
+woord	"Choppen"
+1428	
+id	"420"
+betekenis	"N*ken"
+woord	"Djobben"
+1429	
+id	"460"
+betekenis	"N*ken"
+woord	"Douchen"
+1430	
+id	"461"
+betekenis	"N*ken"
+woord	"Douwen"
+1431	
+id	"686"
+betekenis	"N*ken"
+woord	"Geslagen"
+1432	
+id	"824"
+betekenis	"N*ken"
+woord	"Honkeponken"
+1433	
+id	"844"
+betekenis	"N*ken"
+woord	"Hupsen"
+1434	
+id	"1008"
+betekenis	"N*ken"
+woord	"Ketsen"
+1435	
+id	"1014"
+betekenis	"N*ken"
+woord	"Kieren"
+1436	
+id	"1037"
+betekenis	"N*ken"
+woord	"Klari"
+1437	
+id	"1064"
+betekenis	"N*ken"
+woord	"KnoeKen"
+1438	
+id	"1097"
+betekenis	"N*ken"
+woord	"Krikken"
+1439	
+id	"1507"
+betekenis	"N*ken"
+woord	"palen"
+1440	
+id	"1517"
+betekenis	"N*ken"
+woord	"Pang pang"
+1441	
+id	"1518"
+betekenis	"N*ken"
+woord	"Pangpang"
+1442	
+id	"1635"
+betekenis	"N*ken"
+woord	"Ploppen"
+1443	
+id	"1672"
+betekenis	"N*ken"
+woord	"Pompen"
+1444	
+id	"1674"
+betekenis	"N*ken"
+woord	"Pompie doppe"
+1445	
+id	"1702"
+betekenis	"N*ken"
+woord	"Prikken"
+1446	
+id	"1737"
+betekenis	"N*ken"
+woord	"Rampetampen"
+1447	
+id	"1762"
+betekenis	"N*ken"
+woord	"Rieten"
+1448	
+id	"1853"
+betekenis	"N*ken"
+woord	"Schoffelen"
+1449	
+id	"1883"
+betekenis	"N*ken"
+woord	"sexytime"
+1450	
+id	"1939"
+betekenis	"N*ken"
+woord	"Skatten"
+1451	
+id	"2268"
+betekenis	"N*ken"
+woord	"Tjoppen"
+1452	
+id	"2439"
+betekenis	"N*ken"
+woord	"Wiepen"
+1453	
+id	"2499"
+betekenis	"N*ken"
+woord	"Zaus(z)en"
+1454	
+id	"942"
+betekenis	"N*ken in het andere gaatje"
+woord	"Joyriden"
+1455	
+id	"105"
+betekenis	"N*ken op z"
+woord	"Bakaptaka"
+1456	
+id	"2171"
+betekenis	"Na"
+woord	"Synchroon Teef"
+1457	
+id	"336"
+betekenis	"Na-aper"
+woord	"Copy cat"
+1458	
+id	"1371"
+betekenis	"Naaien"
+woord	"Nacken"
+1459	
+id	"101"
+betekenis	"Naar huis"
+woord	"Bai kas"
+1460	
+id	"1473"
+betekenis	"Naar huis"
+woord	"Oslo"
+1461	
+id	"1475"
+betekenis	"Naar huis"
+woord	"Oso cee"
+1462	
+id	"1839"
+betekenis	"Nagaan"
+woord	"Scannen"
+1463	
+id	"471"
+betekenis	"Natuurlijk"
+woord	"Duhhh"
+1464	
+id	"612"
+betekenis	"Natuurlijk"
+woord	"Fo Shizzle"
+1465	
+id	"109"
+betekenis	"Nederlander "
+woord	"Bakra"
+1466	
+id	"112"
+betekenis	"Nederlander"
+woord	"Balanda"
+1467	
+id	"155"
+betekenis	"Nederlander"
+woord	"Belanda"
+1468	
+id	"190"
+betekenis	"Nederlander"
+woord	"Blanda"
+1469	
+id	"955"
+betekenis	"Nederlander"
+woord	"Kaashoofd"
+1470	
+id	"956"
+betekenis	"Nederlander"
+woord	"Kaasje"
+1471	
+id	"957"
+betekenis	"Nederlander "
+woord	"Kaaskop"
+1472	
+id	"1219"
+betekenis	"Nederlander"
+woord	"Macamba"
+1473	
+id	"1220"
+betekenis	"Nederlander"
+woord	"Macamba"
+1474	
+id	"1708"
+betekenis	"Nederlander"
+woord	"Ptatta"
+1475	
+id	"2203"
+betekenis	"Nederlander"
+woord	"Tata"
+1476	
+id	"2204"
+betekenis	"Nederlander"
+woord	"Tatta"
+1477	
+id	"191"
+betekenis	"Nederlands "
+woord	"Blanda"
+1478	
+id	"776"
+betekenis	"Nederlandse nationalist"
+woord	"Harde kaas"
+1479	
+id	"1390"
+betekenis	"Nederlandstalige HipHop"
+woord	"Nederhop"
+1480	
+id	"1415"
+betekenis	"Nee, man"
+woord	"No mang"
+1481	
+id	"358"
+betekenis	"Neef"
+woord	"Cuz"
+1482	
+id	"1401"
+betekenis	"Neef"
+woord	"Niffa"
+1483	
+id	"1404"
+betekenis	"Neef"
+woord	"Niffo"
+1484	
+id	"440"
+betekenis	"Neergaan"
+woord	"Dokken"
+1485	
+id	"1392"
+betekenis	"Neerslaan"
+woord	"Neermokkelen"
+1486	
+id	"1873"
+betekenis	"Negeer"
+woord	"Scott"
+1487	
+id	"1871"
+betekenis	"Negeer die persoon"
+woord	"Scot die handel"
+1488	
+id	"1973"
+betekenis	"Negeren"
+woord	"Skotten"
+1489	
+id	"1049"
+betekenis	"Neo-nazi"
+woord	"Klompenstamper"
+1490	
+id	"467"
+betekenis	"Nep"
+woord	"Droog"
+1491	
+id	"538"
+betekenis	"Nep"
+woord	"Fake"
+1492	
+id	"539"
+betekenis	"Nep"
+woord	"Fake"
+1493	
+id	"585"
+betekenis	"Nep"
+woord	"Flash"
+1494	
+id	"1509"
+betekenis	"Nep "
+woord	"Palla"
+1495	
+id	"1683"
+betekenis	"Nep"
+woord	"Porie"
+1496	
+id	"2370"
+betekenis	"Nep"
+woord	"Wack"
+1497	
+id	"2522"
+betekenis	"Nep"
+woord	"Zuur"
+1498	
+id	"2048"
+betekenis	"Nep Afro"
+woord	"Soso"
+1499	
+id	"664"
+betekenis	"Nep coca"
+woord	"Gank"
+1500	
+id	"409"
+betekenis	"Nep ganster"
+woord	"Dippi"
+1501	
+id	"1687"
+betekenis	"Nepgozer"
+woord	"Poser"
+1502	
+id	"2390"
+betekenis	"Nepgozer"
+woord	"Wannabee"
+1503	
+id	"589"
+betekenis	"Neppen"
+woord	"Flessen"
+1504	
+id	"2014"
+betekenis	"Nepvrienden"
+woord	"Snakes"
+1505	
+id	"1432"
+betekenis	"Neus "
+woord	"Nosso"
+1506	
+id	"1400"
+betekenis	"Never Ever Wanna Lose You"
+woord	"Newly"
+1507	
+id	"1410"
+betekenis	"Nichtje"
+woord	"Nissa"
+1508	
+id	"1616"
+betekenis	"Niet fris ruikende vagina"
+woord	"Pitpoes"
+1509	
+id	"2518"
+betekenis	"Niet leuk"
+woord	"Zuigt"
+1510	
+id	"1312"
+betekenis	"Niet relaxed"
+woord	"Minder"
+1511	
+id	"1510"
+betekenis	"Niet waar "
+woord	"Palla"
+1512	
+id	"588"
+betekenis	"Niet zoals het hoort"
+woord	"Fleppen"
+1513	
+id	"1373"
+betekenis	"Niets"
+woord	"Nada"
+1514	
+id	"1833"
+betekenis	"Niets"
+woord	"Saus"
+1515	
+id	"2419"
+betekenis	"Niets"
+woord	"Welloe"
+1516	
+id	"2420"
+betekenis	"Niets"
+woord	"Weloe"
+1517	
+id	"2421"
+betekenis	"Niets"
+woord	"Welou"
+1518	
+id	"223"
+betekenis	"Nieuw"
+woord	"Brentje"
+1519	
+id	"2085"
+betekenis	"Nieuw"
+woord	"Splikka"
+1520	
+id	"674"
+betekenis	"Nieuwegein"
+woord	"Geina"
+1521	
+id	"1409"
+betekenis	"Nijmegen"
+woord	"Nimma"
+1522	
+id	"1413"
+betekenis	"Nijmegen"
+woord	"NMGN"
+1523	
+id	"1418"
+betekenis	"Nike"
+woord	"Noegoes"
+1524	
+id	"1381"
+betekenis	"Niks"
+woord	"Nakkoe"
+1525	
+id	"1433"
+betekenis	"Noord"
+woord	"NRD"
+1526	
+id	"1375"
+betekenis	"Noord-Afrikaan"
+woord	"Nafri"
+1527	
+id	"1430"
+betekenis	"Noord-Brabant"
+woord	"Noordie-BB"
+1528	
+id	"1431"
+betekenis	"Normaal"
+woord	"Normoelulu"
+1529	
+id	"819"
+betekenis	"Nu meteen"
+woord	"Holler"
+1530	
+id	"1436"
+betekenis	"Nymfomane"
+woord	"Nymfo"
+1531	
+id	"1242"
+betekenis	"Of niet"
+woord	"Mang"
+1532	
+id	"1422"
+betekenis	"Of niet"
+woord	"Noh"
+1533	
+id	"610"
+betekenis	"Of niet dan "
+woord	"Fnitan"
+1534	
+id	"1449"
+betekenis	"Oh My F*cking God"
+woord	"OMFG"
+1535	
+id	"1450"
+betekenis	"Oh My God"
+woord	"OMG"
+1536	
+id	"1488"
+betekenis	"Oh nee"
+woord	"Oy yo"
+1537	
+id	"64"
+betekenis	"Oh nee he"
+woord	"Anoesaj"
+1538	
+id	"16"
+betekenis	"Ok"
+woord	"Aaight"
+1539	
+id	"39"
+betekenis	"Ok"
+woord	"Aightz"
+1540	
+id	"40"
+betekenis	"Ok"
+woord	"Aightz"
+1541	
+id	"200"
+betekenis	"Ok"
+woord	"Boega"
+1542	
+id	"559"
+betekenis	"Ok"
+woord	"Feskul"
+1543	
+id	"1444"
+betekenis	"Ok"
+woord	"Okki"
+1544	
+id	"1813"
+betekenis	"Ok"
+woord	"Safie"
+1545	
+id	"2487"
+betekenis	"Ok"
+woord	"Yo man"
+1546	
+id	"729"
+betekenis	"Oma"
+woord	"Gramma"
+1547	
+id	"220"
+betekenis	"Omhelzen"
+woord	"Brasa"
+1548	
+id	"687"
+betekenis	"Onder de plak zittend"
+woord	"Gesletterd"
+1549	
+id	"2324"
+betekenis	"Onderwerld"
+woord	"Undrogron"
+1550	
+id	"1315"
+betekenis	"Onduidelijk"
+woord	"Mistig"
+1551	
+id	"1974"
+betekenis	"Oneerlijk"
+woord	"Skraal"
+1552	
+id	"1825"
+betekenis	"Ongelooflijk"
+woord	"Sang"
+1553	
+id	"490"
+betekenis	"Ongesteld"
+woord	"Eierkoek"
+1554	
+id	"1165"
+betekenis	"Ongesteld"
+woord	"Lid van het rooie kruis"
+1555	
+id	"1287"
+betekenis	"Ongesteld"
+woord	"Mentos"
+1556	
+id	"1457"
+betekenis	"Ongesteld"
+woord	"Online"
+1557	
+id	"1888"
+betekenis	"Ongeveer"
+woord	"Shi"
+1558	
+id	"1459"
+betekenis	"Ontzettend"
+woord	"Onmuinig"
+1559	
+id	"1437"
+betekenis	"Ontzttend Dikke Ochtend Lul"
+woord	"ODOL"
+1560	
+id	"344"
+betekenis	"Onzin"
+woord	"Crap"
+1561	
+id	"551"
+betekenis	"Onzin"
+woord	"Fatoe"
+1562	
+id	"1237"
+betekenis	"Onzin"
+woord	"Malarkey"
+1563	
+id	"1511"
+betekenis	"Onzin "
+woord	"Palla"
+1564	
+id	"969"
+betekenis	"Onzin pratend"
+woord	"Kakz !"
+1565	
+id	"1929"
+betekenis	"Onzin spreker"
+woord	"Sjembek"
+1566	
+id	"790"
+betekenis	"Onzinverhaal"
+woord	"Heksentori"
+1567	
+id	"482"
+betekenis	"Oosterhout"
+woord	"Eastwood city"
+1568	
+id	"1463"
+betekenis	"Oosterhout"
+woord	"Oosterwood"
+1569	
+id	"1221"
+betekenis	"Op het verkeerde been zetten"
+woord	"Maccen"
+1570	
+id	"828"
+betekenis	"Op je achterwiel rijden"
+woord	"Hoppen"
+1571	
+id	"2133"
+betekenis	"Op straat hangen"
+woord	"Straten"
+1572	
+id	"731"
+betekenis	"Opa"
+woord	"Grampa"
+1573	
+id	"227"
+betekenis	"Opgefokt "
+woord	"Bruya"
+1574	
+id	"638"
+betekenis	"Opgefokt"
+woord	"Fromoe"
+1575	
+id	"832"
+betekenis	"Opgewonden"
+woord	"Hors"
+1576	
+id	"1380"
+betekenis	"Ophouden! "
+woord	"Nakken!"
+1577	
+id	"2216"
+betekenis	"Opmaken"
+woord	"Tem"
+1578	
+id	"874"
+betekenis	"Oprotten"
+woord	"Ilesh khadem"
+1579	
+id	"983"
+betekenis	"Oprotten"
+woord	"Kardesh hardidih"
+1580	
+id	"1217"
+betekenis	"Oprotten"
+woord	"Ma pima yo"
+1581	
+id	"1281"
+betekenis	"Oprotten"
+woord	"Meaaas"
+1582	
+id	"1360"
+betekenis	"Oprotten"
+woord	"Mrsh"
+1583	
+id	"1465"
+betekenis	"Oprotten"
+woord	"Opjensen"
+1584	
+id	"1916"
+betekenis	"Oprotten"
+woord	"Siktir git"
+1585	
+id	"1919"
+betekenis	"Oprotten"
+woord	"Sir takoewed"
+1586	
+id	"415"
+betekenis	"Opscheppen"
+woord	"Djaffen"
+1587	
+id	"640"
+betekenis	"Opscheppen"
+woord	"Fronten"
+1588	
+id	"670"
+betekenis	"Opschieten"
+woord	"Gassen"
+1589	
+id	"1358"
+betekenis	"Opzij gaan"
+woord	"Moven"
+1590	
+id	"675"
+betekenis	"Oraal bevredigd"
+woord	"Ge-"
+1591	
+id	"317"
+betekenis	"Oraal bevredigen"
+woord	"Cocken"
+1592	
+id	"318"
+betekenis	"Oraal bevredigen"
+woord	"Cockie"
+1593	
+id	"887"
+betekenis	"Oraal bevredigen"
+woord	"Ippa"
+1594	
+id	"1077"
+betekenis	"Oraal bevredigen"
+woord	"Kokkie geven"
+1595	
+id	"1363"
+betekenis	"Oraal bevredigen"
+woord	"Muie"
+1596	
+id	"1589"
+betekenis	"Oraal bevredigen"
+woord	"Pijpen"
+1597	
+id	"2121"
+betekenis	"Oraal bevredigen"
+woord	"Stofzuigen"
+1598	
+id	"511"
+betekenis	"Oraal bevredigen van een meisje"
+woord	"Eten"
+1599	
+id	"1254"
+betekenis	"Orale bevrediging"
+woord	"Marlborotje Light"
+1600	
+id	"2081"
+betekenis	"Orale seks"
+woord	"Spipa"
+1601	
+id	"1443"
+betekenis	"Original Gangster"
+woord	"OG"
+1602	
+id	"307"
+betekenis	"Origineel"
+woord	"Classic"
+1603	
+id	"1478"
+betekenis	"Osdorp"
+woord	"Ossy"
+1604	
+id	"1487"
+betekenis	"Oud"
+woord	"Owroe"
+1605	
+id	"472"
+betekenis	"Oud nieuws"
+woord	"Duhhh"
+1606	
+id	"1445"
+betekenis	"Oude mensen"
+woord	"Oldies"
+1607	
+id	"1767"
+betekenis	"Oude mensen"
+woord	"Rimpel ratten"
+1608	
+id	"1535"
+betekenis	"Ouders "
+woord	"Paroe"
+1609	
+id	"1960"
+betekenis	"Overslaan"
+woord	"Skippen"
+1610	
+id	"1483"
+betekenis	"Overval"
+woord	"OV"
+1611	
+id	"1484"
+betekenis	"Overval"
+woord	"OV-tje"
+1612	
+id	"1503"
+betekenis	"Pakistaan"
+woord	"Paki"
+1613	
+id	"1505"
+betekenis	"Pakistaan"
+woord	"Pakoe"
+1614	
+id	"1513"
+betekenis	"Pakistaan"
+woord	"Paloe"
+1615	
+id	"1506"
+betekenis	"Pakistan"
+woord	"Pakoland"
+1616	
+id	"690"
+betekenis	"Pakken"
+woord	"Getten"
+1617	
+id	"2237"
+betekenis	"Pakken"
+woord	"Tiking"
+1618	
+id	"1527"
+betekenis	"Papendrecht"
+woord	"Papecity"
+1619	
+id	"1357"
+betekenis	"Papzak "
+woord	"Motu"
+1620	
+id	"1534"
+betekenis	"Parano"
+woord	"Para"
+1621	
+id	"1536"
+betekenis	"Parano"
+woord	"Parra"
+1622	
+id	"1494"
+betekenis	"Peace"
+woord	"Paayce"
+1623	
+id	"117"
+betekenis	"Penis"
+woord	"Bana"
+1624	
+id	"316"
+betekenis	"Penis"
+woord	"Cock"
+1625	
+id	"390"
+betekenis	"Penis"
+woord	"Dick"
+1626	
+id	"442"
+betekenis	"Penis"
+woord	"Dollo"
+1627	
+id	"542"
+betekenis	"Penis"
+woord	"Fal(-l)us"
+1628	
+id	"1004"
+betekenis	"Penis"
+woord	"Ker"
+1629	
+id	"1005"
+betekenis	"Penis"
+woord	"Kerem"
+1630	
+id	"1587"
+betekenis	"Penis"
+woord	"Pietje"
+1631	
+id	"1698"
+betekenis	"Penis"
+woord	"Pret stok"
+1632	
+id	"2024"
+betekenis	"Penis"
+woord	"Snikkel"
+1633	
+id	"2283"
+betekenis	"Penis"
+woord	"Tol"
+1634	
+id	"2284"
+betekenis	"Penis"
+woord	"Tolie"
+1635	
+id	"2285"
+betekenis	"Penis"
+woord	"Tolli"
+1636	
+id	"2286"
+betekenis	"Penis"
+woord	"Tolly"
+1637	
+id	"2500"
+betekenis	"Penis"
+woord	"Zeb"
+1638	
+id	"1606"
+betekenis	"Penis in poeni (vagina)"
+woord	"PIP"
+1639	
+id	"1009"
+betekenis	"Peoepn"
+woord	"Keutelen"
+1640	
+id	"1564"
+betekenis	"Peper"
+woord	"Pepre"
+1641	
+id	"1636"
+betekenis	"Perfect Lichaam Ongeloofelijke Rot Kop"
+woord	"PLORK"
+1642	
+id	"1054"
+betekenis	"Persoon"
+woord	"Knakker"
+1643	
+id	"1491"
+betekenis	"Persoon"
+woord	"Pa"
+1644	
+id	"2258"
+betekenis	"Persoon"
+woord	"Tjappie"
+1645	
+id	"2122"
+betekenis	"Persoon die oraal bevredigd"
+woord	"Stofzuiger"
+1646	
+id	"1563"
+betekenis	"Persoon die stoned is"
+woord	"Peppie"
+1647	
+id	"947"
+betekenis	"Persoon die zelfmoord pleegt"
+woord	"Jumper"
+1648	
+id	"84"
+betekenis	"Pet "
+woord	"Atti"
+1649	
+id	"1569"
+betekenis	"Pet"
+woord	"Petta"
+1650	
+id	"878"
+betekenis	"Pil"
+woord	"Illie"
+1651	
+id	"1610"
+betekenis	"Pil"
+woord	"Pirkie"
+1652	
+id	"2480"
+betekenis	"Pillen"
+woord	"Yalla"
+1653	
+id	"1594"
+betekenis	"Pillenslikker"
+woord	"Pilly Willy"
+1654	
+id	"1991"
+betekenis	"Pinautomaat"
+woord	"Slotto"
+1655	
+id	"244"
+betekenis	"Pinnen"
+woord	"Cerina"
+1656	
+id	"1608"
+betekenis	"Pistool"
+woord	"Pipa"
+1657	
+id	"1609"
+betekenis	"Pistool"
+woord	"Pippa"
+1658	
+id	"320"
+betekenis	"Pistool (type)"
+woord	"Colt .45"
+1659	
+id	"1666"
+betekenis	"Plaat"
+woord	"pokoe"
+1660	
+id	"1847"
+betekenis	"Plannen"
+woord	"Scemen"
+1661	
+id	"1952"
+betekenis	"Plannen"
+woord	"Skiemen"
+1662	
+id	"1202"
+betekenis	"Plassen"
+woord	"Lossen"
+1663	
+id	"24"
+betekenis	"Player"
+woord	"Adham"
+1664	
+id	"255"
+betekenis	"Player"
+woord	"Charteboy"
+1665	
+id	"268"
+betekenis	"Player"
+woord	"Chickie flasher"
+1666	
+id	"1786"
+betekenis	"Player"
+woord	"Romeo"
+1667	
+id	"2378"
+betekenis	"Player"
+woord	"Wakamang"
+1668	
+id	"2380"
+betekenis	"Player"
+woord	"Wakka mang"
+1669	
+id	"1041"
+betekenis	"Poepen"
+woord	"Kleien"
+1670	
+id	"1060"
+betekenis	"Poepen"
+woord	"Knetteren"
+1671	
+id	"1063"
+betekenis	"Poepen"
+woord	"Knittelen"
+1672	
+id	"1938"
+betekenis	"Poepen"
+woord	"Skateren"
+1673	
+id	"1751"
+betekenis	"Poepsporen in de onderbroek of de WC"
+woord	"Remsporen"
+1674	
+id	"2477"
+betekenis	"Politeagent op motor"
+woord	"XT"
+1675	
+id	"2478"
+betekenis	"Politeagent op motor"
+woord	"XT-er"
+1676	
+id	"95"
+betekenis	"Politie "
+woord	"Babylon"
+1677	
+id	"113"
+betekenis	"Politie "
+woord	"Balizie"
+1678	
+id	"335"
+betekenis	"Politie"
+woord	"Coppers"
+1679	
+id	"529"
+betekenis	"Politie"
+woord	"Fafoe"
+1680	
+id	"810"
+betekenis	"Politie"
+woord	"hnoush"
+1681	
+id	"853"
+betekenis	"Politie "
+woord	"Ibahas"
+1682	
+id	"854"
+betekenis	"Politie "
+woord	"Ibahaz"
+1683	
+id	"855"
+betekenis	"Politie "
+woord	"Ibahesj"
+1684	
+id	"856"
+betekenis	"Politie "
+woord	"Ibahjs"
+1685	
+id	"888"
+betekenis	"Politie"
+woord	"Ippi"
+1686	
+id	"907"
+betekenis	"Politie"
+woord	"Jantjes"
+1687	
+id	"949"
+betekenis	"Politie "
+woord	"Juten"
+1688	
+id	"950"
+betekenis	"Politie "
+woord	"Juut"
+1689	
+id	"1031"
+betekenis	"Politie"
+woord	"Kipp"
+1690	
+id	"1116"
+betekenis	"Politie"
+woord	"La Hora"
+1691	
+id	"1442"
+betekenis	"Politie "
+woord	"Offie"
+1692	
+id	"1638"
+betekenis	"Politie "
+woord	"Po po`s"
+1693	
+id	"1670"
+betekenis	"Politie "
+woord	"Polerius"
+1694	
+id	"1678"
+betekenis	"Politie "
+woord	"Popo"
+1695	
+id	"1872"
+betekenis	"Politie "
+woord	"Scotoe"
+1696	
+id	"1874"
+betekenis	"Politie "
+woord	"Scouto"
+1697	
+id	"1971"
+betekenis	"Politie"
+woord	"Skotoe"
+1698	
+id	"1972"
+betekenis	"Politie "
+woord	"Skotoe"
+1699	
+id	"1998"
+betekenis	"Politie"
+woord	"Smeris"
+1700	
+id	"1999"
+betekenis	"Politie"
+woord	"Smetta's"
+1701	
+id	"2007"
+betekenis	"Politie"
+woord	"Smurf"
+1702	
+id	"2008"
+betekenis	"Politie"
+woord	"Smurfen"
+1703	
+id	"2033"
+betekenis	"Politie"
+woord	"Snorre"
+1704	
+id	"2470"
+betekenis	"Politie "
+woord	"Wouten"
+1705	
+id	"1863"
+betekenis	"Politie op scooter"
+woord	"Scolitie"
+1706	
+id	"1570"
+betekenis	"Pooier"
+woord	"Pezavenk"
+1707	
+id	"1595"
+betekenis	"Pooier"
+woord	"Pimp"
+1708	
+id	"1629"
+betekenis	"Pooier"
+woord	"Playa"
+1709	
+id	"1521"
+betekenis	"Poorten met voetbal"
+woord	"Panna"
+1710	
+id	"1658"
+betekenis	"Portemonnee"
+woord	"Poetie"
+1711	
+id	"1685"
+betekenis	"Portugees"
+woord	"Portu"
+1712	
+id	"2185"
+betekenis	"Praatjes"
+woord	"Takkies"
+1713	
+id	"1115"
+betekenis	"Praten"
+woord	"Kwekku"
+1714	
+id	"1584"
+betekenis	"Praten"
+woord	"Pieren"
+1715	
+id	"2181"
+betekenis	"Praten"
+woord	"Tak(-k)i"
+1716	
+id	"2309"
+betekenis	"Problemen"
+woord	"Trobbie"
+1717	
+id	"1289"
+betekenis	"Problemen maken"
+woord	"Messen"
+1718	
+id	"1805"
+betekenis	"Problemen maken"
+woord	"Rwiena"
+1719	
+id	"1806"
+betekenis	"Problemen maken"
+woord	"Rwienna"
+1720	
+id	"1807"
+betekenis	"Problemen maken"
+woord	"Rwina"
+1721	
+id	"1704"
+betekenis	"Profiteren"
+woord	"Pro-beren"
+1722	
+id	"825"
+betekenis	"Prostituee"
+woord	"Hoo"
+1723	
+id	"963"
+betekenis	"Prostituee"
+woord	"Kahba"
+1724	
+id	"999"
+betekenis	"Prostituee"
+woord	"Kehba"
+1725	
+id	"1000"
+betekenis	"Prostituee"
+woord	"Kehebe"
+1726	
+id	"1105"
+betekenis	"Prostituee"
+woord	"Kurva"
+1727	
+id	"1108"
+betekenis	"Prostituee"
+woord	"Kussi"
+1728	
+id	"1355"
+betekenis	"Prostituee"
+woord	"Motjo"
+1729	
+id	"1388"
+betekenis	"Prostituee"
+woord	"Nathasja"
+1730	
+id	"1439"
+betekenis	"Prostituee"
+woord	"Oeter"
+1731	
+id	"1462"
+betekenis	"Prostituee"
+woord	"Oochie"
+1732	
+id	"1469"
+betekenis	"Prostituee"
+woord	"Orospu"
+1733	
+id	"1470"
+betekenis	"Prostituee"
+woord	"Orspoe"
+1734	
+id	"1471"
+betekenis	"Prostituee"
+woord	"Oruspu"
+1735	
+id	"1656"
+betekenis	"Prostituee"
+woord	"Poetana"
+1736	
+id	"1695"
+betekenis	"Prostituee"
+woord	"Prastitutka"
+1737	
+id	"1721"
+betekenis	"Prostituee"
+woord	"Puta"
+1738	
+id	"1724"
+betekenis	"Prostituee"
+woord	"Putain"
+1739	
+id	"1725"
+betekenis	"Prostituee"
+woord	"Puto"
+1740	
+id	"2045"
+betekenis	"Prostituee"
+woord	"Soraya"
+1741	
+id	"2217"
+betekenis	"Prostituee"
+woord	"Temijah"
+1742	
+id	"2496"
+betekenis	"Prostituee"
+woord	"Zahgba"
+1743	
+id	"2152"
+betekenis	"Prostuees"
+woord	"Suki"
+1744	
+id	"1705"
+betekenis	"Pruik"
+woord	"Proeka"
+1745	
+id	"2067"
+betekenis	"Psychisch niet in orde en parano"
+woord	"Spara"
+1746	
+id	"1710"
+betekenis	"Purmerend"
+woord	"P-Town"
+1747	
+id	"1718"
+betekenis	"Purmerend"
+woord	"Purra"
+1748	
+id	"1726"
+betekenis	"Puttershoek"
+woord	"Puttercity"
+1749	
+id	"1727"
+betekenis	"Puttershoek"
+woord	"Puttershood"
+1750	
+id	"1730"
+betekenis	"Pyromaan"
+woord	"Pyro"
+1751	
+id	"2131"
+betekenis	"Raar"
+woord	"Strano"
+1752	
+id	"2364"
+betekenis	"Raar"
+woord	"Vroes"
+1753	
+id	"2415"
+betekenis	"Raar"
+woord	"Weerie"
+1754	
+id	"1421"
+betekenis	"Racist"
+woord	"Nogro"
+1755	
+id	"708"
+betekenis	"Raden"
+woord	"Gissen"
+1756	
+id	"2082"
+betekenis	"Rappen"
+woord	"Spitten"
+1757	
+id	"1278"
+betekenis	"Rapper"
+woord	"Mc"
+1758	
+id	"441"
+betekenis	"Rapper die dist"
+woord	"Dokki Puti"
+1759	
+id	"250"
+betekenis	"Regelen"
+woord	"Chanten"
+1760	
+id	"339"
+betekenis	"Regelen"
+woord	"Coveren"
+1761	
+id	"579"
+betekenis	"Regelen"
+woord	"Fixxen"
+1762	
+id	"591"
+betekenis	"Relax"
+woord	"Flex"
+1763	
+id	"274"
+betekenis	"Relaxed"
+woord	"Chill"
+1764	
+id	"275"
+betekenis	"Relaxed"
+woord	"Chill"
+1765	
+id	"279"
+betekenis	"Relaxed"
+woord	"Chillex"
+1766	
+id	"280"
+betekenis	"Relaxed"
+woord	"Chillos"
+1767	
+id	"1141"
+betekenis	"Relaxed"
+woord	"Lauw"
+1768	
+id	"1744"
+betekenis	"Relaxed"
+woord	"Realx"
+1769	
+id	"2301"
+betekenis	"Relaxed"
+woord	"Trangosis"
+1770	
+id	"2302"
+betekenis	"Relaxed"
+woord	"Trankil"
+1771	
+id	"277"
+betekenis	"Relaxen"
+woord	"Chillen"
+1772	
+id	"1562"
+betekenis	"Rennen"
+woord	"Peppen"
+1773	
+id	"1754"
+betekenis	"Reputatie"
+woord	"Rep"
+1774	
+id	"212"
+betekenis	"Respect"
+woord	"Booka"
+1775	
+id	"1706"
+betekenis	"Respect"
+woord	"props"
+1776	
+id	"1804"
+betekenis	"Revolutie"
+woord	"RvE"
+1777	
+id	"1347"
+betekenis	"Rij voorzichtig"
+woord	"Mooi rij"
+1778	
+id	"1758"
+betekenis	"Rijbewijs"
+woord	"Riba"
+1779	
+id	"1763"
+betekenis	"Rijbewijs"
+woord	"Rijbie"
+1780	
+id	"202"
+betekenis	"Rijden"
+woord	"Boeken"
+1781	
+id	"531"
+betekenis	"Rijden"
+woord	"Fahren"
+1782	
+id	"433"
+betekenis	"Rijke gozer"
+woord	"Doekoe man"
+1783	
+id	"1765"
+betekenis	"Rijswijk"
+woord	"Rijza"
+1784	
+id	"1769"
+betekenis	"Rijswijk"
+woord	"Rissa"
+1785	
+id	"1637"
+betekenis	"Roken"
+woord	"Pluimen"
+1786	
+id	"2001"
+betekenis	"Roken "
+woord	"Smoke"
+1787	
+id	"1782"
+betekenis	"Roling on floor laufhing"
+woord	"ROFL"
+1788	
+id	"1784"
+betekenis	"Rolling on the floor, laughing out loud"
+woord	"ROFLOL"
+1789	
+id	"1783"
+betekenis	"Rolling over floor laughing my ass off"
+woord	"ROFLMAO"
+1790	
+id	"760"
+betekenis	"Rommel"
+woord	"Habbi dabbi"
+1791	
+id	"278"
+betekenis	"Rondhangen "
+woord	"Chillen"
+1792	
+id	"1788"
+betekenis	"Roosendaal"
+woord	"Rosco"
+1793	
+id	"1793"
+betekenis	"Roosendaal"
+woord	"RSD"
+1794	
+id	"973"
+betekenis	"Rosse buurt"
+woord	"Kampung"
+1795	
+id	"1787"
+betekenis	"Rotonde"
+woord	"Rondje"
+1796	
+id	"628"
+betekenis	"Rotterdam"
+woord	"Fot"
+1797	
+id	"1682"
+betekenis	"Rotterdam"
+woord	"Porfoto"
+1798	
+id	"1777"
+betekenis	"Rotterdam "
+woord	"Rofa"
+1799	
+id	"1779"
+betekenis	"Rotterdam "
+woord	"Roffa"
+1800	
+id	"1780"
+betekenis	"Rotterdam"
+woord	"Roffadam"
+1801	
+id	"1791"
+betekenis	"Rotterdam"
+woord	"Rotje Knor"
+1802	
+id	"1792"
+betekenis	"Rotterdam"
+woord	"Rotto"
+1803	
+id	"2226"
+betekenis	"Rotterdam"
+woord	"Tha Dockz"
+1804	
+id	"2229"
+betekenis	"Rotterdam"
+woord	"The Docks"
+1805	
+id	"1789"
+betekenis	"Rozenburg"
+woord	"Rosso"
+1806	
+id	"385"
+betekenis	"Rustig aan"
+woord	"Deisje"
+1807	
+id	"743"
+betekenis	"Ruw"
+woord	"Grogiet"
+1808	
+id	"149"
+betekenis	"Ruzie "
+woord	"Beef"
+1809	
+id	"573"
+betekenis	"Ruzie "
+woord	"Fiti"
+1810	
+id	"574"
+betekenis	"Ruzie "
+woord	"Fitie"
+1811	
+id	"575"
+betekenis	"Ruzie "
+woord	"Fitie"
+1812	
+id	"577"
+betekenis	"Ruzie "
+woord	"Fittie"
+1813	
+id	"2134"
+betekenis	"Ruzie "
+woord	"Stroggel"
+1814	
+id	"641"
+betekenis	"Ruzie zoeken"
+woord	"Fronten"
+1815	
+id	"384"
+betekenis	"Saai"
+woord	"Dede"
+1816	
+id	"449"
+betekenis	"Saai"
+woord	"Dood"
+1817	
+id	"1408"
+betekenis	"Sandalen"
+woord	"Nike air jeruzalem"
+1818	
+id	"1822"
+betekenis	"Saus"
+woord	"Salsa"
+1819	
+id	"1848"
+betekenis	"Schalkwijk"
+woord	"Schalko"
+1820	
+id	"1838"
+betekenis	"Schandalig"
+woord	"Scandoules"
+1821	
+id	"1931"
+betekenis	"Schande"
+woord	"Sjing"
+1822	
+id	"1932"
+betekenis	"Schande"
+woord	"Sjing"
+1823	
+id	"1327"
+betekenis	"Schat"
+woord	"Moen"
+1824	
+id	"77"
+betekenis	"Schatje"
+woord	"Askim"
+1825	
+id	"78"
+betekenis	"Schatje"
+woord	"Askum"
+1826	
+id	"86"
+betekenis	"Schatje"
+woord	"Azin"
+1827	
+id	"94"
+betekenis	"Schatje"
+woord	"Baby boe"
+1828	
+id	"478"
+betekenis	"Schatje "
+woord	"Dushi"
+1829	
+id	"479"
+betekenis	"Schatje "
+woord	"Dusji"
+1830	
+id	"498"
+betekenis	"Schatje"
+woord	"Elfje"
+1831	
+id	"500"
+betekenis	"Schatje"
+woord	"Embraca"
+1832	
+id	"648"
+betekenis	"Schatje"
+woord	"Fuf"
+1833	
+id	"1244"
+betekenis	"Schatje"
+woord	"Manies"
+1834	
+id	"1245"
+betekenis	"Schatje"
+woord	"Manis"
+1835	
+id	"1428"
+betekenis	"Schatje"
+woord	"NooNie"
+1836	
+id	"1651"
+betekenis	"Schatje"
+woord	"Poepie"
+1837	
+id	"1835"
+betekenis	"Schatje "
+woord	"Sayang"
+1838	
+id	"1844"
+betekenis	"Schatje "
+woord	"Scatie"
+1839	
+id	"1902"
+betekenis	"Schatje"
+woord	"Shortie"
+1840	
+id	"1935"
+betekenis	"Schatje "
+woord	"Skaatje"
+1841	
+id	"1950"
+betekenis	"Schatje"
+woord	"Skiddy"
+1842	
+id	"1996"
+betekenis	"Schatje"
+woord	"Smatje"
+1843	
+id	"1997"
+betekenis	"Schatje "
+woord	"Smatje"
+1844	
+id	"2168"
+betekenis	"Schatje"
+woord	"Switi"
+1845	
+id	"2276"
+betekenis	"Schatje"
+woord	"ToeTie"
+1846	
+id	"436"
+betekenis	"Schatje (zeggen meiden)"
+woord	"Does"
+1847	
+id	"1017"
+betekenis	"Schattig"
+woord	"KiKi baai"
+1848	
+id	"367"
+betekenis	"Scheet"
+woord	"Dally"
+1849	
+id	"370"
+betekenis	"Scheet"
+woord	"Dampoe"
+1850	
+id	"1711"
+betekenis	"Scheet"
+woord	"Puf"
+1851	
+id	"1775"
+betekenis	"Scheet"
+woord	"Roefoes"
+1852	
+id	"1795"
+betekenis	"Scheet"
+woord	"Ruft"
+1853	
+id	"2162"
+betekenis	"Scheet"
+woord	"swampoe"
+1854	
+id	"671"
+betekenis	"Scheet laten"
+woord	"Gassen"
+1855	
+id	"1712"
+betekenis	"Scheet laten"
+woord	"Puffen"
+1856	
+id	"953"
+betekenis	"Scheit"
+woord	"Ka"
+1857	
+id	"1104"
+betekenis	"Scheit"
+woord	"Kupa"
+1858	
+id	"1842"
+betekenis	"Scheit"
+woord	"Scat"
+1859	
+id	"1866"
+betekenis	"Schep"
+woord	"Scopoe"
+1860	
+id	"1860"
+betekenis	"Scheveningen"
+woord	"Sciffa"
+1861	
+id	"1947"
+betekenis	"Scheveningen"
+woord	"Skevie"
+1862	
+id	"1953"
+betekenis	"Scheveningen"
+woord	"Skiffa"
+1863	
+id	"1954"
+betekenis	"Scheveningen"
+woord	"Skiffy"
+1864	
+id	"1948"
+betekenis	"Schiebroek Rotterdam"
+woord	"Ski bronx"
+1865	
+id	"639"
+betekenis	"Schiet op"
+woord	"Fromoe"
+1866	
+id	"312"
+betekenis	"Schieten"
+woord	"Clippen"
+1867	
+id	"713"
+betekenis	"Schijt!"
+woord	"Gnoen"
+1868	
+id	"1914"
+betekenis	"Schijt!"
+woord	"Sikterla"
+1869	
+id	"1915"
+betekenis	"Schijt!"
+woord	"Sikterlan"
+1870	
+id	"1945"
+betekenis	"Schijt!"
+woord	"Skeit"
+1871	
+id	"1962"
+betekenis	"Schijt!"
+woord	"skit"
+1872	
+id	"1963"
+betekenis	"Schijt!"
+woord	"Skitmo"
+1873	
+id	"1964"
+betekenis	"Schijt!"
+woord	"Skitta"
+1874	
+id	"1965"
+betekenis	"Schijt!"
+woord	"Skitta"
+1875	
+id	"1967"
+betekenis	"Schijt!"
+woord	"Skizzle"
+1876	
+id	"2205"
+betekenis	"Schijt!"
+woord	"Taz"
+1877	
+id	"2206"
+betekenis	"Schijt!"
+woord	"Tazz"
+1878	
+id	"1959"
+betekenis	"Schiphol"
+woord	"Skippa"
+1879	
+id	"1538"
+betekenis	"Schoen"
+woord	"Pata"
+1880	
+id	"1542"
+betekenis	"Schoen"
+woord	"Patta"
+1881	
+id	"1898"
+betekenis	"Schoen"
+woord	"Shoeba"
+1882	
+id	"1899"
+betekenis	"Schoen"
+woord	"Shoebas"
+1883	
+id	"134"
+betekenis	"Schoenen "
+woord	"Batas"
+1884	
+id	"580"
+betekenis	"Schoenen"
+woord	"Fizzles"
+1885	
+id	"859"
+betekenis	"Schoenen"
+woord	"Ice creams"
+1886	
+id	"1546"
+betekenis	"Schoenen"
+woord	"Patta's"
+1887	
+id	"1544"
+betekenis	"Schoenen "
+woord	"Pattas"
+1888	
+id	"1545"
+betekenis	"Schoenen "
+woord	"Pattas"
+1889	
+id	"1547"
+betekenis	"Schoenen"
+woord	"Pattjobs"
+1890	
+id	"1692"
+betekenis	"Schoenen"
+woord	"Prada's"
+1891	
+id	"1861"
+betekenis	"Schoenen "
+woord	"Scoebaas"
+1892	
+id	"1862"
+betekenis	"Schoffie"
+woord	"Scoffie"
+1893	
+id	"1968"
+betekenis	"Schollevaar"
+woord	"Skolla"
+1894	
+id	"2137"
+betekenis	"Schooier"
+woord	"Struggler"
+1895	
+id	"1868"
+betekenis	"School "
+woord	"Scoro"
+1896	
+id	"1870"
+betekenis	"School "
+woord	"Scorro"
+1897	
+id	"1969"
+betekenis	"School"
+woord	"Skoro"
+1898	
+id	"1970"
+betekenis	"School "
+woord	"Skoro"
+1899	
+id	"1869"
+betekenis	"Schoolfeest"
+woord	"Scoro fisa"
+1900	
+id	"1350"
+betekenis	"Schoonmoeder"
+woord	"Moosie"
+1901	
+id	"1976"
+betekenis	"Schrikken"
+woord	"Skrekie"
+1902	
+id	"1977"
+betekenis	"Schrikken"
+woord	"Skrieki"
+1903	
+id	"1978"
+betekenis	"Schroevendraaier"
+woord	"Skroeba"
+1904	
+id	"1857"
+betekenis	"Schudden"
+woord	"Schuren"
+1905	
+id	"2170"
+betekenis	"Schudden"
+woord	"Swollen"
+1906	
+id	"1864"
+betekenis	"Scooter"
+woord	"Scooba"
+1907	
+id	"1865"
+betekenis	"Scooter"
+woord	"Scooby"
+1908	
+id	"2397"
+betekenis	"Sde weg kwijt"
+woord	"Wasted"
+1909	
+id	"352"
+betekenis	"See you / ik zie je nog"
+woord	"CU"
+1910	
+id	"748"
+betekenis	"Seksueel opgewonden"
+woord	"Gruizig"
+1911	
+id	"1094"
+betekenis	"Seksueel opgewonden"
+woord	"Krasi"
+1912	
+id	"1566"
+betekenis	"Seksueel opgewonden"
+woord	"Perr"
+1913	
+id	"1987"
+betekenis	"Selamat"
+woord	"SLMT"
+1914	
+id	"1884"
+betekenis	"Shag"
+woord	"Shagga"
+1915	
+id	"1887"
+betekenis	"Shit"
+woord	"Sheit"
+1916	
+id	"115"
+betekenis	"Shit zeg"
+woord	"Balu"
+1917	
+id	"1539"
+betekenis	"Shit zeg"
+woord	"Pataaat"
+1918	
+id	"313"
+betekenis	"Showen"
+woord	"Clippen"
+1919	
+id	"2417"
+betekenis	"Sieraden"
+woord	"Weight"
+1920	
+id	"1499"
+betekenis	"Sigaar"
+woord	"Paffa"
+1921	
+id	"512"
+betekenis	"Sigaret"
+woord	"Etje"
+1922	
+id	"668"
+betekenis	"Sigaret"
+woord	"Garoe"
+1923	
+id	"669"
+betekenis	"Sigaret"
+woord	"Garrol"
+1924	
+id	"681"
+betekenis	"Sigaret"
+woord	"Geroe"
+1925	
+id	"683"
+betekenis	"Sigaret"
+woord	"Gerro"
+1926	
+id	"684"
+betekenis	"Sigaret"
+woord	"Gerrol"
+1927	
+id	"693"
+betekenis	"Sigaret"
+woord	"Gherro"
+1928	
+id	"1492"
+betekenis	"Sigaret"
+woord	"Paak"
+1929	
+id	"1812"
+betekenis	"Sigaret"
+woord	"Saffie"
+1930	
+id	"1909"
+betekenis	"Sigaret "
+woord	"Sigara"
+1931	
+id	"1910"
+betekenis	"Sigaret "
+woord	"Sigo"
+1932	
+id	"1911"
+betekenis	"Sigaret "
+woord	"Sikara"
+1933	
+id	"2012"
+betekenis	"Sigaret "
+woord	"Snagga"
+1934	
+id	"2176"
+betekenis	"Sigaret "
+woord	"Tabacca"
+1935	
+id	"2040"
+betekenis	"Sigaret roken"
+woord	"Soetoe"
+1936	
+id	"682"
+betekenis	"Sigaretten"
+woord	"Gerous"
+1937	
+id	"2020"
+betekenis	"Sigaretten"
+woord	"Snef"
+1938	
+id	"2177"
+betekenis	"Sigaretten"
+woord	"Tabacca"
+1939	
+id	"2254"
+betekenis	"Sjans"
+woord	"Tjanteren"
+1940	
+id	"386"
+betekenis	"Skateboard"
+woord	"Dek"
+1941	
+id	"1785"
+betekenis	"Skaten"
+woord	"Rollen"
+1942	
+id	"801"
+betekenis	"Skatetruc"
+woord	"High lemon"
+1943	
+id	"139"
+betekenis	"Slaan "
+woord	"Batten"
+1944	
+id	"214"
+betekenis	"Slaan "
+woord	"Bossen"
+1945	
+id	"272"
+betekenis	"Slaan "
+woord	"Chieren"
+1946	
+id	"812"
+betekenis	"Slaan"
+woord	"Hoeken"
+1947	
+id	"1035"
+betekenis	"Slaan"
+woord	"Klappen"
+1948	
+id	"1372"
+betekenis	"Slaan "
+woord	"Nacken"
+1949	
+id	"1504"
+betekenis	"Slaan"
+woord	"Pakkie"
+1950	
+id	"1642"
+betekenis	"Slaan"
+woord	"Poekoel"
+1951	
+id	"1673"
+betekenis	"Slaan"
+woord	"Pompen"
+1952	
+id	"1994"
+betekenis	"Slaan"
+woord	"Smack"
+1953	
+id	"2094"
+betekenis	"Slaap"
+woord	"Sriebie"
+1954	
+id	"2312"
+betekenis	"Slaat nergens op!"
+woord	"Trza"
+1955	
+id	"349"
+betekenis	"Slapen"
+woord	"Crossen"
+1956	
+id	"1074"
+betekenis	"Slapen"
+woord	"Koesen"
+1957	
+id	"1226"
+betekenis	"Slapen"
+woord	"Maffa"
+1958	
+id	"210"
+betekenis	"Slappeling"
+woord	"Boneles"
+1959	
+id	"656"
+betekenis	"Slecht"
+woord	"Gaar"
+1960	
+id	"659"
+betekenis	"Slecht"
+woord	"Gaga"
+1961	
+id	"966"
+betekenis	"Slecht"
+woord	"Kaka"
+1962	
+id	"1268"
+betekenis	"Slecht"
+woord	"Matig"
+1963	
+id	"2430"
+betekenis	"Slecht"
+woord	"Wicked"
+1964	
+id	"601"
+betekenis	"Slecht gedraaide joint"
+woord	"Flonkoe"
+1965	
+id	"972"
+betekenis	"Slechte wijk"
+woord	"Kampoe"
+1966	
+id	"1984"
+betekenis	"Sliedrecht"
+woord	"SLD"
+1967	
+id	"1078"
+betekenis	"Slim"
+woord	"Koni"
+1968	
+id	"1983"
+betekenis	"Slippers"
+woord	"Slapoes"
+1969	
+id	"120"
+betekenis	"Sloerie"
+woord	"Banga"
+1970	
+id	"230"
+betekenis	"Sloerie"
+woord	"Cabokka"
+1971	
+id	"474"
+betekenis	"Sloerie"
+woord	"Dulo"
+1972	
+id	"515"
+betekenis	"Sloerie"
+woord	"Euroknaller"
+1973	
+id	"807"
+betekenis	"Sloerie"
+woord	"Hizz"
+1974	
+id	"993"
+betekenis	"Sloerie"
+woord	"Katvanger"
+1975	
+id	"1253"
+betekenis	"Sloerie"
+woord	"Marjolein"
+1976	
+id	"1440"
+betekenis	"Sloerie"
+woord	"Oeter"
+1977	
+id	"1578"
+betekenis	"Sloerie"
+woord	"Picko"
+1978	
+id	"1634"
+betekenis	"Sloerie"
+woord	"Ploeger"
+1979	
+id	"1949"
+betekenis	"Sloerie"
+woord	"Skida"
+1980	
+id	"1985"
+betekenis	"Sloerie"
+woord	"Slejj"
+1981	
+id	"1988"
+betekenis	"Sloerie"
+woord	"Sloeri"
+1982	
+id	"1989"
+betekenis	"Sloerie"
+woord	"Sloerie"
+1983	
+id	"2031"
+betekenis	"Sloerie"
+woord	"Snol"
+1984	
+id	"2124"
+betekenis	"Sloerie"
+woord	"Straatmadelief"
+1985	
+id	"2213"
+betekenis	"Sloerie"
+woord	"Tella"
+1986	
+id	"2220"
+betekenis	"Sloerie"
+woord	"Teun"
+1987	
+id	"2298"
+betekenis	"Sloerie"
+woord	"Trampa"
+1988	
+id	"2358"
+betekenis	"Sloerie"
+woord	"Voisha"
+1989	
+id	"2513"
+betekenis	"Sloerie"
+woord	"Zoubie"
+1990	
+id	"780"
+betekenis	"Slome"
+woord	"Harry"
+1991	
+id	"2343"
+betekenis	"Slopen"
+woord	"Veraggen"
+1992	
+id	"744"
+betekenis	"Slordig"
+woord	"Grogiet"
+1993	
+id	"1832"
+betekenis	"Smeerlap"
+woord	"Sarat"
+1994	
+id	"1739"
+betekenis	"Smerig"
+woord	"Ransape"
+1995	
+id	"2223"
+betekenis	"SMS-en / Whats Appen"
+woord	"Texten"
+1996	
+id	"2348"
+betekenis	"Snackbar"
+woord	"Vetbak"
+1997	
+id	"2363"
+betekenis	"Snackbar"
+woord	"vreetkeet"
+1998	
+id	"1810"
+betekenis	"Snappen"
+woord	"Sabbi"
+1999	
+id	"2354"
+betekenis	"Snel alcohol drinken"
+woord	"Vlammen"
+2000	
+id	"297"
+betekenis	"Snijden"
+woord	"Choppen"
+2001	
+id	"2023"
+betekenis	"Snuif drugs"
+woord	"Sniffie"
+2002	
+id	"1402"
+betekenis	"Snuiven"
+woord	"NiffeN"
+2003	
+id	"1093"
+betekenis	"SOA"
+woord	"Krasbal"
+2004	
+id	"1667"
+betekenis	"Songs"
+woord	"Pokoes"
+2005	
+id	"1212"
+betekenis	"Songteksten"
+woord	"Lyrics"
+2006	
+id	"2056"
+betekenis	"Spannend"
+woord	"Spang"
+2007	
+id	"2059"
+betekenis	"Spannend"
+woord	"Spange"
+2008	
+id	"2050"
+betekenis	"Speed"
+woord	"Spa"
+2009	
+id	"700"
+betekenis	"Spel"
+woord	"Gimma"
+2010	
+id	"1696"
+betekenis	"Spelen"
+woord	"Preppen"
+2011	
+id	"2072"
+betekenis	"Sperma"
+woord	"Speshie"
+2012	
+id	"2273"
+betekenis	"Sperma"
+woord	"Toelie"
+2013	
+id	"2524"
+betekenis	"Sperma "
+woord	"Zwaad"
+2014	
+id	"1961"
+betekenis	"spijbelen"
+woord	"Skippen"
+2015	
+id	"2080"
+betekenis	"Spijkenisse"
+woord	"Spikri"
+2016	
+id	"2361"
+betekenis	"Spijkenisse"
+woord	"Vpiekerie"
+2017	
+id	"93"
+betekenis	"Spook"
+woord	"Baboe"
+2018	
+id	"2090"
+betekenis	"spoorwegpolitie"
+woord	"Spopo"
+2019	
+id	"2017"
+betekenis	"Sportschoen"
+woord	"Sneaker"
+2020	
+id	"2018"
+betekenis	"Sportschoenen"
+woord	"Sneakers"
+2021	
+id	"1690"
+betekenis	"Spreek je later"
+woord	"Praat je later"
+2022	
+id	"2069"
+betekenis	"Spreek je later"
+woord	"Spater"
+2023	
+id	"2078"
+betekenis	"Spugen"
+woord	"Spietie"
+2024	
+id	"1990"
+betekenis	"Spuiten en slikken"
+woord	"Slokken"
+2025	
+id	"629"
+betekenis	"Stad"
+woord	"Fotto"
+2026	
+id	"2119"
+betekenis	"Stad"
+woord	"Stittie"
+2027	
+id	"2096"
+betekenis	"Stadskanaal"
+woord	"Stakka"
+2028	
+id	"371"
+betekenis	"Stank"
+woord	"Dampoe"
+2029	
+id	"422"
+betekenis	"Steken "
+woord	"Djoeken"
+2030	
+id	"416"
+betekenis	"Stelen"
+woord	"Djaffen"
+2031	
+id	"977"
+betekenis	"Stelen"
+woord	"Kapen"
+2032	
+id	"1007"
+betekenis	"Stelen "
+woord	"Keten"
+2033	
+id	"1036"
+betekenis	"Stelen"
+woord	"Klaren"
+2034	
+id	"1379"
+betekenis	"Stelen"
+woord	"Nakken"
+2035	
+id	"1460"
+betekenis	"Stelen"
+woord	"Ontnikken"
+2036	
+id	"1496"
+betekenis	"Stelen"
+woord	"Pachuri"
+2037	
+id	"1768"
+betekenis	"Stelen"
+woord	"Rippen"
+2038	
+id	"1771"
+betekenis	"Stelen"
+woord	"Robba"
+2039	
+id	"1830"
+betekenis	"Stelen "
+woord	"Sappen"
+2040	
+id	"1904"
+betekenis	"Stelen"
+woord	"Shoufen"
+2041	
+id	"2125"
+betekenis	"Stelen"
+woord	"Straffen"
+2042	
+id	"2253"
+betekenis	"Stelen"
+woord	"Tjallen"
+2043	
+id	"137"
+betekenis	"Sterke drank"
+woord	"Batra"
+2044	
+id	"2300"
+betekenis	"Sterke vrouw"
+woord	"Trangaoema"
+2045	
+id	"2100"
+betekenis	"Stevig"
+woord	"Stampoe"
+2046	
+id	"2097"
+betekenis	"Stijl"
+woord	"Stalla"
+2047	
+id	"2117"
+betekenis	"Stijl"
+woord	"Stilo"
+2048	
+id	"2267"
+betekenis	"Stikken in je joint"
+woord	"Tjooke"
+2049	
+id	"2277"
+betekenis	"Stil"
+woord	"Toetoemoel"
+2050	
+id	"754"
+betekenis	"Stille kracht"
+woord	"Guna guna"
+2051	
+id	"2114"
+betekenis	"Stilletto"
+woord	"Stiletto"
+2052	
+id	"2462"
+betekenis	"Stinkerd "
+woord	"Woeshoem"
+2053	
+id	"2118"
+betekenis	"Stinkt"
+woord	"Stinki"
+2054	
+id	"2120"
+betekenis	"Stoel"
+woord	"Stoeroe"
+2055	
+id	"2259"
+betekenis	"Stoel"
+woord	"Tjara"
+2056	
+id	"99"
+betekenis	"Stoer"
+woord	"Baga"
+2057	
+id	"177"
+betekenis	"Stoer"
+woord	"Bigie"
+2058	
+id	"454"
+betekenis	"Stoer"
+woord	"Dope"
+2059	
+id	"805"
+betekenis	"Stoer"
+woord	"Hip"
+2060	
+id	"806"
+betekenis	"Stoer"
+woord	"Hip"
+2061	
+id	"990"
+betekenis	"Stoer"
+woord	"Kasta"
+2062	
+id	"1079"
+betekenis	"Stoer"
+woord	"Koning"
+2063	
+id	"1776"
+betekenis	"Stoer"
+woord	"Rof"
+2064	
+id	"1778"
+betekenis	"Stoer"
+woord	"Roff"
+2065	
+id	"2111"
+betekenis	"Stoer"
+woord	"Stier"
+2066	
+id	"91"
+betekenis	"Stoer doen"
+woord	"Baat"
+2067	
+id	"1677"
+betekenis	"Stoer doen"
+woord	"Popie Joopie doen"
+2068	
+id	"1906"
+betekenis	"Stoer doen"
+woord	"Showen"
+2069	
+id	"2313"
+betekenis	"Stoer hoor!"
+woord	"Tuk chiki"
+2070	
+id	"1290"
+betekenis	"Stoer meisje"
+woord	"Meta"
+2071	
+id	"661"
+betekenis	"Stoere gozert"
+woord	"Gangsta"
+2072	
+id	"662"
+betekenis	"Stoere gozert"
+woord	"Gangster"
+2073	
+id	"997"
+betekenis	"Stoere gozert"
+woord	"Kecin"
+2074	
+id	"2263"
+betekenis	"Stoere gozert"
+woord	"Tjoenboi"
+2075	
+id	"26"
+betekenis	"Stom"
+woord	"Adoe"
+2076	
+id	"331"
+betekenis	"Stom"
+woord	"Constantin"
+2077	
+id	"1930"
+betekenis	"Stom"
+woord	"Sjikiman"
+2078	
+id	"2183"
+betekenis	"Stom"
+woord	"Takkerheid"
+2079	
+id	"342"
+betekenis	"Stoned"
+woord	"Crackie"
+2080	
+id	"962"
+betekenis	"Stoned"
+woord	"Kaffa"
+2081	
+id	"1058"
+betekenis	"Stoned"
+woord	"Knets"
+2082	
+id	"1059"
+betekenis	"Stoned"
+woord	"Knetter"
+2083	
+id	"1559"
+betekenis	"Stoned"
+woord	"Peng"
+2084	
+id	"1845"
+betekenis	"Stoned"
+woord	"Scava"
+2085	
+id	"1936"
+betekenis	"Stoned "
+woord	"Skaffa"
+2086	
+id	"2392"
+betekenis	"Stoned "
+woord	"Wappa"
+2087	
+id	"2393"
+betekenis	"Stoned "
+woord	"Wappie"
+2088	
+id	"2136"
+betekenis	"Stoned en dronken"
+woord	"Stronken"
+2089	
+id	"1937"
+betekenis	"Stoned zijn"
+woord	"Skaffa"
+2090	
+id	"2052"
+betekenis	"Stoned zijn"
+woord	"Spacen"
+2091	
+id	"1896"
+betekenis	"Stoot"
+woord	"Shock"
+2092	
+id	"1382"
+betekenis	"Stoppen"
+woord	"Nakkuh"
+2093	
+id	"1423"
+betekenis	"Stoppen"
+woord	"Nokken"
+2094	
+id	"2142"
+betekenis	"Stotteraar"
+woord	"Stukkel"
+2095	
+id	"376"
+betekenis	"Straat"
+woord	"Dang"
+2096	
+id	"1691"
+betekenis	"Straat"
+woord	"Prada"
+2097	
+id	"1229"
+betekenis	"Straataap"
+woord	"Makaak"
+2098	
+id	"719"
+betekenis	"Straatsoldaten "
+woord	"Goons"
+2099	
+id	"2132"
+betekenis	"Straatvoetbal"
+woord	"Strata"
+2100	
+id	"1555"
+betekenis	"Straf"
+woord	"Penalty"
+2101	
+id	"1601"
+betekenis	"Strafschop"
+woord	"Pingel"
+2102	
+id	"366"
+betekenis	"Straks"
+woord	"Dalijk"
+2103	
+id	"1630"
+betekenis	"Strand"
+woord	"Playa"
+2104	
+id	"2245"
+betekenis	"Streken hebben"
+woord	"Tjaaring"
+2105	
+id	"56"
+betekenis	"String"
+woord	"Amperbroekie"
+2106	
+id	"1745"
+betekenis	"String"
+woord	"Reetveter"
+2107	
+id	"2189"
+betekenis	"String"
+woord	"Tang"
+2108	
+id	"2416"
+betekenis	"String die boven broek uitkomt"
+woord	"Weggie"
+2109	
+id	"2141"
+betekenis	"Studeren"
+woord	"Stuka"
+2110	
+id	"2138"
+betekenis	"Studiefinanciering"
+woord	"StuFi"
+2111	
+id	"1701"
+betekenis	"Subliem"
+woord	"Prijsloos"
+2112	
+id	"294"
+betekenis	"Sukkel"
+woord	"Chomp"
+2113	
+id	"520"
+betekenis	"Sukkel"
+woord	"Ezel"
+2114	
+id	"521"
+betekenis	"Sukkel"
+woord	"Ezelin"
+2115	
+id	"584"
+betekenis	"Sukkel"
+woord	"Flares"
+2116	
+id	"642"
+betekenis	"Sukkel"
+woord	"Frotterd"
+2117	
+id	"680"
+betekenis	"Sukkel"
+woord	"Gepetto"
+2118	
+id	"714"
+betekenis	"Sukkel"
+woord	"Goel"
+2119	
+id	"791"
+betekenis	"Sukkel"
+woord	"Hennie"
+2120	
+id	"1027"
+betekenis	"Sukkel"
+woord	"Kindje"
+2121	
+id	"1068"
+betekenis	"Sukkel"
+woord	"Koekert"
+2122	
+id	"1209"
+betekenis	"Sukkel"
+woord	"Luster"
+2123	
+id	"1369"
+betekenis	"Sukkel"
+woord	"Naab"
+2124	
+id	"1396"
+betekenis	"Sukkel"
+woord	"Nerd"
+2125	
+id	"1419"
+betekenis	"Sukkel"
+woord	"Noeid"
+2126	
+id	"1441"
+betekenis	"Sukkel"
+woord	"Oettoe"
+2127	
+id	"1467"
+betekenis	"Sukkel"
+woord	"Oppeling"
+2128	
+id	"1648"
+betekenis	"Sukkel"
+woord	"Poentje"
+2129	
+id	"1707"
+betekenis	"Sukkel"
+woord	"Prutser"
+2130	
+id	"1799"
+betekenis	"Sukkel"
+woord	"Rukker"
+2131	
+id	"1821"
+betekenis	"Sukkel"
+woord	"Salak"
+2132	
+id	"1917"
+betekenis	"Sukkel"
+woord	"Sinkeh"
+2133	
+id	"1924"
+betekenis	"Sukkel"
+woord	"Sjakie"
+2134	
+id	"1925"
+betekenis	"Sukkel"
+woord	"Sjakkoo"
+2135	
+id	"1933"
+betekenis	"Sukkel"
+woord	"Sjonnie"
+2136	
+id	"2006"
+betekenis	"Sukkel"
+woord	"Smur"
+2137	
+id	"2029"
+betekenis	"Sukkel"
+woord	"Snoebel"
+2138	
+id	"2150"
+betekenis	"Sukkel"
+woord	"Suchaaa"
+2139	
+id	"2320"
+betekenis	"Sukkel"
+woord	"ukkel"
+2140	
+id	"1427"
+betekenis	"Sukkel (afkorting van nobody)"
+woord	"Noob"
+2141	
+id	"1397"
+betekenis	"Sukkel taal"
+woord	"Nerd taal"
+2142	
+id	"1022"
+betekenis	"Super"
+woord	"Killa"
+2143	
+id	"1113"
+betekenis	"Surinaams feest in Amsterdam"
+woord	"Kwakoe"
+2144	
+id	"2044"
+betekenis	"Surinaams kaartspel"
+woord	"Songo"
+2145	
+id	"960"
+betekenis	"Surinaamse muziek"
+woord	"Kaboela"
+2146	
+id	"2092"
+betekenis	"Suriname"
+woord	"Sranan(-g)"
+2147	
+id	"2093"
+betekenis	"Suriname"
+woord	"Sranang"
+2148	
+id	"2148"
+betekenis	"Suriname"
+woord	"Su"
+2149	
+id	"2155"
+betekenis	"Surinamer"
+woord	"Suri"
+2150	
+id	"904"
+betekenis	"Surinamer van Javaanse afkomst"
+woord	"Jampa"
+2151	
+id	"2236"
+betekenis	"Tanden"
+woord	"Tiffie"
+2152	
+id	"1746"
+betekenis	"Tanga"
+woord	"Reetveter"
+2153	
+id	"100"
+betekenis	"Tas"
+woord	"Bagga"
+2154	
+id	"1142"
+betekenis	"Te erg"
+woord	"Lauw"
+2155	
+id	"1453"
+betekenis	"Te erg"
+woord	"Ommin"
+2156	
+id	"630"
+betekenis	"Te pakken nemen"
+woord	"Fraggen"
+2157	
+id	"2193"
+betekenis	"Te stoer doen"
+woord	"Tantek kesoemek"
+2158	
+id	"1858"
+betekenis	"Tegenaan drukken"
+woord	"Schuren"
+2159	
+id	"1956"
+betekenis	"Terecht wijzen"
+woord	"Skinnen"
+2160	
+id	"1472"
+betekenis	"Thuis"
+woord	"Os"
+2161	
+id	"276"
+betekenis	"Tilburg"
+woord	"Chillburg"
+2162	
+id	"1024"
+betekenis	"Tilburg"
+woord	"Killburg"
+2163	
+id	"2238"
+betekenis	"Tilburg"
+woord	"Tikoe"
+2164	
+id	"2239"
+betekenis	"Tilburg"
+woord	"Tilly"
+2165	
+id	"2240"
+betekenis	"Timberlands"
+woord	"Timba's"
+2166	
+id	"2315"
+betekenis	"Tip en vloe voor joint"
+woord	"TV"
+2167	
+id	"18"
+betekenis	"Tof"
+woord	"Aan"
+2168	
+id	"88"
+betekenis	"Tof"
+woord	"Baad"
+2169	
+id	"428"
+betekenis	"Tof"
+woord	"Dodelijk"
+2170	
+id	"1083"
+betekenis	"Toffe gast"
+woord	"Koolio"
+2171	
+id	"144"
+betekenis	"Toffe jongen"
+woord	"B-Boy"
+2172	
+id	"2287"
+betekenis	"Tongzoenen"
+woord	"Tongen"
+2173	
+id	"2288"
+betekenis	"Tonic met GHB"
+woord	"Tonic Demonic"
+2174	
+id	"1479"
+betekenis	"Tot morgen"
+woord	"Otmon"
+2175	
+id	"302"
+betekenis	"Tot zien"
+woord	"Ciao"
+2176	
+id	"72"
+betekenis	"Tot ziens"
+woord	"Aprez"
+2177	
+id	"246"
+betekenis	"Tot ziens"
+woord	"Chal(-l)a"
+2178	
+id	"247"
+betekenis	"Tot ziens"
+woord	"Chali"
+2179	
+id	"248"
+betekenis	"Tot ziens"
+woord	"Challas"
+2180	
+id	"259"
+betekenis	"Tot ziens"
+woord	"Check je later!"
+2181	
+id	"747"
+betekenis	"Tot ziens"
+woord	"Grosso"
+2182	
+id	"762"
+betekenis	"Tot ziens"
+woord	"Hade"
+2183	
+id	"767"
+betekenis	"Tot ziens"
+woord	"Hammazel"
+2184	
+id	"816"
+betekenis	"Tot ziens"
+woord	"Holla"
+2185	
+id	"817"
+betekenis	"Tot ziens"
+woord	"Holla"
+2186	
+id	"1147"
+betekenis	"Tot ziens"
+woord	"L"
+2187	
+id	"1135"
+betekenis	"Tot ziens"
+woord	"Lata"
+2188	
+id	"1136"
+betekenis	"Tot ziens "
+woord	"LaterZzz"
+2189	
+id	"1137"
+betekenis	"Tot ziens"
+woord	"Latoe"
+2190	
+id	"1138"
+betekenis	"Tot ziens"
+woord	"Latra"
+2191	
+id	"1144"
+betekenis	"Tot ziens"
+woord	"Layhoun"
+2192	
+id	"1162"
+betekenis	"Tot ziens"
+woord	"Leyhaun"
+2193	
+id	"1455"
+betekenis	"Tot ziens"
+woord	"One"
+2194	
+id	"1489"
+betekenis	"Tot ziens"
+woord	"Oz"
+2195	
+id	"1640"
+betekenis	"Tot ziens"
+woord	"Poedels"
+2196	
+id	"2178"
+betekenis	"Tot ziens"
+woord	"Tabee"
+2197	
+id	"2222"
+betekenis	"Tot ziens"
+woord	"Texel"
+2198	
+id	"2227"
+betekenis	"Tot ziens "
+woord	"Thala"
+2199	
+id	"2228"
+betekenis	"Tot ziens "
+woord	"Thalla"
+2200	
+id	"2295"
+betekenis	"Tot ziens"
+woord	"Tot bam"
+2201	
+id	"2457"
+betekenis	"tot ziens"
+woord	"Wo box"
+2202	
+id	"1187"
+betekenis	"Trein"
+woord	"Loco"
+2203	
+id	"30"
+betekenis	"Trekje"
+woord	"Afoe"
+2204	
+id	"1161"
+betekenis	"Trekje"
+woord	"Leuren"
+2205	
+id	"1903"
+betekenis	"Trekje"
+woord	"Shotje"
+2206	
+id	"1918"
+betekenis	"Trekje"
+woord	"Sippie"
+2207	
+id	"2041"
+betekenis	"Trekje"
+woord	"Soetoe"
+2208	
+id	"2151"
+betekenis	"Trekje"
+woord	"Suck"
+2209	
+id	"2308"
+betekenis	"Trippen"
+woord	"Trips"
+2210	
+id	"1015"
+betekenis	"Trut"
+woord	"Kifesh"
+2211	
+id	"1084"
+betekenis	"Trut"
+woord	"Koskesh"
+2212	
+id	"1140"
+betekenis	"Trut"
+woord	"Laura"
+2213	
+id	"2479"
+betekenis	"Trut"
+woord	"Ya bitch"
+2214	
+id	"2293"
+betekenis	"Turk"
+woord	"Torkoe"
+2215	
+id	"2332"
+betekenis	"Turk "
+woord	"Uurkoe"
+2216	
+id	"2274"
+betekenis	"Turkse"
+woord	"Toerkoe"
+2217	
+id	"2316"
+betekenis	"Tweelingbroer"
+woord	"Twin bradaz"
+2218	
+id	"869"
+betekenis	"Twitter bekijken "
+woord	"Ik check je bekendheid"
+2219	
+id	"315"
+betekenis	"Uitgaansgelegenheid"
+woord	"Club"
+2220	
+id	"213"
+betekenis	"Uitgelult"
+woord	"Bosjes"
+2221	
+id	"443"
+betekenis	"Utrecht"
+woord	"Domstad"
+2222	
+id	"444"
+betekenis	"Utrecht"
+woord	"Domtown"
+2223	
+id	"445"
+betekenis	"Utrecht"
+woord	"Domville"
+2224	
+id	"1481"
+betekenis	"Utrecht"
+woord	"Outka"
+2225	
+id	"2331"
+betekenis	"Utrecht"
+woord	"U-town"
+2226	
+id	"2330"
+betekenis	"Utrect"
+woord	"Utka"
+2227	
+id	"2434"
+betekenis	"Vaag"
+woord	"Wieb"
+2228	
+id	"1955"
+betekenis	"Vaardigheden"
+woord	"Skills"
+2229	
+id	"20"
+betekenis	"Vader"
+woord	"Abbe"
+2230	
+id	"1498"
+betekenis	"Vader"
+woord	"Padre"
+2231	
+id	"53"
+betekenis	"Vagina"
+woord	"Am"
+2232	
+id	"326"
+betekenis	"Vagina"
+woord	"Conjo"
+2233	
+id	"330"
+betekenis	"Vagina"
+woord	"Cono"
+2234	
+id	"446"
+betekenis	"Vagina"
+woord	"Donchin"
+2235	
+id	"450"
+betekenis	"Vagina"
+woord	"Doos"
+2236	
+id	"582"
+betekenis	"Vagina"
+woord	"Flamoes(-j)"
+2237	
+id	"598"
+betekenis	"Vagina"
+woord	"Floenie"
+2238	
+id	"614"
+betekenis	"Vagina"
+woord	"Foef"
+2239	
+id	"769"
+betekenis	"Vagina"
+woord	"Hankie Pankie Bos"
+2240	
+id	"1075"
+betekenis	"Vagina"
+woord	"Koeta"
+2241	
+id	"1080"
+betekenis	"Vagina"
+woord	"Konjo"
+2242	
+id	"1248"
+betekenis	"Vagina"
+woord	"Mapoentje"
+2243	
+id	"1577"
+betekenis	"Vagina"
+woord	"Picka"
+2244	
+id	"1643"
+betekenis	"Vagina"
+woord	"Poenami"
+2245	
+id	"1644"
+betekenis	"Vagina"
+woord	"Poeni"
+2246	
+id	"1645"
+betekenis	"Vagina"
+woord	"Poenie"
+2247	
+id	"1646"
+betekenis	"Vagina"
+woord	"Poenta"
+2248	
+id	"1649"
+betekenis	"vagina"
+woord	"Poeny"
+2249	
+id	"1654"
+betekenis	"Vagina "
+woord	"Poes"
+2250	
+id	"1655"
+betekenis	"Vagina"
+woord	"Poese"
+2251	
+id	"1669"
+betekenis	"Vagina"
+woord	"Pola"
+2252	
+id	"1714"
+betekenis	"Vagina"
+woord	"Punani"
+2253	
+id	"1717"
+betekenis	"Vagina"
+woord	"Punnani"
+2254	
+id	"1719"
+betekenis	"Vagina"
+woord	"Pussy"
+2255	
+id	"1824"
+betekenis	"Vagina"
+woord	"Sanchi"
+2256	
+id	"2289"
+betekenis	"Vagina"
+woord	"Tonto"
+2257	
+id	"2359"
+betekenis	"Vagina"
+woord	"Voorbibs"
+2258	
+id	"1641"
+betekenis	"Vagina van een kip"
+woord	"Poeki aiyam"
+2259	
+id	"1081"
+betekenis	"Vagina van je moeder"
+woord	"Konjo bo mama"
+2260	
+id	"327"
+betekenis	"Vagina van je moeder (scheldwoord)"
+woord	"Conjo bo mama"
+2261	
+id	"2208"
+betekenis	"Vagina's"
+woord	"Tbaban"
+2262	
+id	"1238"
+betekenis	"Van de Molukken"
+woord	"Maluku"
+2263	
+id	"2101"
+betekenis	"Vanzelfsprekend"
+woord	"Standaard"
+2264	
+id	"565"
+betekenis	"Vechten"
+woord	"Fighty"
+2265	
+id	"576"
+betekenis	"Vechten"
+woord	"Fitta"
+2266	
+id	"578"
+betekenis	"Vechten"
+woord	"Fitty"
+2267	
+id	"1272"
+betekenis	"Vechten"
+woord	"Matten"
+2268	
+id	"2353"
+betekenis	"Vechten"
+woord	"Vittie"
+2269	
+id	"5"
+betekenis	"Vechtpartij"
+woord	"A jump"
+2270	
+id	"827"
+betekenis	"Veel"
+woord	"Hopi"
+2271	
+id	"830"
+betekenis	"Veel"
+woord	"Hopy"
+2272	
+id	"831"
+betekenis	"Veel"
+woord	"Hopy"
+2273	
+id	"2340"
+betekenis	"Veghel"
+woord	"Veghelcity"
+2274	
+id	"2341"
+betekenis	"Velserbroek"
+woord	"Velserbronx"
+2275	
+id	"2365"
+betekenis	"Venray"
+woord	"V-town"
+2276	
+id	"2423"
+betekenis	"Vergeet het"
+woord	"Werhaal"
+2277	
+id	"2291"
+betekenis	"Verhaal "
+woord	"Torie"
+2278	
+id	"2292"
+betekenis	"Verhaal "
+woord	"Torie"
+2279	
+id	"2294"
+betekenis	"Verhaal "
+woord	"Torrie"
+2280	
+id	"1133"
+betekenis	"Verloren"
+woord	"Las my balsem"
+2281	
+id	"1134"
+betekenis	"Verloren"
+woord	"Lassie"
+2282	
+id	"193"
+betekenis	"Verraden"
+woord	"Blemmen"
+2283	
+id	"391"
+betekenis	"Verrader"
+woord	"Dicko"
+2284	
+id	"793"
+betekenis	"Verrader"
+woord	"Hersbach"
+2285	
+id	"944"
+betekenis	"Verrader"
+woord	"Judas"
+2286	
+id	"2027"
+betekenis	"Verrader"
+woord	"Snitch"
+2287	
+id	"2028"
+betekenis	"Verrader"
+woord	"Snitch"
+2288	
+id	"1764"
+betekenis	"Vers"
+woord	"Rijp"
+2289	
+id	"1855"
+betekenis	"Vers"
+woord	"Schraal"
+2290	
+id	"593"
+betekenis	"Versieren"
+woord	"Flexen"
+2291	
+id	"602"
+betekenis	"Versieren"
+woord	"Flow"
+2292	
+id	"604"
+betekenis	"Versieren"
+woord	"Flowen"
+2293	
+id	"833"
+betekenis	"Versieren"
+woord	"Hosselen"
+2294	
+id	"834"
+betekenis	"Versieren"
+woord	"Hosselen"
+2295	
+id	"1597"
+betekenis	"Versieren"
+woord	"Pimpen"
+2296	
+id	"1867"
+betekenis	"Versieren"
+woord	"Scoren"
+2297	
+id	"1926"
+betekenis	"Versieren"
+woord	"Sjansen"
+2298	
+id	"2280"
+betekenis	"Versieren"
+woord	"Tokkelen"
+2299	
+id	"1755"
+betekenis	"Vertegenwoordigen"
+woord	"Represent"
+2300	
+id	"811"
+betekenis	"Verveel niet"
+woord	"Hodeer niet"
+2301	
+id	"620"
+betekenis	"Vervelend"
+woord	"Fok op"
+2302	
+id	"621"
+betekenis	"Vervelend"
+woord	"Fokkop"
+2303	
+id	"622"
+betekenis	"Vervelend"
+woord	"Fokop"
+2304	
+id	"967"
+betekenis	"Vervelend"
+woord	"Kaka"
+2305	
+id	"2054"
+betekenis	"Vervelend"
+woord	"Spam"
+2306	
+id	"2422"
+betekenis	"Vervelend"
+woord	"Werede"
+2307	
+id	"2514"
+betekenis	"Vervelend"
+woord	"Zout"
+2308	
+id	"2523"
+betekenis	"Vervelend"
+woord	"Zuur"
+2309	
+id	"1891"
+betekenis	"Vervelende plaats"
+woord	"Shit hole"
+2310	
+id	"1885"
+betekenis	"Verwarrend"
+woord	"Shaker"
+2311	
+id	"995"
+betekenis	"Vet"
+woord	"Kay"
+2312	
+id	"1572"
+betekenis	"Vet"
+woord	"Phat"
+2313	
+id	"1110"
+betekenis	"Vibrator"
+woord	"Kutbrommer"
+2314	
+id	"262"
+betekenis	"Vies"
+woord	"Chi"
+2315	
+id	"458"
+betekenis	"Vies"
+woord	"Dotie"
+2316	
+id	"459"
+betekenis	"Vies"
+woord	"Dottie"
+2317	
+id	"572"
+betekenis	"Vies"
+woord	"Fistie"
+2318	
+id	"738"
+betekenis	"Vies"
+woord	"Grimey"
+2319	
+id	"773"
+betekenis	"Vies"
+woord	"Hard"
+2320	
+id	"774"
+betekenis	"Vies"
+woord	"Hard"
+2321	
+id	"1387"
+betekenis	"Vies"
+woord	"Nasty"
+2322	
+id	"1740"
+betekenis	"Vies"
+woord	"Ranzig"
+2323	
+id	"1753"
+betekenis	"Vies"
+woord	"Renzape"
+2324	
+id	"253"
+betekenis	"Vietnamees"
+woord	"Charlie"
+2325	
+id	"718"
+betekenis	"Vietnamees"
+woord	"Gook"
+2326	
+id	"1190"
+betekenis	"Vietnamees"
+woord	"Loempiavouwer"
+2327	
+id	"2350"
+betekenis	"Vietnamees"
+woord	"Viet"
+2328	
+id	"650"
+betekenis	"Vingeren"
+woord	"Funny Battaren"
+2329	
+id	"1602"
+betekenis	"Vingeren"
+woord	"Pinkelen"
+2330	
+id	"2352"
+betekenis	"Vingeren"
+woord	"Vingalinga"
+2331	
+id	"1292"
+betekenis	"Vlees"
+woord	"Meti"
+2332	
+id	"43"
+betekenis	"Voetbalding"
+woord	"Akka"
+2333	
+id	"1623"
+betekenis	"Vol"
+woord	"Plan"
+2334	
+id	"2304"
+betekenis	"Volhouden"
+woord	"Trekken"
+2335	
+id	"122"
+betekenis	"Volk"
+woord	"Bangsa"
+2336	
+id	"2339"
+betekenis	"Voor altijd vrienden"
+woord	"VAV"
+2337	
+id	"410"
+betekenis	"Voor lul zetten"
+woord	"Dissen"
+2338	
+id	"1697"
+betekenis	"Voorbereiden"
+woord	"Preppen"
+2339	
+id	"2106"
+betekenis	"Voorraad"
+woord	"Stash"
+2340	
+id	"44"
+betekenis	"Vraag"
+woord	"Aks"
+2341	
+id	"2472"
+betekenis	"Vreemd"
+woord	"Wresh"
+2342	
+id	"1676"
+betekenis	"Vreemdeling"
+woord	"Popa"
+2343	
+id	"4"
+betekenis	"Vriend"
+woord	"A brada"
+2344	
+id	"21"
+betekenis	"Vriend"
+woord	"Abi"
+2345	
+id	"55"
+betekenis	"Vriend"
+woord	"Amigo"
+2346	
+id	"75"
+betekenis	"Vriend"
+woord	"Asahbi"
+2347	
+id	"195"
+betekenis	"Vriend "
+woord	"Blood"
+2348	
+id	"216"
+betekenis	"Vriend"
+woord	"Brada"
+2349	
+id	"359"
+betekenis	"Vriend"
+woord	"Cuz"
+2350	
+id	"379"
+betekenis	"Vriend"
+woord	"Dawg"
+2351	
+id	"414"
+betekenis	"Vriend"
+woord	"Djacks"
+2352	
+id	"665"
+betekenis	"Vriend "
+woord	"Gappie"
+2353	
+id	"666"
+betekenis	"Vriend "
+woord	"Gardasj"
+2354	
+id	"667"
+betekenis	"Vriend "
+woord	"Gardesh"
+2355	
+id	"771"
+betekenis	"Vriend"
+woord	"Harakadas"
+2356	
+id	"820"
+betekenis	"Vriend"
+woord	"Holmes"
+2357	
+id	"821"
+betekenis	"Vriend"
+woord	"Homeboy"
+2358	
+id	"822"
+betekenis	"Vriend"
+woord	"Homez"
+2359	
+id	"823"
+betekenis	"Vriend"
+woord	"Homie"
+2360	
+id	"900"
+betekenis	"Vriend"
+woord	"Jacks"
+2361	
+id	"959"
+betekenis	"Vriend"
+woord	"Kabel"
+2362	
+id	"970"
+betekenis	"Vriend"
+woord	"Kallistos"
+2363	
+id	"982"
+betekenis	"Vriend"
+woord	"Kardas"
+2364	
+id	"984"
+betekenis	"Vriend"
+woord	"Kardesj"
+2365	
+id	"985"
+betekenis	"Vriend"
+woord	"Karsdash"
+2366	
+id	"1085"
+betekenis	"Vriend"
+woord	"Koullo"
+2367	
+id	"1086"
+betekenis	"Vriend"
+woord	"Koulo"
+2368	
+id	"1159"
+betekenis	"Vriend"
+woord	"Lep"
+2369	
+id	"1232"
+betekenis	"Vriend"
+woord	"Makka"
+2370	
+id	"1234"
+betekenis	"Vriend"
+woord	"Makker"
+2371	
+id	"1267"
+betekenis	"Vriend "
+woord	"Matie"
+2372	
+id	"1271"
+betekenis	"Vriend"
+woord	"Matt"
+2373	
+id	"1274"
+betekenis	"Vriend "
+woord	"Mattie"
+2374	
+id	"1391"
+betekenis	"Vriend"
+woord	"Neef"
+2375	
+id	"1448"
+betekenis	"Vriend"
+woord	"Ombre"
+2376	
+id	"1482"
+betekenis	"Vriend "
+woord	"Ouwe"
+2377	
+id	"1526"
+betekenis	"Vriend "
+woord	"Pape"
+2378	
+id	"1814"
+betekenis	"Vriend "
+woord	"Sagbi"
+2379	
+id	"1815"
+betekenis	"Vriend "
+woord	"Sahbi"
+2380	
+id	"2099"
+betekenis	"Vriend "
+woord	"Stamma"
+2381	
+id	"2104"
+betekenis	"Vriend "
+woord	"Stanko"
+2382	
+id	"2158"
+betekenis	"Vriend "
+woord	"Swa"
+2383	
+id	"2495"
+betekenis	"Vriend "
+woord	"Zagbe"
+2384	
+id	"1170"
+betekenis	"Vriendelijk"
+woord	"Likecind"
+2385	
+id	"217"
+betekenis	"Vrienden"
+woord	"Bradaz"
+2386	
+id	"1275"
+betekenis	"Vrienden "
+woord	"Matties"
+2387	
+id	"284"
+betekenis	"Vriendin"
+woord	"Chimeid"
+2388	
+id	"2297"
+betekenis	"Vrolijk"
+woord	"Tralalalala"
+2389	
+id	"497"
+betekenis	"Vrouw met snor"
+woord	"El Snorro"
+2390	
+id	"2034"
+betekenis	"Vrouw met snor"
+woord	"Snorro"
+2391	
+id	"557"
+betekenis	"Vuur "
+woord	"Faya"
+2392	
+id	"566"
+betekenis	"Vuurtje"
+woord	"Fikkie"
+2393	
+id	"623"
+betekenis	"Vuurtje"
+woord	"Fonko"
+2394	
+id	"2476"
+betekenis	"Waalwijk"
+woord	"WW"
+2395	
+id	"1574"
+betekenis	"Waar ben je?"
+woord	"Pi di"
+2396	
+id	"1890"
+betekenis	"Waardeloos"
+woord	"Shibber"
+2397	
+id	"116"
+betekenis	"Waarom dan?"
+woord	"Balu"
+2398	
+id	"2368"
+betekenis	"Wacht"
+woord	"W8"
+2399	
+id	"2369"
+betekenis	"Wacht"
+woord	"Wachti"
+2400	
+id	"2432"
+betekenis	"Wakker"
+woord	"Wicky de Viking"
+2401	
+id	"2438"
+betekenis	"Wakker"
+woord	"Wiekie"
+2402	
+id	"2107"
+betekenis	"Wandelen"
+woord	"Stekkeren"
+2403	
+id	"2386"
+betekenis	"Wanna be ganster"
+woord	"Wangster"
+2404	
+id	"2388"
+betekenis	"Wanna be ganster"
+woord	"Wanksta"
+2405	
+id	"2445"
+betekenis	"Wannabee Afro"
+woord	"Wigga"
+2406	
+id	"2449"
+betekenis	"Wannabee Indo"
+woord	"Windo"
+2407	
+id	"2458"
+betekenis	"Wannabee Marokkaan"
+woord	"Wocro"
+2408	
+id	"2411"
+betekenis	"Wannabee Nazi"
+woord	"Wazi"
+2409	
+id	"564"
+betekenis	"Wanneabee Afro"
+woord	"Figga"
+2410	
+id	"2447"
+betekenis	"Wanneabee Afro"
+woord	"Wigger"
+2411	
+id	"1859"
+betekenis	"Wassen "
+woord	"Schuren"
+2412	
+id	"2398"
+betekenis	"Wat doe je ? "
+woord	"Wat doet je moer?"
+2413	
+id	"1889"
+betekenis	"Wat een"
+woord	"Shi"
+2414	
+id	"1314"
+betekenis	"Wat is dat"
+woord	"Misoegen"
+2415	
+id	"2400"
+betekenis	"Wat is er aan de hand?"
+woord	"Wat the dilly"
+2416	
+id	"2403"
+betekenis	"Wat is er gebeurd?"
+woord	"Watskeburt?"
+2417	
+id	"691"
+betekenis	"Wat is er?"
+woord	"Ghebe"
+2418	
+id	"1823"
+betekenis	"Wat is er?"
+woord	"Samsa"
+2419	
+id	"2402"
+betekenis	"Wat is er?"
+woord	"Watser"
+2420	
+id	"2410"
+betekenis	"Wat is er?"
+woord	"Wazabi"
+2421	
+id	"2412"
+betekenis	"Wat is er?"
+woord	"Wazzup"
+2422	
+id	"2425"
+betekenis	"Wat is er?"
+woord	"Whaddap"
+2423	
+id	"1383"
+betekenis	"Wat moet je?"
+woord	"Nan da yo"
+2424	
+id	"1384"
+betekenis	"Wat moet je?"
+woord	"Nandayo"
+2425	
+id	"2404"
+betekenis	"Wat wil je dan doen?"
+woord	"Wattangek"
+2426	
+id	"1590"
+betekenis	"Waterpijp roken"
+woord	"Pijpen"
+2427	
+id	"189"
+betekenis	"Waterpistool"
+woord	"Blackatoly"
+2428	
+id	"413"
+betekenis	"Wazig"
+woord	"Dizzy"
+2429	
+id	"2459"
+betekenis	"Wazig"
+woord	"Woebelie"
+2430	
+id	"2466"
+betekenis	"Wazig"
+woord	"Woozy"
+2431	
+id	"1632"
+betekenis	"WC"
+woord	"Plee"
+2432	
+id	"136"
+betekenis	"Wedstrijd"
+woord	"Batlle"
+2433	
+id	"849"
+betekenis	"Weet ik"
+woord	"I know"
+2434	
+id	"852"
+betekenis	"Weet je?"
+woord	"i sabi"
+2435	
+id	"864"
+betekenis	"Weet je?"
+woord	"Ie sabie"
+2436	
+id	"510"
+betekenis	"Weg"
+woord	"Esma"
+2437	
+id	"756"
+betekenis	"Weg"
+woord	"Gwe"
+2438	
+id	"987"
+betekenis	"Weg"
+woord	"Kas"
+2439	
+id	"1742"
+betekenis	"Weg"
+woord	"Raus"
+2440	
+id	"1062"
+betekenis	"Weg gaan"
+woord	"Knijpen"
+2441	
+id	"377"
+betekenis	"Weggaan"
+woord	"Dashen"
+2442	
+id	"603"
+betekenis	"Weggaan "
+woord	"Flowa"
+2443	
+id	"689"
+betekenis	"Weggaan "
+woord	"Get gaan"
+2444	
+id	"758"
+betekenis	"Weggaan "
+woord	"Haar a dang"
+2445	
+id	"759"
+betekenis	"Weggaan "
+woord	"Haar a dang"
+2446	
+id	"988"
+betekenis	"Weggaan "
+woord	"Kas gaan"
+2447	
+id	"1192"
+betekenis	"Weggaan "
+woord	"Loes"
+2448	
+id	"1193"
+betekenis	"Weggaan "
+woord	"Loesoe"
+2449	
+id	"1194"
+betekenis	"Weggaan "
+woord	"Loezoe"
+2450	
+id	"1466"
+betekenis	"Weggaan "
+woord	"Oplossen"
+2451	
+id	"1575"
+betekenis	"Weggaan "
+woord	"Piah"
+2452	
+id	"1591"
+betekenis	"Weggaan "
+woord	"Pikaan"
+2453	
+id	"1622"
+betekenis	"Weggaan "
+woord	"Plama"
+2454	
+id	"2087"
+betekenis	"Weggaan "
+woord	"Splitten"
+2455	
+id	"2252"
+betekenis	"Weggaan "
+woord	"Tjala"
+2456	
+id	"203"
+betekenis	"Wegrennen"
+woord	"Boeken"
+2457	
+id	"204"
+betekenis	"Wegrennen "
+woord	"Boeken"
+2458	
+id	"378"
+betekenis	"Wegrennen"
+woord	"Dashen"
+2459	
+id	"1627"
+betekenis	"Wegrennen"
+woord	"Planken"
+2460	
+id	"356"
+betekenis	"Wegwezen"
+woord	"Cutty ranks"
+2461	
+id	"733"
+betekenis	"Wegwezen"
+woord	"Gratie"
+2462	
+id	"770"
+betekenis	"Wegwezen"
+woord	"Haradang"
+2463	
+id	"2088"
+betekenis	"Wegwezen"
+woord	"Splitten"
+2464	
+id	"766"
+betekenis	"Wegwezen!"
+woord	"Hallie hallie"
+2465	
+id	"938"
+betekenis	"Werken"
+woord	"Joppe"
+2466	
+id	"2401"
+betekenis	"What the f*ck"
+woord	"Wat the fack"
+2467	
+id	"2473"
+betekenis	"What the f*ck"
+woord	"WTF"
+2468	
+id	"2035"
+betekenis	"Wie"
+woord	"Soema"
+2469	
+id	"2413"
+betekenis	"Wijk bij Duurstede"
+woord	"WBD"
+2470	
+id	"2456"
+betekenis	"Wil Je Nooit Meer Kwijt"
+woord	"WJNMK"
+2471	
+id	"2474"
+betekenis	"Willemstad"
+woord	"W-Town"
+2472	
+id	"2282"
+betekenis	"Winkel"
+woord	"Toko"
+2473	
+id	"1901"
+betekenis	"Winkelen"
+woord	"Shoppuh"
+2474	
+id	"2450"
+betekenis	"Winschoten"
+woord	"Winscool"
+2475	
+id	"1715"
+betekenis	"Wodka"
+woord	"Pundi Purro"
+2476	
+id	"2431"
+betekenis	"Wreed"
+woord	"Wicked"
+2477	
+id	"872"
+betekenis	"XTC"
+woord	"Ikkie"
+2478	
+id	"2481"
+betekenis	"XTC"
+woord	"Yalla"
+2479	
+id	"1709"
+betekenis	"XTC pil"
+woord	"P'tje"
+2480	
+id	"1565"
+betekenis	"XTC pil"
+woord	"Perkie"
+2481	
+id	"2011"
+betekenis	"XTC pil"
+woord	"Snackie"
+2482	
+id	"1047"
+betekenis	"XTC-pil"
+woord	"KlinKer"
+2483	
+id	"835"
+betekenis	"Zaakjes regelen"
+woord	"Hosselen"
+2484	
+id	"2494"
+betekenis	"Zaandam"
+woord	"Zaancity"
+2485	
+id	"13"
+betekenis	"Ze is lekker"
+woord	"A sma spang"
+2486	
+id	"133"
+betekenis	"Zeer goed"
+woord	"Basis"
+2487	
+id	"186"
+betekenis	"Zeikerd"
+woord	"Bitchass"
+2488	
+id	"2387"
+betekenis	"Zeikerd"
+woord	"Wanker"
+2489	
+id	"627"
+betekenis	"Zeker weten"
+woord	"For sure"
+2490	
+id	"829"
+betekenis	"Zeker weten"
+woord	"Hoppie sekoer"
+2491	
+id	"187"
+betekenis	"Zeuren"
+woord	"Bitchen"
+2492	
+id	"535"
+betekenis	"Zielig "
+woord	"Faja"
+2493	
+id	"705"
+betekenis	"Zigeuner"
+woord	"Gipper"
+2494	
+id	"1659"
+betekenis	"Zinloos"
+woord	"Pointloos"
+2495	
+id	"1826"
+betekenis	"Zo"
+woord	"Sang"
+2496	
+id	"27"
+betekenis	"Zo!"
+woord	"Adoeg"
+2497	
+id	"154"
+betekenis	"Zoenen"
+woord	"Bekken"
+2498	
+id	"1099"
+betekenis	"Zoenen"
+woord	"Kroelen"
+2499	
+id	"2016"
+betekenis	"Zoenen"
+woord	"Snavelen"
+2500	
+id	"2026"
+betekenis	"Zoenen"
+woord	"Snippen"
+2501	
+id	"2169"
+betekenis	"Zoet"
+woord	"Switi"
+2502	
+id	"2037"
+betekenis	"Zoetermeer"
+woord	"Soetaars"
+2503	
+id	"2038"
+betekenis	"Zoetermeer"
+woord	"Soetka"
+2504	
+id	"2164"
+betekenis	"Zoetermeer"
+woord	"Sweetlake"
+2505	
+id	"2512"
+betekenis	"Zoetermeer"
+woord	"Zoeta"
+2506	
+id	"1523"
+betekenis	"Zonder borsten"
+woord	"Pannekoek"
+2507	
+id	"1088"
+betekenis	"Zonder klasse"
+woord	"Kowed"
+2508	
+id	"1464"
+betekenis	"Zonder uitnodiging op feest"
+woord	"Op een feest boren"
+2509	
+id	"1624"
+betekenis	"Zonnebril "
+woord	"Planga"
+2510	
+id	"1625"
+betekenis	"Zonnebril "
+woord	"Plangas"
+2511	
+id	"858"
+betekenis	"Zoon van een prostituee"
+woord	"Ibnil kahbe"
+2512	
+id	"568"
+betekenis	"Zoon van een prostuee"
+woord	"File du putain"
+2513	
+id	"1981"
+betekenis	"Zuipen"
+woord	"Slampen"
+2514	
+id	"1920"
+betekenis	"Zus"
+woord	"Sisa"
+2515	
+id	"1921"
+betekenis	"Zusje"
+woord	"Sissa"
+2516	
+id	"1556"
+betekenis	"Zusn*ker"
+woord	"Penchot"
+2517	
+id	"710"
+betekenis	"Zwartrijden"
+woord	"Glippen"
+2518	
+id	"293"
+betekenis	"Zwerver"
+woord	"Choller"
+2519	
+id	"2166"
+betekenis	"Zwerver"
+woord	"Swerri"
+2520	
+id	"2381"
+betekenis	"Zwerver"
+woord	"Wakka mang"
+2521	
+id	"2526"
+betekenis	"Zwerver"
+woord	"Zwiffa"
+2522	
+id	"2167"
+betekenis	"Zwijndrecht"
+woord	"Swinko"
+2523	
+id	"1774"
+betekenis	"Zwolle"
+woord	"Roddel-city"
