@@ -10111,5 +10111,23 @@ betekenis "waddinxveen"
 woord "capu"
 betekenis "cappucino"
 
+woord "smokka" 
+betekenis "roken"
+
+woord "fantas"
+betekenis "fantastisch"
+
+woord "kali"
+
+betekenis "kalender"
+
+woord "kato"
+betekenis "kaastosti"
+
+woord "NSB kaart"
+
+betekenis "NS business kaart"
+
+
 
 
