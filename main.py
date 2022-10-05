@@ -1,3 +1,5 @@
+from pprint import pprint
+import json
 
 class Woordenboek(dict):
 
@@ -58,25 +60,16 @@ def main():
     print("")
 
     #laad de woorden in 2 woordenboeken. 1 van nederlands naar straattaal en 1 andersom.:
-    woorden = open("woorden.txt", "r")
-    woorden = woorden.readlines()
-    ned_str, str_ned = Woordenboek(), Woordenboek()
-    res = []
-    for w in woorden:
-        woord = w.replace("\n", "")
-        woord = woord.replace("\t", "")
-        woord = woord.replace('id', "")
-        woord = woord.replace('woord', "")
-        woord = woord.replace('betekenis', "")
-        woord = woord.replace('"', "")
-        if woord != "" and woord[len(woord)-1] == " ":
-            woord = woord[:-1]
-        res.append(woord)
-    for i, j in enumerate(res):
-        if i % 2 == 1:
-            ned_str.add(res[i], res[i+1])
-            str_ned.add(res[i+1], res[i])
 
+    # laad de "test.json" gemaakt door api request in get-data.py
+    with open("test.json", "r") as data:
+        woorden = json.load(data)
+        ned_str, str_ned = Woordenboek(), Woordenboek()
+        for woord in woorden:
+            str_woord = woord["betekenis"]
+            ned_woord = woord["woord"]
+            ned_str.add(ned_woord, str_woord)
+            str_ned.add(str_woord, ned_woord)
 
     # vraag om woorden te vertalen en print resultaat:
     while(True):
@@ -95,9 +88,5 @@ def main():
         print("De vertaling voor: '" + zin + "' is: " + vertaalde_zin)
         print("")
 
-
 if __name__ == '__main__':
     main()
-
-
-
