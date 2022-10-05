@@ -17,9 +17,9 @@ class Woordenboek(dict):
     # vertaalt woord:
     def vertaal(self, key):
         if str.upper(key) in self:
-            return self[str.upper(key)]
+            return str.lower(self[str.upper(key)])
         else:
-            return key
+            return str.lower(key)
 
 
 # iterate door de zin en vertaald elk woord los van elkaar:
@@ -83,9 +83,11 @@ def main():
             continue
 
         zin = input("Welk woord of zin wil je vertalen?: ")
-        vertaalde_zin = vertaal_zin(zin, woordenlijst)
+        vertaalde_zin = list(vertaal_zin(zin, woordenlijst))
+        vertaalde_zin[1] = str.upper(vertaalde_zin[1])
+        vertaalde_zin = "".join(vertaalde_zin)
         print("")
-        print("De vertaling voor: '" + zin + "' is: " + vertaalde_zin)
+        print("De vertaling voor: '" + zin + "' is: " + vertaalde_zin + ".")
         print("")
 
 if __name__ == '__main__':
