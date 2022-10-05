@@ -15,16 +15,16 @@ def vertaal_woord(woord, richting, woorden):
 def vertaal_zin(zin, richting, woorden):
 
     # split de zin eerst in mogelijke subzinnen
-    zin = zin.split()
-    subzinnen = []
-    for i in range(len(zin)):
-        for j in range(i, len(zin)):
-            subzin = zin[i:j]
-            nieuw_subzin = ""
-            for woord in subzin:
-                nieuw_subzin = nieuw_subzin + " " + woord
-            subzinnen.append(nieuw_subzin[1:])
-    print(subzinnen)
+    #zin = zin.split()
+    #subzinnen = []
+    #for i in range(len(zin)):
+    #    for j in range(i, len(zin)):
+    #        subzin = zin[i:j]
+    #        nieuw_subzin = ""
+    #        for woord in subzin:
+    #            nieuw_subzin = nieuw_subzin + " " + woord
+    #        subzinnen.append(nieuw_subzin[1:])
+    #print(subzinnen)
 
     # vertaal de losse subzinnen:
     #nieuwe_subzinnen = []
