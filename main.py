@@ -56,8 +56,7 @@ def vertaal_zin(zin, woorden):
 
 def main():
     print("Welkom bij straattaalvertaler versie 0.0.4!")
-    print("Maak geen spellingsfouten bij het vertalen maar hoofdletters maken niet uit.")
-    print("")
+    print("Maak geen spellingsfouten bij het vertalen maar hoofdletters maken niet uit.\n")   
 
     #laad de woorden in 2 woordenboeken. 1 van nederlands naar straattaal en 1 andersom.:
 
@@ -85,9 +84,8 @@ def main():
         vertaalde_zin = list(vertaal_zin(zin, woordenlijst))
         vertaalde_zin[1] = str.upper(vertaalde_zin[1])
         vertaalde_zin = "".join(vertaalde_zin)
-        print("")
-        print("De vertaling voor: '" + zin + "' is: " + vertaalde_zin + ".")
-        print("")
+        print("\nDe vertaling voor: '" + zin + "' is: " + vertaalde_zin + ".\n")
+        
 
 if __name__ == '__main__':
     main()
