@@ -1562,3 +1562,5 @@ laatste deel van een joint=affoe
 mheenpark=mippa
 vriend=bro
 leuk=lauw
+corona=corna
+vriend=drerrie
