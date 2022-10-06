@@ -68,6 +68,15 @@ def main():
             for key, val in woord.items():
                 str_ned.add(key, val)
                 ned_str.add(val, key)
+                
+    # voegt de woorden uit meerwoorden.txt ook toe aan de woordenboeken:
+    with open("meerwoorden.txt", "r") as data:
+        for woord in data:
+            woord = woord.split("=")
+            woord[1] = woord[1].replace("\n","")
+            woord[1] = woord[1].split(",")
+            str_ned.add(woord[1][0],woord[0])
+            ned_str.add(woord[0], woord[1][0])
 
     # vraag om woorden te vertalen en print resultaat:
     while(True):
