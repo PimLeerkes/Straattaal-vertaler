@@ -5,24 +5,16 @@ import json
 # Gaat uiteindelijk een loop worden, maar doet een request van de data en slaat het op
 sources = 'http://straattaal.codefront.nl/?callback=&s='
 response = requests.get(sources)
+data = response.json()
 
-
-# opslaan van woorden
-with open("woorden.json",'w') as write_file:
-    json.dump(response.json(), write_file, indent=4)
-
-# opschonen van de opgeslagen woorden
-
-lowercase_woorden = []
-with open("woorden.json", "r") as data:
-    woorden = json.load(data)
-    for woord in woorden:
-        lowercase_woord = {}
-        for key, value in woord.items():
-            lowercase_woord[key] = value.lower()
-        lowercase_woorden.append(lowercase_woord)
+# opschonen van de woorden
+processed_data = []
+for item in data:
+    processed_item = {}
+    processed_item[item["woord"].lower()] = item["betekenis"].lower()
+    processed_data.append(processed_item)
 
 with open("woorden.json",'w') as write_file:
-    json.dump(lowercase_woorden, write_file, indent=4)
+    json.dump(processed_data, write_file, indent=4)
 
 # pprint(response.json())

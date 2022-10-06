@@ -66,10 +66,9 @@ def main():
         woorden = json.load(data)
         ned_str, str_ned = Woordenboek(), Woordenboek()
         for woord in woorden:
-            ned_woord = woord["betekenis"]
-            str_woord = woord["woord"]
-            ned_str.add(ned_woord, str_woord)
-            str_ned.add(str_woord, ned_woord)
+            for key, val in woord.items():
+                str_ned.add(key, val)
+                ned_str.add(val, key)
 
     # vraag om woorden te vertalen en print resultaat:
     while(True):
