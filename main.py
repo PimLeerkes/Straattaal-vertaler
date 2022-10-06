@@ -55,8 +55,8 @@ def vertaal_zin(zin, woorden):
 
 
 def main():
-    print("Welkom bij straattaalvertaler versie 0.0.4!")
-    print("Maak geen spellingsfouten bij het vertalen maar hoofdletters maken niet uit.\n")   
+    print("Welkom bij straattaalvertaler versie 0.0.5!")
+    print("Maak geen spellingsfouten bij het vertalen maar hoofdletters maken niet uit.\n")
 
     #laad de woorden in 2 woordenboeken. 1 van nederlands naar straattaal en 1 andersom.:
 
@@ -68,19 +68,22 @@ def main():
             for key, val in woord.items():
                 str_ned.add(key, val)
                 ned_str.add(val, key)
-                
+
     # voegt de woorden uit meerwoorden.txt ook toe aan de woordenboeken:
     with open("meerwoorden.txt", "r") as data:
         for woord in data:
             woord = woord.split("=")
             woord[1] = woord[1].replace("\n","")
+            woord[0] = woord[0].split(",")
             woord[1] = woord[1].split(",")
-            str_ned.add(woord[1][0],woord[0])
-            ned_str.add(woord[0], woord[1][0])
+            for w in woord[1]:
+                for v in woord[0]:
+                    str_ned.add(w, v)
+                    ned_str.add(v, w)
 
     # vraag om woorden te vertalen en print resultaat:
+    richting = input("Wil je van nederlands naar straattaal? (1) of van straattaal naar nederlands? (2): ")
     while(True):
-        richting = input("Wil je van nederlands naar straattaal? (1) of van straattaal naar nederlands? (2): ")
         if richting == "1":
             woordenlijst = ned_str
         elif richting == "2":
@@ -91,10 +94,10 @@ def main():
 
         zin = input("Welk woord of zin wil je vertalen?: ")
         vertaalde_zin = list(vertaal_zin(zin, woordenlijst))
-        vertaalde_zin[1] = str.upper(vertaalde_zin[1])
-        vertaalde_zin = "".join(vertaalde_zin)
-        print("\nDe vertaling voor: '" + zin + "' is: " + vertaalde_zin + ".\n")
-        
+        #vertaalde_zin[1] = str.upper(vertaalde_zin[1])
+        #vertaalde_zin = "".join(vertaalde_zin)
+        print("\nDe vertaling voor: '" + zin + "' is:\n" + vertaalde_zin[1:] + "\n")
+
 
 if __name__ == '__main__':
     main()
