@@ -19,13 +19,12 @@ class Woordenboek(dict):
     def vertaal(self, woord):
         synoniemen = []
         for key, value in self.items():
-            if key == str.upper(woord):
-                synoniemen.append(str.lower(value))
+            if key == str.upper(woord) and type(value) == list:
+                synoniemen = value
         if len(synoniemen) > 0:
             keuze = random.choice(synoniemen)
             return keuze
         return str.lower(woord)
-
 
 # iterate door de zin en vertaald elk woord of zinsdeel los van elkaar:
 def vertaal_zin(zin, woorden):
@@ -78,9 +77,9 @@ def main():
             woord[0] = woord[0].split(",")
             woord[1] = woord[1].split(",")
             for w in woord[1]:
-                for v in woord[0]:
-                    str_ned.add(w, v)
-                    ned_str.add(v, w)
+                str_ned.add(w, woord[0])
+            for v in woord[0]:
+                ned_str.add(v, woord[1])
 
     # vraag om woorden te vertalen en print resultaat:
     richting = input("Wil je van nederlands naar straattaal? (1) of van straattaal naar nederlands? (2): ")
