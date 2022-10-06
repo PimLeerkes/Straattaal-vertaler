@@ -1,5 +1,6 @@
 from pprint import pprint
 import json
+import random
 
 class Woordenboek(dict):
 
@@ -15,11 +16,15 @@ class Woordenboek(dict):
         print(self)
 
     # vertaalt woord:
-    def vertaal(self, key):
-        if str.upper(key) in self:
-            return str.lower(self[str.upper(key)])
-        else:
-            return str.lower(key)
+    def vertaal(self, woord):
+        synoniemen = []
+        for key, value in self.items():
+            if key == str.upper(woord):
+                synoniemen.append(str.lower(value))
+        if len(synoniemen) > 0:
+            keuze = random.choice(synoniemen)
+            return keuze
+        return str.lower(woord)
 
 
 # iterate door de zin en vertaald elk woord of zinsdeel los van elkaar:
