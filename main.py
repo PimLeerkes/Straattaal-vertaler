@@ -22,35 +22,31 @@ class Woordenboek(dict):
             return str.lower(key)
 
 
-# iterate door de zin en vertaald elk woord los van elkaar:
+# iterate door de zin en vertaald elk woord of zinsdeel los van elkaar:
 def vertaal_zin(zin, woorden):
     zin = zin.split()
-    # split de zin eerst in mogelijke subzinnen
-    #subzinnen = []
-    #for i in range(len(zin)):
-    #    for j in range(i, len(zin)):
-    #        subzin = zin[i:j]
-    #        nieuw_subzin = ""
-    #        for woord in subzin:
-    #            nieuw_subzin = nieuw_subzin + " " + woord
-    #        subzinnen.append(nieuw_subzin[1:])
-    #print(subzinnen)
-
-    # vertaal de losse subzinnen:
-    #nieuwe_subzinnen = []
-    #for subzin in subzinnen:
-    #    nieuw_subzin = vertaal_woord(subzin, richting, woorden)
-    #    subzin = nieuw_subzin
-    #    nieuwe_subzinnen.append(subzin)
-    #return nieuwe_subzinnen
-
-
     nieuwe_zin = ""
-    for woord in zin:
+
+    #we lopen door elk woord van de zin heen en nemen ze als begin punt.
+    i = 0
+    while i < len(zin):
+        woord = zin[i]
         nieuw_woord = woorden.vertaal(woord)
-        if nieuw_woord != "":
-            woord = nieuw_woord
-        nieuwe_zin = nieuwe_zin + " " + woord
+
+        #voor elk volgende woord plak het erachteraan en vertaal ze als een zinsdeel.
+        for j in range(i, len(zin)):
+            if j < len(zin)-1:
+                woord = woord + " " + zin[j+1]
+                nieuw_woord_next = woorden.vertaal(woord)
+
+                #als het een nieuwe vertaling geeft dan houden we bij dat we daar waren gebleven.
+                if nieuw_woord_next != woord:
+                    nieuw_woord = nieuw_woord_next
+                    i = j + 1
+
+        nieuwe_zin = nieuwe_zin + " " + nieuw_woord
+        i = i + 1
+
     return nieuwe_zin
 
 
