@@ -23,9 +23,11 @@ def meerwoorden():
         for woord in data:
             woord = woord.split("=")
             woord[1] = woord[1].strip()
+            woord[0] = woord[0].split(",")
             woord[1] = woord[1].split(",")
-            for betekenis in woord[1]:
-                processed_data.append({woord[0]: betekenis})
+            for w in woord[1]:
+                for v in woord[0]:
+                    processed_data.append({w: v})
         return processed_data
 
 def main():
