@@ -13,18 +13,22 @@ class Woordenboek(dict):
 
     # laat alle woorden zien:
     def show(self):
-        print(self)
+        for key, value in self.items():
+            print("woord: " + key + " vertaling: " + str(value))
 
     # vertaalt woord:
     def vertaal(self, woord):
         synoniemen = []
         for key, value in self.items():
             if key == str.upper(woord) and type(value) == list:
-                synoniemen = value
+                synoniemen = synoniemen + value
+            elif key == str.upper(woord):
+                synoniemen.append(value)
         if len(synoniemen) > 0:
             keuze = random.choice(synoniemen)
             return keuze
         return str.lower(woord)
+
 
 # iterate door de zin en vertaald elk woord of zinsdeel los van elkaar:
 def vertaal_zin(zin, woorden):
@@ -55,7 +59,7 @@ def vertaal_zin(zin, woorden):
 
 
 def main():
-    print("Welkom bij straattaalvertaler versie 0.0.6!")
+    print("Welkom bij straattaalvertaler versie 0.0.7!")
     print("Maak geen spellingsfouten bij het vertalen maar hoofdletters maken niet uit.\n")
 
     #laad de woorden in 2 woordenboeken. 1 van nederlands naar straattaal en 1 andersom.:
@@ -69,6 +73,8 @@ def main():
                 str_ned.add(key, val)
                 ned_str.add(val, key)
 
+    
+
     # voegt de woorden uit meerwoorden.txt ook toe aan de woordenboeken:
     with open("meerwoorden.txt", "r") as data:
         for woord in data:
@@ -80,6 +86,7 @@ def main():
                 str_ned.add(w, woord[0])
             for v in woord[0]:
                 ned_str.add(v, woord[1])
+
 
     # vraag om woorden te vertalen en print resultaat:
     richting = input("Wil je van nederlands naar straattaal? (1) of van straattaal naar nederlands? (2): ")
