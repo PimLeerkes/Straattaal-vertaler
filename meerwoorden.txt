@@ -1564,3 +1564,7 @@ vriend=bro
 leuk=lauw
 corona=corna
 vriend=drerrie
+poep,drol=kakka,droeloe
+alstjeblieft=aub
+apeldoorn=apd
+thijs=thissa
