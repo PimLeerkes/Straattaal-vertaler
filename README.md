@@ -5,3 +5,5 @@ Een vertaler gemaakt door Mensen die graag normaal nederlands maar ook straattaa
 
 Deze studenten komen van alle niveau's
 
+
+Om te runnen: python3 main.py -zin-
