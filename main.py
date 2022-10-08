@@ -2,6 +2,8 @@ from pprint import pprint
 import json
 import random
 
+allowed = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','0','1','2','3','4','5','6','7','8','9']
+
 class Woordenboek(dict):
 
     def __init__(self):
@@ -30,6 +32,27 @@ class Woordenboek(dict):
         return str.lower(woord)
 
 
+
+# seperate het woord van omliggende punten, kommas etc.
+def preprocess(woord, woorden):
+
+    left = ''
+    right = ''
+    if woorden.vertaal(woord) != woord:
+        return left, woord, right
+    elif len(woord) == 1:
+        return left, woord, right
+    else:
+        if woord[0] not in allowed:
+            left = woord[0]
+            woord = woord[1:] 
+        if woord[len(woord)-1] not in allowed:
+            right = woord[len(woord)-1]
+            woord = woord[:-1]     
+        return left, woord, right
+
+
+
 # iterate door de zin en vertaald elk woord of zinsdeel los van elkaar:
 def vertaal_zin(zin, woorden):
     zin = zin.split()
@@ -39,16 +62,18 @@ def vertaal_zin(zin, woorden):
     i = 0
     while i < len(zin):
         woord = zin[i]
-        nieuw_woord = woorden.vertaal(woord)
+        left, middle, right = preprocess(woord,woorden)
+        nieuw_woord = left + woorden.vertaal(middle) + right
 
         #voor elk volgende woord plak het erachteraan en vertaal ze als een zinsdeel.
         for j in range(i, len(zin)):
             if j < len(zin)-1:
-                woord = woord + " " + zin[j+1]
-                nieuw_woord_next = woorden.vertaal(woord)
+                woord = middle + " " + zin[j+1]
+                left, middle, right = preprocess(woord,woorden)
+                nieuw_woord_next = left + woorden.vertaal(middle) + right
 
                 #als het een nieuwe vertaling geeft dan houden we bij dat we daar waren gebleven.
-                if nieuw_woord_next != woord:
+                if woorden.vertaal(middle) != woord:
                     nieuw_woord = nieuw_woord_next
                     i = j + 1
 
@@ -59,7 +84,7 @@ def vertaal_zin(zin, woorden):
 
 
 def main():
-    print("Welkom bij straattaalvertaler versie 0.0.7!")
+    print("Welkom bij straattaalvertaler versie 0.0.8!")
     print("Maak geen spellingsfouten bij het vertalen maar hoofdletters maken niet uit.\n")
 
     #laad de woorden in 2 woordenboeken. 1 van nederlands naar straattaal en 1 andersom.:
@@ -73,7 +98,6 @@ def main():
                 str_ned.add(key, val)
                 ned_str.add(val, key)
 
-    
 
     # voegt de woorden uit meerwoorden.txt ook toe aan de woordenboeken:
     with open("meerwoorden.txt", "r") as data:
