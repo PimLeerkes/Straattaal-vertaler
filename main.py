@@ -49,7 +49,6 @@ class Woordenboek(dict):
 # hendelt alles met leestekens.
 def leestekens(woord, woorden):
 
-
     #haalt de leestekens eraf en slaat ze op in leestekens:
     tekens = ''
     if woorden.vertaal(woord) == woord and len(woord) > 1:
@@ -58,15 +57,12 @@ def leestekens(woord, woorden):
             tekens = tekens + woord[len(woord)-1]
             woord = woord[:-1]
 
-    #als een woord met extra vraagteken vertaald naar een woord zonder plakken we het alsnog erachteraan:
-    #if woord[len(woord)-1] == "?" and woorden.vertaal(woord)[len(woord)-1] != "?":
-    #    print("doei")
-    #    tekens = tekens + "?"
-
     #als een woord zonder vraagteken ineens geen vertaling geeft en met wel willen we alsnog dat ie vertaalt:        
-    #if woorden.vertaal(woord) == woord and woorden.vertaal(woord + "?") != woord:
-    #    print("hoi")
-    #    woord = woord + "?"
+    if woorden.vertaal(woord) == woord and woorden.vertaal(woord + "?") != woord:
+        woord = woord + "?"
+
+    #todo: vraagteken alsnog erachteraan plakken als het originele woord het wel heeft en de vertaling niet zoals bij: 
+    # alles goed? -> wassup
 
     return woord, tekens
 
@@ -105,7 +101,7 @@ def vertaal_zin(zin, woorden):
 
 
 def main():
-    print("Welkom bij straattaalvertaler versie 0.0.10!")
+    print("Welkom bij straattaalvertaler versie 0.0.11!")
 
     #laad de woorden in 2 woordenboeken. 1 van nederlands naar straattaal en 1 andersom.:
 
