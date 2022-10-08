@@ -2,7 +2,8 @@ from pprint import pprint
 import json
 import random
 
-allowed = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','0','1','2','3','4','5','6','7','8','9']
+allowed = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','0','1','2','3','4','5','6','7','8','9','A','B','C','D','E','F','G','H','I','J','K','L',
+'M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z']
 
 class Woordenboek(dict):
 
@@ -20,72 +21,82 @@ class Woordenboek(dict):
 
     # vertaalt woord:
     def vertaal(self, woord):
+        
+        #gaat langs alle woorden en slaat elke instantie op in synoniemen. kiest hier een random uit:
+        vertaald_woord = str.lower(woord)
         synoniemen = []
         for key, value in self.items():
             if key == str.upper(woord) and type(value) == list:
                 synoniemen = synoniemen + value
             elif key == str.upper(woord):
-                synoniemen.append(value)
+                synoniemen.append(value)  
         if len(synoniemen) > 0:
-            keuze = random.choice(synoniemen)
-            return keuze
-        return str.lower(woord)
+            vertaald_woord = random.choice(synoniemen)
+
+        #als een woord in volledig caps gegeven wordt returnen we hem ook zo:
+        if woord.isupper():
+            vertaald_woord = str.upper(vertaald_woord)
+
+        #als een woord begint met hoofdletter returnen we m ook zo:
+        if woord[0].isupper():
+            print(woord)
+            vertaald_woord = str.upper(vertaald_woord[0]) + vertaald_woord[1:]
+
+        return vertaald_woord
 
 
 
 # seperate het woord van omliggende punten, kommas etc.
-def preprocess(woord, woorden):
+def leestekens(woord, woorden):
 
     left = ''
     right = ''
-    if woorden.vertaal(woord) != woord:
-        return left, woord, right
-    elif len(woord) == 1:
-        return left, woord, right
-    else:
-        if woord[0] not in allowed:
-            left = woord[0]
+    if woorden.vertaal(woord) == woord and len(woord) > 1:
+        while woord[0] not in allowed:
+            left = left + woord[0]
             woord = woord[1:] 
-        if woord[len(woord)-1] not in allowed:
-            right = woord[len(woord)-1]
-            woord = woord[:-1]     
-        return left, woord, right
+        while woord[len(woord)-1] not in allowed:
+            right = right + woord[len(woord)-1]
+            woord = woord[:-1]
+    return left, woord, right
 
 
 
 # iterate door de zin en vertaald elk woord of zinsdeel los van elkaar:
 def vertaal_zin(zin, woorden):
     zin = zin.split()
-    nieuwe_zin = ""
+    vertaalde_zin = ""
 
-    #we lopen door elk woord van de zin heen en nemen ze als begin punt.
+    #we lopen door elk woord van de zin heen en nemen ze als begin punt:
     i = 0
-    while i < len(zin):
+    while i < len(zin) and i < 10:
+        #vertaal het woord:
         woord = zin[i]
-        left, middle, right = preprocess(woord,woorden)
-        nieuw_woord = left + woorden.vertaal(middle) + right
+        left, woord, right = leestekens(woord, woorden)
+        vertaald_woord = left + woorden.vertaal(woord) + right
+  
+        #voor elk volgende woord plak het erachteraan en vertaal ze als een zinsdeel:
+        langer_woord = woord
+        for j in range(i, len(zin)-1):
+            #vertaal het stuk wat je krijgt als je een woord toevoegt:
+            langer_woord = langer_woord + " " + zin[j+1]
+            left, langer_woord, right = leestekens(langer_woord, woorden)
+            langer_vertaald_woord = woorden.vertaal(langer_woord)
 
-        #voor elk volgende woord plak het erachteraan en vertaal ze als een zinsdeel.
-        for j in range(i, len(zin)):
-            if j < len(zin)-1:
-                woord = middle + " " + zin[j+1]
-                left, middle, right = preprocess(woord,woorden)
-                nieuw_woord_next = left + woorden.vertaal(middle) + right
+            #als het een nieuwe vertaling geeft dan houden we bij dat we daar waren gebleven.
+            if woorden.vertaal(langer_woord) != langer_vertaald_woord:
+                vertaald_woord = left + langer_vertaald_woord + right
+                i = j + 1
 
-                #als het een nieuwe vertaling geeft dan houden we bij dat we daar waren gebleven.
-                if woorden.vertaal(middle) != woord:
-                    nieuw_woord = nieuw_woord_next
-                    i = j + 1
-
-        nieuwe_zin = nieuwe_zin + " " + nieuw_woord
+        vertaalde_zin = vertaalde_zin + " " + vertaald_woord
         i = i + 1
 
-    return nieuwe_zin
+
+    return vertaalde_zin[1:]
 
 
 def main():
-    print("Welkom bij straattaalvertaler versie 0.0.8!")
-    print("Maak geen spellingsfouten bij het vertalen maar hoofdletters maken niet uit.\n")
+    print("Welkom bij straattaalvertaler versie 0.0.9!")
 
     #laad de woorden in 2 woordenboeken. 1 van nederlands naar straattaal en 1 andersom.:
 
@@ -125,7 +136,7 @@ def main():
 
         zin = input("Welk woord of zin wil je vertalen?: ")
         vertaalde_zin = vertaal_zin(zin, woordenlijst)
-        print("\nDe vertaling voor: '" + zin + "' is:\n" + vertaalde_zin[1:] + "\n")
+        print("\nDe vertaling voor: '" + zin + "' is:\n" + vertaalde_zin + "\n")
 
 
 if __name__ == '__main__':
