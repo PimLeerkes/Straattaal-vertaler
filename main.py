@@ -46,19 +46,29 @@ class Woordenboek(dict):
 
 
 
-# seperate het woord van omliggende punten, kommas etc.
+# hendelt alles met leestekens.
 def leestekens(woord, woorden):
 
-    left = ''
-    right = ''
+
+    #haalt de leestekens eraf en slaat ze op in leestekens:
+    tekens = ''
     if woorden.vertaal(woord) == woord and len(woord) > 1:
-        while woord[0] not in allowed:
-            left = left + woord[0]
-            woord = woord[1:] 
+        #het gaat in een loop omdat er bijvoorbeeld meerdere vraagtekens kunnen staan achter elkaar:
         while woord[len(woord)-1] not in allowed:
-            right = right + woord[len(woord)-1]
+            tekens = tekens + woord[len(woord)-1]
             woord = woord[:-1]
-    return left, woord, right
+
+    #als een woord met extra vraagteken vertaald naar een woord zonder plakken we het alsnog erachteraan:
+    #if woord[len(woord)-1] == "?" and woorden.vertaal(woord)[len(woord)-1] != "?":
+    #    print("doei")
+    #    tekens = tekens + "?"
+
+    #als een woord zonder vraagteken ineens geen vertaling geeft en met wel willen we alsnog dat ie vertaalt:        
+    #if woorden.vertaal(woord) == woord and woorden.vertaal(woord + "?") != woord:
+    #    print("hoi")
+    #    woord = woord + "?"
+
+    return woord, tekens
 
 
 
@@ -69,34 +79,33 @@ def vertaal_zin(zin, woorden):
 
     #we lopen door elk woord van de zin heen en nemen ze als begin punt:
     i = 0
-    while i < len(zin) and i < 10:
+    while i < len(zin):
         #vertaal het woord:
         woord = zin[i]
-        left, woord, right = leestekens(woord, woorden)
-        vertaald_woord = left + woorden.vertaal(woord) + right
+        woord, tekens = leestekens(woord, woorden)
+        vertaald_woord = woorden.vertaal(woord) + tekens
   
         #voor elk volgende woord plak het erachteraan en vertaal ze als een zinsdeel:
         langer_woord = woord
         for j in range(i, len(zin)-1):
             #vertaal het stuk wat je krijgt als je een woord toevoegt:
             langer_woord = langer_woord + " " + zin[j+1]
-            left, langer_woord, right = leestekens(langer_woord, woorden)
-            langer_vertaald_woord = woorden.vertaal(langer_woord)
+            langer_woord, tekens = leestekens(langer_woord, woorden)
+            langer_vertaald_woord = woorden.vertaal(langer_woord) + tekens
 
             #als het een nieuwe vertaling geeft dan houden we bij dat we daar waren gebleven.
-            if woorden.vertaal(langer_woord) != langer_vertaald_woord:
-                vertaald_woord = left + langer_vertaald_woord + right
+            if langer_woord != langer_vertaald_woord:
+                vertaald_woord = langer_vertaald_woord
                 i = j + 1
 
         vertaalde_zin = vertaalde_zin + " " + vertaald_woord
         i = i + 1
 
-
     return vertaalde_zin[1:]
 
 
 def main():
-    print("Welkom bij straattaalvertaler versie 0.0.9!")
+    print("Welkom bij straattaalvertaler versie 0.0.10!")
 
     #laad de woorden in 2 woordenboeken. 1 van nederlands naar straattaal en 1 andersom.:
 
