@@ -1,6 +1,7 @@
 from pprint import pprint
 import json
 import random
+import sys
 
 allowed = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','0','1','2','3','4','5','6','7','8','9','A','B','C','D','E','F','G','H','I','J','K','L',
 'M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z']
@@ -39,7 +40,6 @@ class Woordenboek(dict):
 
         #als een woord begint met hoofdletter returnen we m ook zo:
         if woord[0].isupper():
-            print(woord)
             vertaald_woord = str.upper(vertaald_woord[0]) + vertaald_woord[1:]
 
         return vertaald_woord
@@ -57,9 +57,9 @@ def leestekens(woord, woorden):
             tekens = tekens + woord[len(woord)-1]
             woord = woord[:-1]
 
-    #als een woord zonder vraagteken ineens geen vertaling geeft en met wel willen we alsnog dat ie vertaalt:        
-    if woorden.vertaal(woord) == woord and woorden.vertaal(woord + "?") != woord:
-        woord = woord + "?"
+    #todo: als een woord zonder vraagteken ineens geen vertaling geeft en met wel willen we alsnog dat ie vertaalt:        
+    #if woorden.vertaal(woord) == woord and woorden.vertaal(woord + "?") != woord:
+    #    woord = woord + "?"
 
     #todo: vraagteken alsnog erachteraan plakken als het originele woord het wel heeft en de vertaling niet zoals bij: 
     # alles goed? -> wassup
@@ -70,7 +70,6 @@ def leestekens(woord, woorden):
 
 # iterate door de zin en vertaald elk woord of zinsdeel los van elkaar:
 def vertaal_zin(zin, woorden):
-    zin = zin.split()
     vertaalde_zin = ""
 
     #we lopen door elk woord van de zin heen en nemen ze als begin punt:
@@ -87,11 +86,11 @@ def vertaal_zin(zin, woorden):
             #vertaal het stuk wat je krijgt als je een woord toevoegt:
             langer_woord = langer_woord + " " + zin[j+1]
             langer_woord, tekens = leestekens(langer_woord, woorden)
-            langer_vertaald_woord = woorden.vertaal(langer_woord) + tekens
+            langer_vertaald_woord = woorden.vertaal(langer_woord)
 
             #als het een nieuwe vertaling geeft dan houden we bij dat we daar waren gebleven.
-            if langer_woord != langer_vertaald_woord:
-                vertaald_woord = langer_vertaald_woord
+            if str.lower(langer_woord) != str.lower(langer_vertaald_woord):
+                vertaald_woord = langer_vertaald_woord + tekens
                 i = j + 1
 
         vertaalde_zin = vertaalde_zin + " " + vertaald_woord
@@ -101,10 +100,6 @@ def vertaal_zin(zin, woorden):
 
 
 def main():
-    print("Welkom bij straattaalvertaler versie 0.0.11!")
-
-    #laad de woorden in 2 woordenboeken. 1 van nederlands naar straattaal en 1 andersom.:
-
     # laad de "test.json" gemaakt door api request in get-data.py
     with open("woorden.json", "r") as data:
         woorden = json.load(data)
@@ -127,21 +122,12 @@ def main():
             for v in woord[0]:
                 ned_str.add(v, woord[1])
 
-
-    # vraag om woorden te vertalen en print resultaat:
-    richting = input("Wil je van nederlands naar straattaal? (1) of van straattaal naar nederlands? (2): ")
-    while True:
-        if richting == "1":
-            woordenlijst = ned_str
-        elif richting == "2":
-            woordenlijst = str_ned
-        else:
-            print("Vul 1 of 2 in alstjeblieft. Dit mag niet!!!")
-            continue
-
-        zin = input("Welk woord of zin wil je vertalen?: ")
-        vertaalde_zin = vertaal_zin(zin, woordenlijst)
-        print("\nDe vertaling voor: '" + zin + "' is:\n" + vertaalde_zin + "\n")
+    # vertaal de woorden van nederlands naar straattaal:
+    woordenlijst = ned_str
+    del sys.argv[0]
+    zin = sys.argv
+    vertaalde_zin = vertaal_zin(zin, woordenlijst)
+    print("\nDe vertaling is:\n" + vertaalde_zin)
 
 
 if __name__ == '__main__':
