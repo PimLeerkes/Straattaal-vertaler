@@ -45,7 +45,6 @@ class Woordenboek(dict):
         return vertaald_woord
 
 
-
 # hendelt alles met leestekens.
 def leestekens(woord, woorden):
 
@@ -99,36 +98,22 @@ def vertaal_zin(zin, woorden):
     return vertaalde_zin[1:]
 
 
-def main():
-    # laad de "test.json" gemaakt door api request in get-data.py
+def main(zin):
+    # laad de "woorden.json" gemaakt door api request in get-data.py
     with open("woorden.json", "r") as data:
         woorden = json.load(data)
-        ned_str, str_ned = Woordenboek(), Woordenboek()
-        for woord in woorden:
-            for key, val in woord.items():
-                str_ned.add(key, val)
-                ned_str.add(val, key)
-
-
-    # voegt de woorden uit meerwoorden.txt ook toe aan de woordenboeken:
-    with open("meerwoorden.txt", "r") as data:
-        for woord in data:
-            woord = woord.split("=")
-            woord[1] = woord[1].replace("\n","")
-            woord[0] = woord[0].split(",")
-            woord[1] = woord[1].split(",")
-            for w in woord[1]:
-                str_ned.add(w, woord[0])
-            for v in woord[0]:
-                ned_str.add(v, woord[1])
+        ned_str = Woordenboek()
+        for key, val in woorden.items():
+            ned_str.add(key, val)
 
     # vertaal de woorden van nederlands naar straattaal:
+    # del sys.argv[0]
+    # zin = sys.argv
     woordenlijst = ned_str
-    del sys.argv[0]
-    zin = sys.argv
     vertaalde_zin = vertaal_zin(zin, woordenlijst)
-    print("\nDe vertaling is:\n" + vertaalde_zin)
+    # print("\nDie vertaling is:\n" + vertaalde_zin)
+    de_vertaling = {"Vertaling": vertaalde_zin}
+    return de_vertaling
 
-
-if __name__ == '__main__':
-    main()
+# if __name__ == '__main__':
+#    main()
