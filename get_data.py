@@ -1,5 +1,6 @@
 import requests
 import json
+import re
 
 def save_to_file(lijst):
     with open("woorden.json",'w') as write_file:
@@ -33,8 +34,9 @@ def list_values(ls):
     result = dict()
     for d in ls:
         for k, v in d.items():
+            k = re.sub("[^A-Za-z0-9\s]", '', k)
             current = result.get(k, [])
-            current.append(v)
+            current.append(re.sub("[^A-Za-z0-9\s]", '', v))
             result[k] = current
     return result
 
@@ -42,8 +44,7 @@ def list_values(ls):
 def unique_values(ls):
     result = dict()
     for key, value in ls.items():
-        print(value)
-        clean[key] = list(set(value))
+        result[key] = list(set(value))
     return result
 
 def main():
