@@ -31,10 +31,10 @@
     ],
     "politieman": [
         "coppers",
-        "skootoe",
-        "fiveo",
         "ibahesj",
-        "ibahjs"
+        "fiveo",
+        "ibahjs",
+        "skootoe"
     ],
     "lijk": [
         "body"
@@ -60,18 +60,18 @@
         "sukkl"
     ],
     "flikkers": [
-        "zemmels",
-        "moggools",
-        "boelertjes",
         "sahbis",
+        "moggools",
+        "zemmels",
+        "boelertjes",
         "sukkls"
     ],
     "pardon": [
         "wat praat jij mogool"
     ],
     "neergeschoten": [
-        "gepopt",
-        "neergepopt"
+        "neergepopt",
+        "gepopt"
     ],
     "neuk": [
         "wiep"
@@ -87,18 +87,18 @@
     ],
     "school": [
         "skoro",
-        "scorro",
+        "scoro",
         "skorro",
-        "scoro"
+        "scorro"
     ],
     "straat": [
-        "block",
-        "street",
         "streets",
-        "strattie",
-        "dang",
+        "street",
         "prada",
-        "mstreet"
+        "block",
+        "strattie",
+        "mstreet",
+        "dang"
     ],
     "callantsoog": [
         "ctown"
@@ -116,13 +116,13 @@
         "skeerder"
     ],
     "grapje": [
-        "joka",
         "fa2s",
         "jokko",
         "fatoe",
+        "fattoe",
         "joke",
         "fatoes",
-        "fattoe"
+        "joka"
     ],
     "subsidie": [
         "bedeling"
@@ -144,8 +144,8 @@
         "diss"
     ],
     "makkelijk": [
-        "ez",
-        "ieng"
+        "ieng",
+        "ez"
     ],
     "even": [
         "effe",
@@ -164,49 +164,49 @@
         "bridde"
     ],
     "nee": [
-        "n0mang",
-        "n0 mimang",
-        "n33n",
-        "n0p3",
         "neen",
-        "n0"
+        "n0",
+        "n0mang",
+        "n33n",
+        "n0 mimang",
+        "n0p3"
     ],
     "kus": [
-        "kusj",
-        "boesoe",
         "kusjj",
-        "bossie",
-        "kusjz 4"
+        "boesoe",
+        "kusjz 4",
+        "kusj",
+        "bossie"
     ],
     "blut": [
         "skeere tijden",
-        "broke",
         "skeer",
-        "broko"
+        "broko",
+        "broke"
     ],
     "moge": [
-        "ewa",
-        "swa",
-        "jeweetzelf",
-        "faffie",
-        "fakka g",
         "sup g",
-        "rustig",
-        "vrind",
         "fawaka",
+        "ewa",
         "rustik",
-        "fakka"
+        "rustig",
+        "jeweetzelf",
+        "fakka",
+        "swa",
+        "fakka g",
+        "vrind",
+        "faffie"
     ],
     "nep": [
-        "fake",
-        "gaar",
+        "porie",
         "foeroe",
         "wack",
-        "droog",
-        "porie",
+        "fake",
+        "flash",
         "zuur",
+        "gaar",
         "palla",
-        "flash"
+        "droog"
     ],
     "mee": [
         "meej"
@@ -218,13 +218,13 @@
         "kills"
     ],
     "met": [
-        "mett",
-        "metj"
+        "metj",
+        "mett"
     ],
     "mes": [
+        "niffie",
         "stilo",
         "nivi",
-        "niffie",
         "niffa"
     ],
     "neven": [
@@ -247,8 +247,8 @@
     ],
     "opscheppen": [
         "braggen",
-        "fronten",
-        "djaffen"
+        "djaffen",
+        "fronten"
     ],
     "maakt": [
         "zet"
@@ -257,17 +257,17 @@
         "hood"
     ],
     "cocaine": [
-        "sos",
         "blanka",
-        "coca"
+        "coca",
+        "sos"
     ],
     "forums": [
         "massage boats"
     ],
     "gezicht": [
-        "grill",
+        "fisi",
         "face",
-        "fisi"
+        "grill"
     ],
     "manipulatie": [
         "hax"
@@ -276,17 +276,17 @@
         "skeer"
     ],
     "scheet": [
-        "dampoe",
         "bonna",
-        "dally",
-        "roefoes",
+        "swampoe",
         "puf",
+        "dampoe",
+        "roefoes",
         "ruft",
-        "swampoe"
+        "dally"
     ],
     "thuis": [
-        "os",
-        "home"
+        "home",
+        "os"
     ],
     "christelijk": [
         "christenlijk"
@@ -295,16 +295,16 @@
         "infosex"
     ],
     "liefde": [
-        "lobbi",
         "lovv",
         "lobi",
-        "luv"
+        "luv",
+        "lobbi"
     ],
     "slapen": [
-        "crashen",
         "koesen",
-        "crossen",
-        "maffa"
+        "crashen",
+        "maffa",
+        "crossen"
     ],
     "vpn": [
         "tantoe dikke hax"
@@ -325,12 +325,12 @@
         "glippen"
     ],
     "erg": [
-        "kk",
-        "faja",
+        "omin",
         "lelijk",
         "vies",
         "scandi",
-        "omin"
+        "kk",
+        "faja"
     ],
     "mager": [
         "skeer",
@@ -343,19 +343,19 @@
         "eg"
     ],
     "vrienden": [
-        "bradas",
-        "ouwes",
         "homeboys",
         "kills",
-        "niva",
         "homies",
-        "matties",
-        "niffus",
-        "bradaz",
         "tjappies",
-        "neven",
+        "ouwes",
+        "dawgs",
+        "bradas",
+        "niva",
+        "niffus",
+        "matties",
         "gs",
-        "dawgs"
+        "neven",
+        "bradaz"
     ],
     "arbeidsvoorwaarden": [
         "sletjes",
@@ -378,52 +378,52 @@
         "datahossel"
     ],
     "prostituee": [
+        "kurva",
         "nathasja",
-        "zahgba",
-        "puta",
-        "kahba",
-        "temijah",
-        "oochie",
-        "orspoe",
-        "aidshoer",
         "kehba",
-        "kussi",
-        "oruspu",
-        "poetana",
-        "hoo",
-        "hoer",
         "putain",
-        "soraya",
+        "aidshoer",
+        "orospu",
+        "oeter",
         "kehebe",
         "puto",
-        "oeter",
+        "hoo",
+        "slet",
+        "orspoe",
+        "oruspu",
+        "kahba",
+        "soraya",
+        "kussi",
+        "puta",
         "prastitutka",
+        "zahgba",
+        "oochie",
         "motjo",
-        "orospu",
-        "kurva",
-        "slet"
+        "poetana",
+        "hoer",
+        "temijah"
     ],
     "prostituees": [
         "sletjes",
-        "aidshoeren",
-        "hoeren"
+        "hoeren",
+        "aidshoeren"
     ],
     "hoi": [
-        "ewa",
-        "swa",
-        "jeweetzelf",
-        "faffie",
-        "fakka g",
-        "whattup",
+        "barew",
         "sup g",
-        "rustig",
-        "vrind",
-        "jo",
         "yo",
         "fawaka",
+        "ewa",
+        "jo",
         "rustik",
-        "barew",
-        "fakka"
+        "rustig",
+        "jeweetzelf",
+        "fakka",
+        "swa",
+        "fakka g",
+        "vrind",
+        "faffie",
+        "whattup"
     ],
     "fantastisch": [
         "master",
@@ -454,10 +454,10 @@
         "shoppa"
     ],
     "pistool": [
-        "gun",
-        "pipa",
         "blaffoe",
-        "pippa"
+        "gun",
+        "pippa",
+        "pipa"
     ],
     "begrijp het": [
         "mi saba"
@@ -472,21 +472,21 @@
         "tatta"
     ],
     "nederlander": [
-        "kaaskop",
-        "macamba",
-        "kaasje",
-        "tatta",
-        "balanda",
         "ptatta",
-        "tata",
-        "blanda",
-        "bakra",
         "belanda",
+        "blanda",
+        "macamba",
+        "bakra",
+        "tatta",
+        "kaaskop",
+        "kaasje",
+        "balanda",
+        "tata",
         "kaashoofd"
     ],
     "president": [
-        "superzemmel",
-        "eindbaas"
+        "eindbaas",
+        "superzemmel"
     ],
     "arch": [
         "slackware"
@@ -502,8 +502,8 @@
         "enigste"
     ],
     "profiteren": [
-        "hosselen",
-        "proberen"
+        "proberen",
+        "hosselen"
     ],
     "verkeerde": [
         "verkeert"
@@ -515,9 +515,9 @@
         "wrm"
     ],
     "tiener": [
-        "bradda",
         "dushii",
-        "gangster"
+        "gangster",
+        "bradda"
     ],
     "zeg": [
         "seg"
@@ -533,20 +533,20 @@
         "pasen"
     ],
     "vuurwapens": [
-        "blaffers",
-        "pipas"
+        "pipas",
+        "blaffers"
     ],
     "rijbewijs": [
+        "riba",
         "boekoe",
-        "rijbie",
-        "riba"
+        "rijbie"
     ],
     "depressies": [
         "aanstellerij"
     ],
     "niks": [
-        "nakkoe",
-        "nikz"
+        "nikz",
+        "nakkoe"
     ],
     "amerikanen": [
         "skeereniggas"
@@ -571,8 +571,8 @@
         "chicken"
     ],
     "bank": [
-        "bankoe",
-        "bannie"
+        "bannie",
+        "bankoe"
     ],
     "skills": [
         "skillz",
@@ -615,18 +615,18 @@
     ],
     "foto": [
         "p1cca",
-        "picca",
-        "pica"
+        "pica",
+        "picca"
     ],
     "zangers": [
-        "rappers",
-        "mcs"
+        "mcs",
+        "rappers"
     ],
     "ongesteld": [
         "eierkoek",
+        "lid van het rooie kruis",
         "mentos",
-        "online",
-        "lid van het rooie kruis"
+        "online"
     ],
     "internetbeveiligers": [
         "cyberzemmels"
@@ -641,10 +641,10 @@
         "skeere uwv"
     ],
     "den haag": [
-        "die haga",
-        "agga",
+        "aga",
         "gga",
-        "aga"
+        "agga",
+        "die haga"
     ],
     "vernietigd": [
         "verkankerd"
@@ -671,38 +671,38 @@
         "high"
     ],
     "koel": [
-        "aai",
-        "bruut",
-        "ait",
-        "aaai g",
         "radicaal",
-        "spang",
-        "vatzig",
-        "ai",
+        "bruut",
         "vies",
-        "ziek"
+        "vatzig",
+        "aai",
+        "spang",
+        "aaai g",
+        "ziek",
+        "ai",
+        "ait"
     ],
     "duidelijk": [
-        "crystal clear",
-        "helder"
+        "helder",
+        "crystal clear"
     ],
     "bitcoin": [
         "scamcoin"
     ],
     "meisjes": [
-        "wijfe",
+        "bitches",
         "chimeids",
         "smas",
         "hos",
         "sletjes",
-        "bitches",
+        "wijfe",
         "chickies"
     ],
     "tof": [
-        "dodelijk",
-        "iszeendikke",
+        "baad",
         "aan",
-        "baad"
+        "iszeendikke",
+        "dodelijk"
     ],
     "toe": [
         "toewh"
@@ -717,8 +717,8 @@
         "binnuh"
     ],
     "trek": [
-        "offoe",
         "snef",
+        "offoe",
         "soetoe"
     ],
     "jonge": [
@@ -734,9 +734,9 @@
         "tan2fuckedup"
     ],
     "feest": [
-        "fissa",
         "fisa",
-        "fesa"
+        "fesa",
+        "fissa"
     ],
     "mannen": [
         "gs"
@@ -757,16 +757,16 @@
         "lamlul"
     ],
     "zoenen": [
-        "snippen",
-        "snavelen",
         "kroelen",
-        "bekken"
+        "snippen",
+        "bekken",
+        "snavelen"
     ],
     "rappers": [
-        "zemmels",
-        "moggools",
-        "boelertjes",
         "sahbis",
+        "moggools",
+        "zemmels",
+        "boelertjes",
         "sukkls"
     ],
     "coin": [
@@ -794,20 +794,20 @@
         "ubernerd"
     ],
     "kut": [
-        "puni",
-        "punani"
+        "punani",
+        "puni"
     ],
     "oosterhout": [
-        "eastwoodcity",
+        "oosterwood",
         "eastwood city",
-        "oosterwood"
+        "eastwoodcity"
     ],
     "kusjes": [
         "boezoez"
     ],
     "huisgenoten": [
-        "huisbezems",
-        "huiszemmels"
+        "huiszemmels",
+        "huisbezems"
     ],
     "contacten": [
         "chimeids"
@@ -819,8 +819,8 @@
         "boombox"
     ],
     "ziekenhuizen": [
-        "ziekenosso",
-        "zieketoko"
+        "zieketoko",
+        "ziekenosso"
     ],
     "mietje": [
         "sukkel",
@@ -844,23 +844,23 @@
         "zemmels"
     ],
     "de": [
-        "du",
-        "die"
+        "die",
+        "du"
     ],
     "hoorn": [
-        "htown",
-        "rizzy"
+        "rizzy",
+        "htown"
     ],
     "stom": [
-        "sjikiman",
         "adoe",
-        "takkerheid",
+        "sjikiman",
         "kaka",
-        "constantin"
+        "constantin",
+        "takkerheid"
     ],
     "geen": [
-        "n0",
-        "n0hh"
+        "n0hh",
+        "n0"
     ],
     "geef": [
         "paas"
@@ -885,66 +885,66 @@
         "gardesh"
     ],
     "stelen": [
-        "sappen",
-        "robba",
-        "klaren",
-        "straffen",
-        "djaffen",
         "rippen",
-        "ontnikken",
+        "straffen",
+        "nakken",
+        "djaffen",
+        "klaren",
         "keten",
         "kapen",
         "pachuri",
-        "shoufen",
         "tjallen",
-        "nakken"
+        "robba",
+        "sappen",
+        "shoufen",
+        "ontnikken"
     ],
     "best": [
         "bestt"
     ],
     "hasj": [
-        "chronic",
-        "gras",
-        "shizzl",
-        "hassie",
-        "wiedie",
-        "ampoe",
-        "hollandse groente",
+        "assie",
         "mary jane",
-        "shizzle",
-        "wiri",
-        "wiet",
-        "kassis",
-        "wierrie",
-        "asie",
-        "cheiba",
-        "panne",
-        "ganja",
-        "adidas",
-        "method",
-        "j",
+        "bakkeluloe",
         "pitt",
+        "hollandse groente",
         "tjaiba",
         "bazz",
-        "assens",
-        "assie",
+        "asie",
+        "gras",
+        "adidas",
+        "ganja",
+        "kaya",
+        "panne",
+        "shizzle",
+        "cheiba",
+        "shizzl",
+        "hassie",
+        "wierrie",
+        "j",
+        "wiet",
+        "skunk",
         "motta",
         "hashiesh",
-        "mota",
-        "skunk",
-        "bakkeluloe",
-        "kaya"
+        "method",
+        "wiri",
+        "chronic",
+        "wiedie",
+        "kassis",
+        "assens",
+        "ampoe",
+        "mota"
     ],
     "schutters": [
         "knallers"
     ],
     "bier": [
+        "biri",
         "bierie",
-        "birri",
         "spagoud",
-        "bjieah",
+        "birri",
         "biahh",
-        "biri"
+        "bjieah"
     ],
     "irc": [
         "de straat"
@@ -957,26 +957,26 @@
         "420"
     ],
     "gebruikers": [
-        "sahbis",
         "sagbis",
-        "zemmels"
+        "zemmels",
+        "sahbis"
     ],
     "turkse": [
         "turkoe",
         "toerkoe"
     ],
     "mogge": [
-        "ewa",
-        "swa",
-        "jeweetzelf",
-        "faffie",
-        "fakka g",
         "sup g",
-        "rustig",
-        "vrind",
         "fawaka",
+        "ewa",
         "rustik",
-        "fakka"
+        "rustig",
+        "jeweetzelf",
+        "fakka",
+        "swa",
+        "fakka g",
+        "vrind",
+        "faffie"
     ],
     "nummer": [
         "numertje"
@@ -991,12 +991,12 @@
         "ramtjoe"
     ],
     "vrouwen": [
-        "wijfe",
+        "bitches",
         "chimeids",
         "smas",
         "hos",
         "sletjes",
-        "bitches",
+        "wijfe",
         "chickies"
     ],
     "gekkigheid": [
@@ -1006,11 +1006,11 @@
         "torries"
     ],
     "veel": [
-        "omin veel",
-        "onmin",
         "hopy",
+        "hopi",
         "tantoe veel",
-        "hopi"
+        "onmin",
+        "omin veel"
     ],
     "gezich": [
         "fisi"
@@ -1031,9 +1031,9 @@
         "vrouten"
     ],
     "maandag": [
-        "kudtdagh",
         "maandawgg",
-        "kauludag"
+        "kauludag",
+        "kudtdagh"
     ],
     "vereniging": [
         "gang"
@@ -1050,23 +1050,23 @@
         "geklaard"
     ],
     "blowen": [
-        "pieten roken",
         "knallen",
-        "smoken",
-        "snaken",
-        "blazen",
-        "soetoe",
-        "takkie klappen",
+        "dampen",
         "nakken",
-        "choken",
-        "sm0kuh",
-        "roekend",
+        "smoken",
         "dringi",
-        "dampen"
+        "choken",
+        "soetoe",
+        "roekend",
+        "blazen",
+        "snaken",
+        "takkie klappen",
+        "sm0kuh",
+        "pieten roken"
     ],
     "wacht": [
-        "wachti",
-        "w8"
+        "w8",
+        "wachti"
     ],
     "pagina": [
         "webbie"
@@ -1075,22 +1075,22 @@
         "webbie"
     ],
     "weggaan": [
-        "pikaan",
-        "oplossen",
-        "get gaan",
+        "bouncen",
+        "kas gaan",
+        "tjala",
         "dashen",
-        "plama",
-        "loezoe",
-        "boeken",
-        "loes",
+        "oplossen",
         "haar a dang",
         "piah",
-        "bouncen",
-        "splitten",
-        "flowa",
-        "tjala",
+        "boeken",
         "loesoe",
-        "kas gaan"
+        "pikaan",
+        "loezoe",
+        "get gaan",
+        "flowa",
+        "plama",
+        "splitten",
+        "loes"
     ],
     "wachtwoord": [
         "w8woord"
@@ -1102,18 +1102,18 @@
         "w8woorden"
     ],
     "drugs": [
-        "paddo",
-        "wietrie",
         "crack",
+        "paddo",
         "dr0gz",
         "dr0gzz",
-        "kaiki",
-        "ish"
+        "ish",
+        "wietrie",
+        "kaiki"
     ],
     "huizen": [
+        "casas",
         "ossos",
         "cribs",
-        "casas",
         "hzn"
     ],
     "vanavond": [
@@ -1133,8 +1133,8 @@
         "pokoelijsten"
     ],
     "sarodj": [
-        "flippahacker",
-        "doras"
+        "doras",
+        "flippahacker"
     ],
     "procedure": [
         "torie"
@@ -1150,18 +1150,18 @@
         "bodies"
     ],
     "ik": [
+        "iek",
         "ek",
-        "ick",
-        "iek"
+        "ick"
     ],
     "gesnapt": [
         "faya"
     ],
     "hond": [
-        "kuta",
-        "dagoe",
+        "daggoe",
         "fogga",
-        "daggoe"
+        "dagoe",
+        "kuta"
     ],
     "schoten": [
         "blasts"
@@ -1173,16 +1173,16 @@
         "ff"
     ],
     "zweer": [
-        "wola",
         "wholla",
-        "whalla"
+        "whalla",
+        "wola"
     ],
     "konteneuker": [
         "boeler"
     ],
     "inwoners": [
-        "sahbis",
-        "zemmels"
+        "zemmels",
+        "sahbis"
     ],
     "koning": [
         "meester pimp"
@@ -1191,15 +1191,15 @@
         "goodlife"
     ],
     "hoeren": [
-        "cahbas",
         "voishas",
+        "kahbas",
         "bangas",
-        "kahbas"
+        "cahbas"
     ],
     "mij": [
         "mehh",
-        "muhh",
-        "my"
+        "my",
+        "muhh"
     ],
     "verkrachten": [
         "neuqe"
@@ -1213,26 +1213,26 @@
         "djakka"
     ],
     "slechte": [
-        "skeere",
-        "f0kedup"
+        "f0kedup",
+        "skeere"
     ],
     "jongetje": [
-        "mimang",
         "brada",
-        "niffu",
-        "dawg",
-        "player",
-        "mang",
-        "gappie",
-        "g",
-        "ouwe",
-        "jacks",
-        "bomboclat",
-        "sahbi",
-        "mattie",
         "haabe",
+        "bomboclat",
+        "mii bohh",
+        "jacks",
+        "ouwe",
+        "sahbi",
+        "mang",
+        "niffu",
+        "player",
+        "dawg",
         "gardesh",
-        "mii bohh"
+        "gappie",
+        "mimang",
+        "g",
+        "mattie"
     ],
     "shirleys": [
         "vochtigespleet"
@@ -1250,14 +1250,14 @@
         "problemo"
     ],
     "thc": [
-        "wiri",
         "gras",
-        "crack",
-        "dank",
         "420blazit",
-        "jonko",
+        "crack",
+        "ganja",
         "kush",
-        "ganja"
+        "wiri",
+        "dank",
+        "jonko"
     ],
     "kingofdos": [
         "badwingman"
@@ -1269,9 +1269,9 @@
         "hosselgebied"
     ],
     "beetje": [
-        "beetjuh",
         "beetjun",
-        "afoe"
+        "afoe",
+        "beetjuh"
     ],
     "waarheid": [
         "waarhijt"
@@ -1283,17 +1283,17 @@
         "boontje"
     ],
     "hai": [
-        "ewa",
-        "swa",
-        "jeweetzelf",
-        "faffie",
-        "fakka g",
         "sup g",
-        "rustig",
-        "vrind",
         "fawaka",
+        "ewa",
         "rustik",
-        "fakka"
+        "rustig",
+        "jeweetzelf",
+        "fakka",
+        "swa",
+        "fakka g",
+        "vrind",
+        "faffie"
     ],
     "vijtig": [
         "fitty"
@@ -1345,23 +1345,23 @@
         "moni"
     ],
     "knokpartij": [
+        "fitty",
+        "fiti",
         "fittie",
         "paipai",
-        "rwina",
-        "fiti",
-        "fitty"
+        "rwina"
     ],
     "politievrouw": [
-        "ippi",
-        "skootoe",
         "ibahesj",
-        "ibahaz",
         "vrouw in blauw",
-        "ibahjs"
+        "ibahjs",
+        "ibahaz",
+        "skootoe",
+        "ippi"
     ],
     "hakkr": [
-        "skeeretjap",
-        "blasty"
+        "blasty",
+        "skeeretjap"
     ],
     "smokkelroute": [
         "hosselroute"
@@ -1370,17 +1370,17 @@
         "rwina"
     ],
     "vriendin": [
-        "bitch",
-        "chimeisje",
-        "chiqa",
-        "chicki",
-        "chingmeid",
-        "ho",
-        "wijf",
-        "sma",
         "chimeid",
         "girly",
-        "sletje"
+        "chimeisje",
+        "sletje",
+        "ho",
+        "chicki",
+        "bitch",
+        "sma",
+        "chiqa",
+        "chingmeid",
+        "wijf"
     ],
     "bezoeken": [
         "bezoekuh"
@@ -1396,10 +1396,10 @@
         "tantoeziek"
     ],
     "onzin": [
-        "crap",
-        "fatoe",
         "malarkey",
+        "fatoe",
         "boetie",
+        "crap",
         "palla"
     ],
     "super": [
@@ -1410,8 +1410,8 @@
         "fatoeman"
     ],
     "opgefokt": [
-        "fromoe",
         "fokop",
+        "fromoe",
         "bruya"
     ],
     "politieauto": [
@@ -1431,13 +1431,13 @@
         "krasbal"
     ],
     "lief": [
-        "lobbi",
-        "lobi",
-        "1lov",
-        "1lof",
-        "1love",
         "luv",
-        "lovv"
+        "lovv",
+        "lobi",
+        "lobbi",
+        "1lov",
+        "1love",
+        "1lof"
     ],
     "georganiseerde": [
         "gehosselde"
@@ -1446,12 +1446,12 @@
         "iesabie"
     ],
     "amsterdam": [
-        "damsko",
-        "masterdam",
-        "atown",
-        "mokum",
         "triple x",
-        "damsco"
+        "mokum",
+        "masterdam",
+        "damsco",
+        "damsko",
+        "atown"
     ],
     "groeien": [
         "hosselen"
@@ -1460,26 +1460,26 @@
         "zatuhhrdagg"
     ],
     "hallo": [
-        "ewa",
+        "sup g",
+        "hadihoi",
+        "rustig",
+        "jeweetzelf",
+        "shalom",
         "thuaka",
         "faffie",
-        "nihauw",
-        "fawaka",
-        "ey",
-        "hadihoi",
-        "jeweetzelf",
-        "fakka g",
-        "rustig",
-        "halloowwwww",
-        "swa",
-        "sup g",
-        "vrind",
         "salaam",
+        "fawaka",
+        "ewa",
+        "rustik",
         "fakka",
+        "swa",
+        "vrind",
+        "nihauw",
         "ej manin",
-        "moi",
-        "shalom",
-        "rustik"
+        "ey",
+        "halloowwwww",
+        "fakka g",
+        "moi"
     ],
     "verader": [
         "snitch"
@@ -1488,24 +1488,24 @@
         "hosselaarsmentaliteit"
     ],
     "mobieltje": [
-        "cell",
-        "cellie",
-        "pokki",
         "lulijzer",
         "pocket",
-        "fonna",
         "portjie",
-        "talla",
-        "cellular",
-        "mobila",
+        "cellie",
         "telly",
+        "fonna",
         "phona",
+        "mobila",
+        "cell",
+        "pokki",
+        "talla",
         "tellie",
-        "pokkie"
+        "pokkie",
+        "cellular"
     ],
     "marokkaan": [
-        "mokro",
-        "mocro"
+        "mocro",
+        "mokro"
     ],
     "marokkanen": [
         "mocros"
@@ -1532,60 +1532,60 @@
         "netbsd"
     ],
     "dronken": [
-        "van de kaart",
-        "skafa",
-        "stoned",
+        "peige sjikes",
+        "crackie",
+        "der af",
         "skaffa",
+        "wappie",
+        "panja",
+        "monka dunky",
+        "appa",
+        "vandekaart",
         "ver",
         "lazerus",
-        "cookie",
-        "crackie",
-        "droeloe",
-        "appa",
-        "pila",
+        "stoned",
         "droengoe",
+        "wasted",
+        "cookie",
+        "van de kaart",
         "lam",
-        "monka dunky",
-        "vandekaart",
-        "der af",
-        "panja",
-        "wappie",
         "panya",
-        "peige sjikes",
-        "wasted"
+        "skafa",
+        "droeloe",
+        "pila"
     ],
     "hoe gaat het": [
-        "fa waka",
-        "como esta",
+        "kiefesh",
+        "woekiki",
+        "tapimofo",
         "gaka",
-        "saisa",
-        "whazzza",
-        "apa kabar",
+        "sup",
+        "fa",
+        "fa waka",
+        "favie",
+        "fakka",
         "kaise",
         "kieder",
+        "whazzza",
+        "saisa",
         "how",
+        "apa kabar",
         "conta",
-        "fa",
-        "kiefesh",
-        "sup",
-        "tapimofo",
-        "favie",
-        "woekiki",
         "word up",
-        "fakka"
+        "como esta"
     ],
     "broertjes": [
-        "bradas",
-        "bros"
+        "bros",
+        "bradas"
     ],
     "broer": [
-        "brate",
-        "brada",
-        "ab",
-        "bradda",
-        "bradder",
         "broeder",
-        "bro"
+        "brada",
+        "bro",
+        "bradder",
+        "bradda",
+        "ab",
+        "brate"
     ],
     "handen": [
         "handuhh"
@@ -1597,17 +1597,17 @@
         "gio"
     ],
     "broek": [
-        "brakka",
         "soffel",
+        "brakka",
         "broekoe"
     ],
     "jonkol": [
         "jamma"
     ],
     "kiezers": [
-        "sahbis",
         "sagbis",
-        "zemmels"
+        "zemmels",
+        "sahbis"
     ],
     "kleding": [
         "swag"
@@ -1623,8 +1623,8 @@
     ],
     "dief": [
         "foermang",
-        "klepto",
-        "schuinmarcheerder"
+        "schuinmarcheerder",
+        "klepto"
     ],
     "bewoonster": [
         "chimeid"
@@ -1633,10 +1633,10 @@
         "wat praat jij mogool"
     ],
     "klanten": [
-        "zemmels",
-        "moggools",
-        "boelertjes",
         "sahbis",
+        "moggools",
+        "zemmels",
+        "boelertjes",
         "sukkls"
     ],
     "helikopters": [
@@ -1661,19 +1661,19 @@
         "ragggg"
     ],
     "vet": [
-        "aai",
-        "phat",
-        "bruut",
-        "kay",
-        "ait",
-        "aaai g",
         "radicaal",
-        "spang",
-        "vatzig",
-        "ai",
-        "master",
+        "bruut",
         "vies",
-        "ziek"
+        "master",
+        "vatzig",
+        "aai",
+        "spang",
+        "phat",
+        "aaai g",
+        "ziek",
+        "kay",
+        "ai",
+        "ait"
     ],
     "militaire": [
         "straatmilitaire"
@@ -1685,8 +1685,8 @@
         "ghebe"
     ],
     "beste": [
-        "besth",
-        "king"
+        "king",
+        "besth"
     ],
     "ballen": [
         "goja"
@@ -1720,104 +1720,104 @@
         "kaaskop"
     ],
     "cool": [
-        "stylie",
-        "hard",
-        "ai",
-        "chillwings",
-        "vers",
-        "flexi",
-        "stragga",
-        "on te bont",
-        "word up",
-        "sparky",
-        "bruut",
         "foeroe",
-        "waush",
-        "kicken",
-        "wicked",
-        "gers",
-        "pjotr",
-        "neet",
-        "ijselijk",
-        "jiggy",
-        "relaxed",
-        "radicaal",
-        "gin",
-        "inter",
-        "wax",
-        "loent",
-        "gruwelijk",
-        "aaai g",
-        "fly",
-        "smooth",
-        "faja",
-        "guccu",
-        "wauz",
-        "unky",
-        "verse",
-        "goud",
-        "laamraoui",
-        "ill",
-        "immo",
-        "raszz",
-        "ait",
-        "killer",
-        "moetig",
-        "gravy",
-        "masterlijk",
-        "wreed",
-        "phat",
-        "relax",
-        "skraffa",
-        "wayooh",
-        "dope",
-        "kvlt",
-        "gataar",
-        "tranga",
-        "tof",
-        "makaan",
-        "flex",
-        "lau",
-        "t",
-        "wojoh",
-        "spiffy",
-        "ill shit",
-        "strak",
-        "siki",
-        "stylo",
-        "vies",
-        "onyx",
-        "aai",
-        "styl",
-        "tev",
-        "skunnig",
-        "real",
-        "unkie",
-        "gucci",
-        "sick",
-        "ruud",
-        "vatzig",
-        "ziek",
-        "tand2leip",
-        "klef",
-        "styling",
-        "woei",
         "kinky",
-        "panja",
-        "spang",
+        "tof",
+        "spiffy",
+        "wicked",
+        "word up",
+        "unky",
+        "vers",
+        "gataar",
         "relaxt",
+        "kvlt",
+        "lau",
+        "gin",
+        "guccu",
+        "laamraoui",
+        "wreed",
+        "on te bont",
+        "ruud",
+        "wauz",
+        "ai",
+        "aai",
+        "vet",
+        "raszz",
+        "masterlijk",
+        "goud",
+        "tranga",
+        "inter",
+        "dope",
+        "smooth",
+        "aaai g",
+        "neet",
+        "styl",
+        "bruut",
+        "gers",
+        "hard",
+        "ill shit",
+        "styling",
+        "siki",
+        "flex",
+        "gravy",
+        "flexi",
+        "moetig",
+        "faja",
+        "ijselijk",
+        "verse",
+        "woei",
+        "gruwelijk",
+        "wayooh",
+        "ait",
         "het doet",
-        "vet"
+        "loent",
+        "real",
+        "wax",
+        "t",
+        "sick",
+        "relax",
+        "vatzig",
+        "tand2leip",
+        "stylie",
+        "jiggy",
+        "immo",
+        "radicaal",
+        "gucci",
+        "waush",
+        "wojoh",
+        "strak",
+        "tev",
+        "pjotr",
+        "phat",
+        "panja",
+        "fly",
+        "onyx",
+        "vies",
+        "skraffa",
+        "spang",
+        "stragga",
+        "ziek",
+        "killer",
+        "unkie",
+        "ill",
+        "sparky",
+        "stylo",
+        "relaxed",
+        "klef",
+        "skunnig",
+        "kicken",
+        "chillwings",
+        "makaan"
     ],
     "agenten": [
         "coppers"
     ],
     "dik": [
-        "vadzig",
         "fatibomba",
-        "chubby",
         "fati bomba",
-        "vatzig"
+        "vatzig",
+        "chubby",
+        "vadzig"
     ],
     "grote": [
         "tantoedikke",
@@ -1840,9 +1840,9 @@
         "gotje"
     ],
     "genieten": [
+        "chille",
         "chillu",
-        "chillen",
-        "chille"
+        "chillen"
     ],
     "strafblad": [
         "streetrep"
@@ -1851,32 +1851,32 @@
         "click"
     ],
     "goed": [
-        "leipe shit",
-        "beest",
-        "master",
-        "aightz",
-        "basis",
-        "safie",
-        "viez",
-        "baniz",
-        "caffa",
+        "paletti",
         "rustig",
+        "basis",
+        "baniz",
         "bon",
-        "baik",
+        "vies",
+        "master",
+        "spang",
+        "beest",
+        "tan2lauw",
         "ziek",
-        "leet",
+        "meck",
+        "viez",
+        "rustik",
         "classic",
         "boeng",
-        "meck",
-        "aan",
-        "mieters",
         "rustikrustig",
-        "strak",
-        "tan2lauw",
-        "paletti",
-        "spang",
-        "rustik",
-        "vies"
+        "leipe shit",
+        "caffa",
+        "baik",
+        "mieters",
+        "aan",
+        "safie",
+        "aightz",
+        "leet",
+        "strak"
     ],
     "fillipijnse": [
         "pinay"
@@ -1900,12 +1900,12 @@
         "jeffrey"
     ],
     "snackbar": [
-        "vreetkeet",
-        "vetbak"
+        "vetbak",
+        "vreetkeet"
     ],
     "idioot": [
-        "leipe frea",
-        "retard"
+        "retard",
+        "leipe frea"
     ],
     "downloaden": [
         "leechen"
@@ -1921,13 +1921,13 @@
         "gang"
     ],
     "love": [
-        "lobbi",
-        "lobi",
-        "1lov",
-        "1lof",
-        "1love",
         "luv",
-        "lovv"
+        "lovv",
+        "lobi",
+        "lobbi",
+        "1lov",
+        "1love",
+        "1lof"
     ],
     "kebab": [
         "shoarma"
@@ -2001,23 +2001,23 @@
         "hosselen"
     ],
     "douche": [
-        "fappen",
-        "fappe"
+        "fappe",
+        "fappen"
     ],
     "scholen": [
         "skorros"
     ],
     "brommer": [
-        "180cc",
-        "zip3 180cc"
+        "zip3 180cc",
+        "180cc"
     ],
     "gestolen": [
-        "gesnatched",
-        "gedjackt",
         "gesnitcht",
-        "onthosseld",
+        "gedjackt",
         "geklaart",
-        "genakt"
+        "onthosseld",
+        "genakt",
+        "gesnatched"
     ],
     "moslim": [
         "booslim"
@@ -2029,20 +2029,20 @@
         "mission critical"
     ],
     "december": [
-        "decemboe",
+        "kerstmaand",
         "dezembuh",
-        "kerstmaand"
+        "decemboe"
     ],
     "fuck": [
-        "fuk",
         "fucc",
+        "fuk",
         "fackk"
     ],
     "agent": [
         "scootoe",
+        "commadant",
         "skootoe",
-        "popo",
-        "commadant"
+        "popo"
     ],
     "kijk": [
         "kiek",
@@ -2074,58 +2074,58 @@
         "gebeurduhh"
     ],
     "joint": [
-        "pintoo",
-        "onkel",
         "pater",
-        "tjonkel",
-        "banga",
-        "jonko",
-        "ampoe",
-        "kush",
-        "p2",
-        "snaak",
-        "dikke",
-        "fakkel",
-        "bakoe",
-        "zuen",
-        "pretsjekkie",
-        "baap",
-        "jay",
-        "dutchie",
-        "pitoe",
-        "knaapje",
-        "marley",
-        "stokkie",
-        "jonkol",
-        "foemp",
-        "swampa",
-        "zuena",
-        "affoe",
-        "pipa",
-        "crack",
-        "pitje",
-        "urfie",
-        "stickie",
-        "bone",
-        "klatser",
-        "pit",
-        "jamma",
-        "spliff",
-        "yoera",
-        "bono",
-        "jueno",
         "groene vriend",
-        "jonkel",
-        "groene",
-        "djonkoe",
-        "djonko",
+        "marley",
+        "pit",
+        "bakoe",
         "tjaper",
-        "toektoek",
-        "blunt",
+        "stokkie",
+        "jonko",
+        "p2",
+        "crack",
+        "bono",
+        "yoera",
+        "zuena",
+        "pretsjekkie",
+        "pitoe",
+        "jay",
+        "spliff",
+        "knaapje",
+        "onkel",
+        "urfie",
         "giant",
         "joppie",
+        "jonkel",
+        "toektoek",
+        "tjonkel",
+        "foemp",
+        "djonkoe",
+        "blunt",
+        "djonko",
+        "groenevriend",
+        "pipa",
+        "bone",
+        "snaak",
+        "zuen",
+        "kush",
+        "affoe",
+        "pintoo",
+        "jueno",
+        "dutchie",
+        "banga",
+        "baap",
+        "groene",
+        "jonkol",
         "pintu",
-        "groenevriend"
+        "swampa",
+        "klatser",
+        "fakkel",
+        "stickie",
+        "ampoe",
+        "dikke",
+        "pitje",
+        "jamma"
     ],
     "ondernemers": [
         "hosselaars"
@@ -2142,13 +2142,13 @@
         "getjapt"
     ],
     "denken": [
+        "dampen",
+        "nakken",
         "smoken",
         "prakseri",
-        "blazen",
-        "sm0kuh",
         "roekend",
-        "nakken",
-        "dampen"
+        "blazen",
+        "sm0kuh"
     ],
     "normaliter": [
         "altyd"
@@ -2166,20 +2166,20 @@
         "tantudikkewaggiesteel"
     ],
     "police": [
-        "ippi",
-        "skootoe",
         "ibahesj",
-        "ibahaz",
+        "ibahjs",
         "blauw",
-        "ibahjs"
+        "ibahaz",
+        "skootoe",
+        "ippi"
     ],
     "dromen": [
         "dreamz"
     ],
     "jij": [
+        "juh",
         "gij",
-        "jy",
-        "juh"
+        "jy"
     ],
     "echtgenoot": [
         "lover"
@@ -2194,9 +2194,9 @@
         "boxen"
     ],
     "bullshit": [
-        "skeere tijden",
         "bombet",
         "leip",
+        "skeere tijden",
         "bla"
     ],
     "nos": [
@@ -2226,8 +2226,8 @@
         "gang"
     ],
     "helft": [
-        "affoe",
-        "helluf"
+        "helluf",
+        "affoe"
     ],
     "januari": [
         "janoearieh"
@@ -2236,9 +2236,9 @@
         "checken"
     ],
     "telefoon": [
-        "fonna",
         "tellie",
-        "pokkie"
+        "pokkie",
+        "fonna"
     ],
     "botnets": [
         "boatnets"
@@ -2247,20 +2247,20 @@
         "cyberzemmels"
     ],
     "rapper": [
-        "mc",
-        "kneus",
+        "bezem",
+        "mogol",
         "zemmel",
         "sukkl",
+        "mc",
         "mogool",
-        "bezem",
-        "mogol"
+        "kneus"
     ],
     "foknl": [
         "spangatoriesnl"
     ],
     "irritant": [
-        "bibbilebons",
-        "vlieg"
+        "vlieg",
+        "bibbilebons"
     ],
     "bosmuis": [
         "bosmuis"
@@ -2272,8 +2272,8 @@
         "duhr"
     ],
     "hacker": [
-        "hax0r",
-        "h4ckz0rrrr"
+        "h4ckz0rrrr",
+        "hax0r"
     ],
     "biografie": [
         "torri van die libbi"
@@ -2288,9 +2288,9 @@
         "intwerebs"
     ],
     "hacken": [
-        "pwnen",
         "haxen",
-        "ownen"
+        "ownen",
+        "pwnen"
     ],
     "wijk": [
         "hood"
@@ -2314,24 +2314,24 @@
         "rwinas"
     ],
     "schieten": [
-        "clippen",
-        "poppen"
+        "poppen",
+        "clippen"
     ],
     "woning": [
+        "casa",
         "osso",
-        "crib",
-        "casa"
+        "crib"
     ],
     "vietnamees": [
-        "charlie",
-        "viet",
+        "gook",
         "loempiavouwer",
-        "gook"
+        "viet",
+        "charlie"
     ],
     "turk": [
         "turkoe",
-        "torkoe",
-        "uurkoe"
+        "uurkoe",
+        "torkoe"
     ],
     "1000": [
         "doezoe"
@@ -2344,11 +2344,11 @@
     ],
     "xd": [
         "",
-        "3333",
         "3",
-        "pppppp",
+        "3333",
         "333pppp",
-        "8xd"
+        "8xd",
+        "pppppp"
     ],
     "duitsland": [
         "naziland"
@@ -2360,12 +2360,12 @@
         "onzuhh"
     ],
     "vriendinnen": [
-        "wijfe",
+        "bitches",
         "chimeids",
         "smas",
         "hos",
         "sletjes",
-        "bitches",
+        "wijfe",
         "chickies"
     ],
     "berichtgeving": [
@@ -2379,8 +2379,8 @@
     ],
     "buurt": [
         "barrio",
-        "hood",
-        "getho"
+        "getho",
+        "hood"
     ],
     "soas": [
         "aidsen"
@@ -2403,8 +2403,8 @@
         "donnie"
     ],
     "lunchen": [
-        "bikken",
-        "vreten"
+        "vreten",
+        "bikken"
     ],
     "frauderen": [
         "fixen",
@@ -2417,8 +2417,8 @@
         "hossel"
     ],
     "houden": [
-        "houdne",
-        "houwe"
+        "houwe",
+        "houdne"
     ],
     "alles": [
         "al die ding"
@@ -2430,10 +2430,10 @@
         "onzuhh"
     ],
     "werken": [
-        "joppe",
+        "monie maken",
         "twerken",
-        "hosselen",
-        "monie maken"
+        "joppe",
+        "hosselen"
     ],
     "politiemensen": [
         "scootoe",
@@ -2459,10 +2459,10 @@
         "geina"
     ],
     "vingeren": [
-        "vingalinga",
         "pinkelen",
         "funnybattaren",
-        "funny battaren"
+        "funny battaren",
+        "vingalinga"
     ],
     "koffie": [
         "prut"
@@ -2494,17 +2494,17 @@
         "bitch"
     ],
     "roken": [
-        "klappen",
+        "smokka",
+        "dampen",
         "basen",
         "smoken",
+        "dringi",
         "pluimen",
+        "roekend",
         "blazen",
         "smoke",
-        "smokka",
         "sm0kuh",
-        "roekend",
-        "dringi",
-        "dampen"
+        "klappen"
     ],
     "videos": [
         "viddys"
@@ -2530,100 +2530,100 @@
         "halla"
     ],
     "toch": [
-        "tog",
-        "tok",
         "togg",
-        "towgh"
+        "tog",
+        "towgh",
+        "tok"
     ],
     "merken": [
-        "gucci",
-        "nickelson"
+        "nickelson",
+        "gucci"
     ],
     "allochtoon": [
         "zemmel"
     ],
     "gek": [
-        "kaballa",
-        "scaffa",
+        "brainwash",
         "kranka",
-        "locco",
-        "loessoe",
-        "para",
-        "debiel",
-        "frog",
-        "krasie",
-        "loco",
-        "krikoes",
-        "faya",
-        "kriekoes",
+        "scaffa",
         "farjat",
         "gila",
-        "loko",
+        "loessoe",
+        "krasie",
+        "para",
         "waka",
-        "brainwash"
+        "kriekoes",
+        "faya",
+        "frog",
+        "debiel",
+        "loko",
+        "loco",
+        "kaballa",
+        "locco",
+        "krikoes"
     ],
     "middelburg": [
-        "mtown",
-        "mbg"
+        "mbg",
+        "mtown"
     ],
     "held": [
-        "pimp",
-        "baas"
+        "baas",
+        "pimp"
     ],
     "manager": [
-        "pimp",
-        "baas"
+        "baas",
+        "pimp"
     ],
     "alkmaar": [
-        "alki",
-        "raamkla"
+        "raamkla",
+        "alki"
     ],
     "leuk": [
-        "ziek",
-        "styling",
-        "funnig",
-        "moeilijk",
-        "spang",
-        "kwaka",
-        "stang",
-        "tjading",
-        "leuq",
         "knopje",
-        "lauw"
+        "leuq",
+        "kwaka",
+        "spang",
+        "tjading",
+        "lauw",
+        "ziek",
+        "funnig",
+        "styling",
+        "stang",
+        "moeilijk"
     ],
     "sukkel": [
-        "gepetto",
-        "ezel",
-        "sjakie",
-        "goel",
+        "naab",
+        "frotterd",
+        "noeid",
         "ukkel",
-        "hennie",
-        "suchaaa",
+        "sinkeh",
+        "mogool",
+        "sjakkoo",
         "kindje",
         "salak",
-        "oettoe",
-        "flares",
-        "snoebel",
-        "noeid",
-        "oppeling",
-        "kneus",
-        "rukker",
-        "nerd",
-        "luster",
-        "chomp",
-        "ezelin",
-        "naab",
         "sjonnie",
-        "poentje",
-        "sinkeh",
-        "koekert",
-        "mogol",
         "smur",
+        "flares",
+        "chomp",
+        "suchaaa",
         "prutser",
+        "koekert",
         "sukkl",
-        "mogool",
-        "frotterd",
-        "sjakkoo"
+        "ezel",
+        "hennie",
+        "nerd",
+        "oettoe",
+        "kneus",
+        "goel",
+        "rukker",
+        "gepetto",
+        "mogol",
+        "sjakie",
+        "luster",
+        "oppeling",
+        "poentje",
+        "snoebel",
+        "ezelin"
     ],
     "mattie": [
         "gappie"
@@ -2635,25 +2635,25 @@
         "zemmel"
     ],
     "begrepen": [
-        "capiche",
+        "capish",
         "jeh grabbing",
-        "capish"
+        "capiche"
     ],
     "locaties": [
         "spots"
     ],
     "gangster": [
-        "thug",
-        "gangsta",
         "soldier",
-        "gi"
+        "gangsta",
+        "gi",
+        "thug"
     ],
     "museum": [
         "kk saai museum"
     ],
     "hoer": [
-        "kahba",
-        "kech"
+        "kech",
+        "kahba"
     ],
     "boeie": [
         "naka"
@@ -2665,34 +2665,34 @@
         "mocros"
     ],
     "lekker": [
+        "lekkr",
+        "tantoespang",
         "lekka",
         "schier",
-        "tantoelekker",
-        "rico",
-        "lekkr",
         "sappig",
-        "spang",
-        "sweetie",
         "doodgoeie",
+        "sweetie",
         "spange",
-        "tantoespang"
+        "spang",
+        "tantoelekker",
+        "rico"
     ],
     "lopen": [
-        "lijn 11",
-        "waka",
         "wakka",
         "stiefelen",
+        "lijn 11",
+        "waka",
         "tippelen"
     ],
     "ruzie": [
-        "fittie",
-        "beef",
-        "paipai",
-        "rwina",
-        "stroggel",
-        "fitie",
+        "fitty",
         "fiti",
-        "fitty"
+        "fitie",
+        "beef",
+        "stroggel",
+        "fittie",
+        "paipai",
+        "rwina"
     ],
     "project": [
         "gang"
@@ -2701,8 +2701,8 @@
         "koltoer"
     ],
     "osdorp": [
-        "odorp",
-        "ossy"
+        "ossy",
+        "odorp"
     ],
     "aanval": [
         "takedown"
@@ -2711,97 +2711,97 @@
         "kryg"
     ],
     "vriend": [
-        "djacks",
-        "pape",
-        "harakadas",
-        "homeboy",
-        "kardesj",
-        "haabe",
-        "kabel",
-        "bro",
-        "asahbi",
-        "brada",
-        "niffu",
-        "dawg",
-        "ouwe",
-        "abi",
-        "bomboclat",
-        "bradda",
-        "gardasj",
-        "gardesh",
-        "broeder",
-        "cuz",
         "neef",
-        "zagbe",
-        "koulo",
-        "lep",
-        "holmes",
-        "swa",
-        "player",
-        "karsdash",
-        "gappie",
-        "broer",
-        "g",
-        "homez",
-        "matie",
-        "mattie",
         "blood",
-        "ombre",
+        "broer",
+        "makker",
+        "mattie",
         "stamma",
-        "drerrie",
         "kallistos",
-        "koullo",
-        "mimang",
-        "chappie",
+        "gappie",
+        "g",
+        "homie",
+        "brada",
+        "haabe",
+        "lep",
+        "kabel",
+        "mii bohh",
         "jacks",
-        "tjappie",
+        "ouwe",
+        "sagbi",
         "mang",
         "amigo",
-        "homie",
-        "sagbi",
-        "kardas",
-        "a brada",
+        "drerrie",
+        "asahbi",
+        "holmes",
+        "tjappie",
+        "koullo",
         "sahbi",
-        "makker",
-        "makka",
-        "mii bohh",
         "matt",
-        "stanko"
+        "broeder",
+        "chappie",
+        "homeboy",
+        "harakadas",
+        "stanko",
+        "ombre",
+        "abi",
+        "bradda",
+        "zagbe",
+        "makka",
+        "swa",
+        "player",
+        "kardesj",
+        "mimang",
+        "matie",
+        "homez",
+        "bro",
+        "gardasj",
+        "karsdash",
+        "koulo",
+        "bomboclat",
+        "a brada",
+        "kardas",
+        "djacks",
+        "cuz",
+        "niffu",
+        "dawg",
+        "pape",
+        "gardesh"
     ],
     "jo": [
-        "ewa",
-        "swa",
-        "jeweetzelf",
-        "faffie",
-        "fakka g",
         "sup g",
-        "rustig",
-        "vrind",
         "fawaka",
+        "ewa",
         "rustik",
-        "fakka"
+        "rustig",
+        "jeweetzelf",
+        "fakka",
+        "swa",
+        "fakka g",
+        "vrind",
+        "faffie"
     ],
     "verholpen": [
-        "gefixed",
-        "fixed"
+        "fixed",
+        "gefixed"
     ],
     "je": [
         "juhh",
         "jehh"
     ],
     "ja": [
+        "zuiver",
+        "j4",
         "wollah",
         "4sure",
-        "check",
-        "zekerzzz",
         "wolla",
-        "joi",
-        "j4",
-        "f0 sh0",
+        "zekerzzz",
+        "check",
         "se",
-        "jep",
         "j4 g",
-        "zuiver"
+        "joi",
+        "f0 sh0",
+        "jep"
     ],
     "realiteit": [
         "realiteit g"
@@ -2821,46 +2821,46 @@
         "verneukpoep"
     ],
     "hetzelfde": [
-        "hetzellufde",
         "leps",
+        "hetzellufde",
         "dieselfde"
     ],
     "opslagruimte": [
         "hosselruimte"
     ],
     "pop": [
-        "shcatjuh",
         "poppi",
-        "poepie"
+        "poepie",
+        "shcatjuh"
     ],
     "bijnaam": [
         "nickname"
     ],
     "geil": [
-        "lekkurj",
-        "lekka",
-        "rico",
         "lekkr",
-        "spang",
+        "tantoespang",
+        "lekka",
         "doodgoeie",
+        "spang",
+        "lekkurj",
         "rustikrustig",
-        "tantoespang"
+        "rico"
     ],
     "demonstrant": [
         "hippie"
     ],
     "wiet": [
-        "wieri",
-        "wiri",
         "gras",
-        "hydro",
-        "dank",
         "420blazit",
         "crack",
-        "jonko",
-        "kush",
+        "hydro",
+        "ganja",
+        "wieri",
         "skunk",
-        "ganja"
+        "kush",
+        "wiri",
+        "dank",
+        "jonko"
     ],
     "slackware": [
         "redhat"
@@ -2872,11 +2872,11 @@
         "antihax"
     ],
     "goede": [
-        "verse",
         "ille",
-        "tan2lauwe",
+        "verse",
+        "master",
         "goeie",
-        "master"
+        "tan2lauwe"
     ],
     "laptops": [
         "faptops"
@@ -2888,8 +2888,8 @@
         "faptops"
     ],
     "minister": [
-        "pimp",
-        "big g"
+        "big g",
+        "pimp"
     ],
     "zogenaamd": [
         "zema"
@@ -2898,21 +2898,21 @@
         "fatoe"
     ],
     "schatjes": [
-        "dushis",
-        "habibis"
+        "habibis",
+        "dushis"
     ],
     "vespa": [
-        "180cc",
-        "zip3 180cc"
+        "zip3 180cc",
+        "180cc"
     ],
     "doodslag": [
         "koudmaken"
     ],
     "condoom": [
+        "connie",
         "cosoe",
         "rubbertje",
-        "conny",
-        "connie"
+        "conny"
     ],
     "julianadorp": [
         "jdorp"
@@ -2947,8 +2947,8 @@
     ],
     "pooier": [
         "playa",
-        "pimp",
-        "pezavenk"
+        "pezavenk",
+        "pimp"
     ],
     "hebben": [
         "hebbuh"
@@ -2976,27 +2976,27 @@
         "tantoe dikke hax"
     ],
     "normaal": [
-        "normoelulu",
-        "standaard"
+        "standaard",
+        "normoelulu"
     ],
     "kilo": [
         "tegel",
-        "keylow",
-        "key"
+        "key",
+        "keylow"
     ],
     "speed": [
-        "spa",
+        "pep",
         "crack",
-        "pep"
+        "spa"
     ],
     "gevecht": [
-        "batlle",
-        "fittie",
-        "rampa",
-        "paipai",
-        "rwina",
+        "fitty",
         "fiti",
-        "fitty"
+        "batlle",
+        "rampa",
+        "fittie",
+        "paipai",
+        "rwina"
     ],
     "ps4": [
         "pleesteesjon4"
@@ -3005,8 +3005,8 @@
         "sharp"
     ],
     "ketamine": [
-        "kitkat",
-        "specialk"
+        "specialk",
+        "kitkat"
     ],
     "euros": [
         "ira",
@@ -3031,29 +3031,29 @@
         "vunit"
     ],
     "exploiteren": [
-        "akog",
-        "baksen",
-        "knalle",
-        "boelen",
-        "rieten",
-        "bonke",
-        "batsen",
-        "rampetampe",
         "dieken",
+        "rieten",
         "nakken",
-        "pale",
-        "bonen",
-        "fleppen",
-        "palen",
+        "rampetampe",
+        "boelen",
+        "akog",
         "ballen",
-        "geslagen"
+        "geslagen",
+        "knalle",
+        "pale",
+        "palen",
+        "fleppen",
+        "batsen",
+        "baksen",
+        "bonke",
+        "bonen"
     ],
     "moe": [
         "lam",
-        "gaar",
         "dagga",
-        "pislauw",
-        "dopa"
+        "dopa",
+        "gaar",
+        "pislauw"
     ],
     "exclusief": [
         "xqlusive"
@@ -3070,9 +3070,9 @@
         "shoppuh"
     ],
     "overval": [
+        "ovtje",
         "ov",
-        "stickup",
-        "ovtje"
+        "stickup"
     ],
     "omstandigheden": [
         "torris"
@@ -3098,10 +3098,10 @@
         "coffeeshop"
     ],
     "sperma": [
-        "but",
-        "toelie",
         "speshie",
-        "zwaad"
+        "toelie",
+        "zwaad",
+        "but"
     ],
     "naar": [
         "nah"
@@ -3115,43 +3115,43 @@
     ],
     "noob": [
         "mogool",
-        "kneus",
         "mogol",
-        "sukkl"
+        "sukkl",
+        "kneus"
     ],
     "mooi": [
-        "vers",
-        "valeska",
         "dik",
+        "valeska",
+        "vers",
         "master"
     ],
     "stopt": [
         "nakt"
     ],
     "meisje": [
-        "chickie",
+        "chimeid",
         "ho",
+        "chiqa",
+        "chingmeid",
+        "tjik",
+        "girly",
+        "g",
+        "mitti",
+        "chicka",
+        "chicki",
+        "hoertje",
+        "chaurie",
         "wijf",
-        "oema",
         "dushi",
         "tanga",
-        "chaurie",
-        "sletje",
-        "smatje",
-        "chicka",
-        "mitti",
-        "chiqa",
-        "chicki",
-        "sma",
-        "girly",
-        "hoertje",
         "chimeisje",
-        "g",
-        "mammie",
-        "tjik",
-        "chimeid",
+        "sletje",
+        "sma",
+        "chickie",
         "bitch",
-        "chingmeid"
+        "oema",
+        "mammie",
+        "smatje"
     ],
     "business": [
         "bizzniz"
@@ -3161,15 +3161,15 @@
         "zaancity"
     ],
     "naaper": [
-        "wanabe",
-        "copy cat"
+        "copy cat",
+        "wanabe"
     ],
     "poepen": [
-        "kleien",
         "bouten",
+        "skateren",
         "knittelen",
         "knetteren",
-        "skateren"
+        "kleien"
     ],
     "kansloos": [
         "cas"
@@ -3181,20 +3181,20 @@
         "dropt"
     ],
     "ok": [
-        "bam",
-        "jeweetzelf",
-        "boega",
-        "jeweetzelluf",
-        "je weetzzz",
+        "feskul",
+        "jeweet",
+        "swaggon movement zoeken monie",
         "aaight",
+        "jeweetzelf",
+        "yo man",
+        "je weetzzz",
+        "boega",
         "aightz",
+        "bam",
+        "safie",
         "okki",
         "jwt",
-        "jeweet",
-        "yo man",
-        "swaggon movement zoeken monie",
-        "feskul",
-        "safie"
+        "jeweetzelluf"
     ],
     "zangeres": [
         "madonna"
@@ -3204,22 +3204,22 @@
         "baga"
     ],
     "leugen": [
-        "vonk",
-        "boetie"
+        "boetie",
+        "vonk"
     ],
     "schrijven": [
         "schrijfe"
     ],
     "spelen": [
-        "preppen",
-        "ballen"
+        "ballen",
+        "preppen"
     ],
     "verkooptalent": [
         "drugshossels"
     ],
     "gennep": [
-        "gblock",
-        "gtown"
+        "gtown",
+        "gblock"
     ],
     "sigaretje": [
         "gerrotje"
@@ -3244,18 +3244,18 @@
         "skeere gemeente"
     ],
     "hey": [
-        "ewa",
-        "swa",
-        "jeweetzelf",
-        "faffie",
-        "fakka g",
         "sup g",
-        "rustig",
-        "vrind",
         "fawaka",
+        "ewa",
         "rustik",
+        "rustig",
+        "jeweetzelf",
+        "fakka",
+        "swa",
         "heeeyyyyyy",
-        "fakka"
+        "fakka g",
+        "vrind",
+        "faffie"
     ],
     "diefstal": [
         "rippen",
@@ -3275,34 +3275,34 @@
         "ransape"
     ],
     "vrind": [
-        "mimang",
         "brada",
-        "niffu",
-        "dawg",
-        "player",
-        "mang",
-        "gappie",
-        "g",
-        "ouwe",
-        "jacks",
-        "bomboclat",
-        "sahbi",
-        "mattie",
         "haabe",
+        "bomboclat",
+        "mii bohh",
+        "jacks",
+        "ouwe",
+        "sahbi",
+        "mang",
+        "niffu",
+        "player",
+        "dawg",
         "gardesh",
-        "mii bohh"
+        "gappie",
+        "mimang",
+        "g",
+        "mattie"
     ],
     "gehackt": [
-        "gepwnzd",
-        "owned"
+        "owned",
+        "gepwnzd"
     ],
     "aansteker": [
         "stikri",
-        "breeka",
         "littoe",
+        "breeka",
+        "vuur",
         "litta",
-        "lighter",
-        "vuur"
+        "lighter"
     ],
     "mooie": [
         "verse"
@@ -3326,17 +3326,17 @@
         "bonkopoe"
     ],
     "yow": [
-        "ewa",
-        "swa",
-        "jeweetzelf",
-        "faffie",
-        "fakka g",
         "sup g",
-        "rustig",
-        "vrind",
         "fawaka",
+        "ewa",
         "rustik",
-        "fakka"
+        "rustig",
+        "jeweetzelf",
+        "fakka",
+        "swa",
+        "fakka g",
+        "vrind",
+        "faffie"
     ],
     "rechtzaak": [
         "rechtshossel"
@@ -3358,8 +3358,8 @@
         "panna"
     ],
     "studente": [
-        "hoer",
-        "sletje"
+        "sletje",
+        "hoer"
     ],
     "woestijn": [
         "zandbak"
@@ -3374,20 +3374,20 @@
         "webbie"
     ],
     "groot": [
-        "biggie",
-        "bigga",
+        "big time",
         "big",
+        "biggie",
         "baga",
-        "giant",
-        "big time"
+        "bigga",
+        "giant"
     ],
     "u": [
         "jouwe"
     ],
     "god": [
-        "pimp",
         "ooc",
-        "meesterpimp"
+        "meesterpimp",
+        "pimp"
     ],
     "bmw": [
         "bempi",
@@ -3411,14 +3411,14 @@
         "torries"
     ],
     "misschien": [
-        "mischien",
         "miss",
+        "mischien",
         "msjallah"
     ],
     "snuiven": [
-        "snatsen",
+        "nakken",
         "niffen",
-        "nakken"
+        "snatsen"
     ],
     "tv": [
         "tellie"
@@ -3430,22 +3430,22 @@
         "ballen"
     ],
     "maatje": [
-        "mimang",
         "brada",
-        "niffu",
-        "dawg",
-        "player",
-        "mang",
-        "gappie",
-        "g",
-        "ouwe",
-        "jacks",
-        "bomboclat",
-        "sahbi",
-        "mattie",
         "haabe",
+        "bomboclat",
+        "mii bohh",
+        "jacks",
+        "ouwe",
+        "sahbi",
+        "mang",
+        "niffu",
+        "player",
+        "dawg",
         "gardesh",
-        "mii bohh"
+        "gappie",
+        "mimang",
+        "g",
+        "mattie"
     ],
     "pensioen": [
         "chillin"
@@ -3457,8 +3457,8 @@
         "hossel"
     ],
     "vacature": [
-        "hossel",
-        "hosseltorie"
+        "hosseltorie",
+        "hossel"
     ],
     "worden": [
         "wordhh"
@@ -3470,17 +3470,17 @@
         "steelo"
     ],
     "sup": [
-        "ewa",
-        "swa",
-        "jeweetzelf",
-        "faffie",
-        "fakka g",
         "sup g",
-        "rustig",
-        "vrind",
         "fawaka",
+        "ewa",
         "rustik",
-        "fakka"
+        "rustig",
+        "jeweetzelf",
+        "fakka",
+        "swa",
+        "fakka g",
+        "vrind",
+        "faffie"
     ],
     "hoofdkwartier": [
         "mainosso"
@@ -3516,20 +3516,20 @@
         "vanweguhh"
     ],
     "echt waar": [
+        "whalla",
+        "wola",
         "wollah",
         "kats",
-        "whalla",
-        "wholla",
         "for real",
-        "fo sho",
-        "wola",
-        "vadermoeder"
+        "wholla",
+        "vadermoeder",
+        "fo sho"
     ],
     "sukkels": [
-        "zemmels",
-        "moggools",
-        "boelertjes",
         "sahbis",
+        "moggools",
+        "zemmels",
+        "boelertjes",
         "sukkls"
     ],
     "hamdi": [
@@ -3542,16 +3542,16 @@
         "leuqe"
     ],
     "huis": [
-        "cribb",
-        "c",
-        "ossel",
-        "crib",
         "casa",
-        "ma crib",
-        "pallace",
-        "osso",
         "ossow",
-        "oso"
+        "ossel",
+        "cribb",
+        "oso",
+        "pallace",
+        "ma crib",
+        "osso",
+        "crib",
+        "c"
     ],
     "gaar": [
         "vercrackt"
@@ -3581,14 +3581,14 @@
         "webbie"
     ],
     "dood": [
-        "wasa",
-        "didde",
-        "dede",
-        "six feet",
         "deaudt",
-        "scrap",
         "diddi",
-        "diddih"
+        "scrap",
+        "wasa",
+        "dede",
+        "diddih",
+        "didde",
+        "six feet"
     ],
     "verkankeren": [
         "rwienna"
@@ -3644,9 +3644,9 @@
         "helden"
     ],
     "woningen": [
+        "casas",
         "ossos",
-        "cribs",
-        "casas"
+        "cribs"
     ],
     "computervredebreuk": [
         "dikke hax"
@@ -3658,16 +3658,16 @@
         "seeden"
     ],
     "koningin": [
-        "bitch",
-        "chimeisje",
-        "chicki",
-        "chingmeid",
-        "ho",
-        "wijf",
-        "sma",
         "chimeid",
         "girly",
-        "sletje"
+        "chimeisje",
+        "sletje",
+        "ho",
+        "chicki",
+        "bitch",
+        "sma",
+        "chingmeid",
+        "wijf"
     ],
     "maart": [
         "maahrt"
@@ -3682,11 +3682,11 @@
         "twerkstation"
     ],
     "eindhoven": [
-        "etown",
-        "ehv",
+        "eindje",
         "eindscko",
+        "ehv",
         "eindj",
-        "eindje"
+        "etown"
     ],
     "fascist": [
         "adolf h"
@@ -3710,20 +3710,20 @@
         "zemmels"
     ],
     "jongen": [
-        "swa",
-        "chico",
-        "boy",
-        "kill",
-        "g",
-        "tjollie",
         "haabe",
-        "djie"
+        "chico",
+        "djie",
+        "tjollie",
+        "kill",
+        "swa",
+        "boy",
+        "g"
     ],
     "sigaretten": [
-        "tabacca",
-        "saffies",
-        "snef",
         "peuken",
+        "saffies",
+        "tabacca",
+        "snef",
         "gerous"
     ],
     "september": [
@@ -3737,9 +3737,9 @@
     ],
     "schoen": [
         "shoeba",
-        "patta",
+        "pata",
         "shoebas",
-        "pata"
+        "patta"
     ],
     "25": [
         "chawa"
@@ -3750,11 +3750,11 @@
         "stilo"
     ],
     "baas": [
-        "zalmi",
-        "lamain",
         "godfather",
+        "la main",
         "janksto",
-        "la main"
+        "lamain",
+        "zalmi"
     ],
     "baan": [
         "hossel"
@@ -3763,24 +3763,24 @@
         "joe"
     ],
     "yo": [
-        "ewa",
-        "swa",
-        "jeweetzelf",
-        "faffie",
-        "fakka g",
         "sup g",
-        "rustig",
-        "vrind",
         "fawaka",
+        "ewa",
         "rustik",
-        "fakka"
+        "rustig",
+        "jeweetzelf",
+        "fakka",
+        "swa",
+        "fakka g",
+        "vrind",
+        "faffie"
     ],
     "cel": [
         "jilla"
     ],
     "oke": [
-        "aightz",
         "okki",
+        "aightz",
         "safie"
     ],
     "gannoe": [
@@ -3790,31 +3790,31 @@
         "rapgame"
     ],
     "leven": [
-        "libbie",
         "lyf",
+        "libbie",
         "libie"
     ],
     "reactie": [
         "torri"
     ],
     "sigaret": [
-        "geroe",
-        "gherro",
-        "gerrol",
-        "garrol",
+        "sigo",
+        "crack",
+        "etje",
+        "snagga",
         "saffie",
+        "paak",
         "tabacca",
         "garoe",
-        "paak",
-        "crack",
-        "sigo",
-        "snagga",
-        "etje",
         "gerro",
-        "sigara",
-        "peuk",
+        "sikara",
         "kankerstaaf",
-        "sikara"
+        "sigara",
+        "gerrol",
+        "geroe",
+        "garrol",
+        "peuk",
+        "gherro"
     ],
     "debacle": [
         "rwinas"
@@ -3893,19 +3893,19 @@
         "w88"
     ],
     "ding": [
-        "dingj",
-        "dingetje"
+        "dingetje",
+        "dingj"
     ],
     "gevangenis": [
-        "teringcel",
         "jilla",
         "bak",
-        "bajes"
+        "bajes",
+        "teringcel"
     ],
     "gevaarlijk": [
         "gevaarlyk",
-        "moekoe",
-        "maffia"
+        "maffia",
+        "moekoe"
     ],
     "gevaarlijke": [
         "gevaarlyke"
@@ -3914,16 +3914,16 @@
         "torris"
     ],
     "natuurlijk": [
-        "fo shizzle",
         "foshizzle",
-        "duhhh"
+        "duhhh",
+        "fo shizzle"
     ],
     "pubertijd": [
         "hosseltijd"
     ],
     "script": [
-        "scr1ptj3n",
-        "scriptj3n"
+        "scriptj3n",
+        "scr1ptj3n"
     ],
     "geweldige": [
         "master"
@@ -3953,12 +3953,12 @@
         "leggt"
     ],
     "kapot": [
-        "frox",
-        "para",
-        "fillestijnen",
         "brox",
         "fucked up",
-        "gaga"
+        "para",
+        "gaga",
+        "fillestijnen",
+        "frox"
     ],
     "woensdag": [
         "woensdagh"
@@ -3967,39 +3967,39 @@
         "poppen"
     ],
     "aap": [
-        "joeka",
-        "bander",
-        "djoeka",
         "monyet",
-        "japjappie",
-        "makaku"
+        "joeka",
+        "makaku",
+        "djoeka",
+        "bander",
+        "japjappie"
     ],
     "duurzaam": [
         "smooth"
     ],
     "feestje": [
-        "fissa",
         "fisa",
-        "fesa"
+        "fesa",
+        "fissa"
     ],
     "belastingdienst": [
-        "struikrovers",
+        "dieven",
         "skeere belastingdienst",
-        "dieven"
+        "struikrovers"
     ],
     "stoned": [
-        "kaffa",
-        "knetter",
+        "knets",
         "wappa",
-        "panja",
-        "crackie",
-        "wappie",
-        "skafa",
         "peng",
         "scava",
         "stoned",
-        "knets",
-        "skaffa"
+        "skafa",
+        "crackie",
+        "skaffa",
+        "kaffa",
+        "panja",
+        "wappie",
+        "knetter"
     ],
     "leerlingen": [
         "kutkinderen"
@@ -4024,11 +4024,11 @@
     ],
     "utrecht": [
         "utka",
+        "domstad",
+        "outka",
         "domville",
         "domtown",
-        "utown",
-        "outka",
-        "domstad"
+        "utown"
     ],
     "jsf": [
         "skeere jsf"
@@ -4046,9 +4046,9 @@
         "dikke hax g"
     ],
     "milleuregels": [
-        "sahbis",
         "sagbis",
-        "zemmels"
+        "zemmels",
+        "sahbis"
     ],
     "duivel": [
         "damien"
@@ -4057,15 +4057,15 @@
         "segt"
     ],
     "schrijfster": [
-        "bitch",
-        "chimeisje",
-        "chicki",
-        "chingmeid",
-        "ho",
-        "wijf",
-        "sma",
         "chimeid",
-        "sletje"
+        "chimeisje",
+        "sletje",
+        "ho",
+        "chicki",
+        "bitch",
+        "sma",
+        "chingmeid",
+        "wijf"
     ],
     "windows": [
         "rotzooi",
@@ -4076,15 +4076,15 @@
         "foetsie"
     ],
     "nubs": [
-        "zemmels",
-        "moggools",
-        "boelertjes",
         "sahbis",
+        "moggools",
+        "zemmels",
+        "boelertjes",
         "sukkls"
     ],
     "begrijpen": [
-        "vatten",
-        "vatvatten"
+        "vatvatten",
+        "vatten"
     ],
     "universiteit": [
         "skorro"
@@ -4097,17 +4097,17 @@
         "microwskoft"
     ],
     "roosendaal": [
-        "rosco",
-        "rsd"
+        "rsd",
+        "rosco"
     ],
     "thomas": [
         "boytoy"
     ],
     "vader": [
-        "ouwes",
         "abbe",
+        "ouwe",
         "padre",
-        "ouwe"
+        "ouwes"
     ],
     "geschoten": [
         "geblaft"
@@ -4117,9 +4117,9 @@
     ],
     "scooter": [
         "moto",
-        "180cc",
+        "scooba",
         "scooby",
-        "scooba"
+        "180cc"
     ],
     "opmaakpop": [
         "barbie"
@@ -4128,15 +4128,15 @@
         "mini"
     ],
     "rotterdam": [
-        "fot",
         "rotto",
-        "roffa",
-        "porfoto",
-        "rofa",
-        "the docks",
-        "tha dockz",
         "rotje knor",
-        "roffadam"
+        "tha dockz",
+        "rofa",
+        "fot",
+        "porfoto",
+        "roffadam",
+        "the docks",
+        "roffa"
     ],
     "hit": [
         "pokoe"
@@ -4145,32 +4145,32 @@
         "gratisch"
     ],
     "milieuvoorschriften": [
-        "sahbis",
         "sagbis",
-        "zemmels"
+        "zemmels",
+        "sahbis"
     ],
     "verwondingen": [
         "scarz"
     ],
     "meid": [
-        "chick",
-        "ho",
         "dushi",
+        "sletje",
+        "ho",
         "chica",
-        "sletje"
+        "chick"
     ],
     "ziekenhuis": [
-        "ziekenosso",
-        "ziekecrib"
+        "ziekecrib",
+        "ziekenosso"
     ],
     "inwoner": [
         "sahbi",
         "zemmel"
     ],
     "hij": [
+        "hy",
         "hji",
-        "dezemann",
-        "hy"
+        "dezemann"
     ],
     "breakdancer": [
         "bboy"
@@ -4182,23 +4182,23 @@
         "geklaard"
     ],
     "jongens": [
-        "bradas",
-        "ouwes",
         "kills",
-        "niva",
-        "matties",
-        "niffus",
         "neef",
         "boyz",
-        "gs",
-        "dawgs"
+        "ouwes",
+        "dawgs",
+        "bradas",
+        "niva",
+        "niffus",
+        "matties",
+        "gs"
     ],
     "lachen": [
-        "pierie tiefie",
-        "lafoe",
-        "laffoe",
         "lol",
-        "stuk gaan"
+        "lafoe",
+        "stuk gaan",
+        "pierie tiefie",
+        "laffoe"
     ],
     "geblokkeerd": [
         "gedjackt"
@@ -4207,27 +4207,27 @@
         "tantoe harde kern"
     ],
     "geld": [
-        "monie",
-        "juwelen",
-        "scrilla",
-        "doeks",
-        "saaf",
         "lakoenza",
-        "uang",
-        "groentoe",
-        "franco",
-        "buit",
-        "floes",
-        "ksaba",
         "money",
-        "swek",
-        "pap",
+        "floes",
+        "juwelen",
         "moni",
-        "poetie",
+        "swek",
+        "monie",
+        "do",
+        "pap",
+        "doeks",
+        "uang",
+        "liquide middelen",
+        "groentoe",
         "doekoe",
         "dinero",
-        "do",
-        "liquide middelen"
+        "franco",
+        "scrilla",
+        "buit",
+        "poetie",
+        "ksaba",
+        "saaf"
     ],
     "geenstijl": [
         "nohstilo"
@@ -4236,9 +4236,9 @@
         "skeeretijden"
     ],
     "dans": [
-        "flippekip",
         "banamba",
-        "wiggle"
+        "wiggle",
+        "flippekip"
     ],
     "moeten": [
         "motte",
@@ -4260,20 +4260,20 @@
         "pimp"
     ],
     "arm": [
-        "scare",
+        "skirr",
         "skeer",
-        "skirr"
+        "scare"
     ],
     "klus": [
         "hossel"
     ],
     "aftrekken": [
-        "kloppen",
         "anoeska",
-        "hari",
         "wiecksen",
         "masten",
-        "fappen"
+        "hari",
+        "fappen",
+        "kloppen"
     ],
     "unix": [
         "inix"
@@ -4312,13 +4312,13 @@
         "hax0rz"
     ],
     "echt": [
-        "whalla",
-        "wholla",
-        "eg",
-        "wola",
-        "ekt",
         "zuiver",
-        "eckt"
+        "ekt",
+        "whalla",
+        "wola",
+        "eckt",
+        "wholla",
+        "eg"
     ],
     "kabinet": [
         "skeere kabinet"
@@ -4335,8 +4335,8 @@
     ],
     "draaien": [
         "fixe",
-        "fixxoren",
-        "zetten"
+        "zetten",
+        "fixxoren"
     ],
     "mededelingen": [
         "torris"
@@ -4358,22 +4358,22 @@
         "zemmel"
     ],
     "gay": [
-        "gay",
-        "boytoy"
+        "boytoy",
+        "gay"
     ],
     "gat": [
-        "olloh",
-        "ollo"
+        "ollo",
+        "olloh"
     ],
     "echte": [
         "ekte",
         "ekte ekte"
     ],
     "geweldig": [
-        "hebimento",
+        "keihard",
         "de puta madre",
         "master",
-        "keihard"
+        "hebimento"
     ],
     "boetjekoetje": [
         "boe"
@@ -4382,17 +4382,17 @@
         "cyberzemmel"
     ],
     "goedemiddag": [
-        "ewa",
-        "swa",
-        "jeweetzelf",
-        "faffie",
-        "fakka g",
         "sup g",
-        "rustig",
-        "vrind",
         "fawaka",
+        "ewa",
         "rustik",
-        "fakka"
+        "rustig",
+        "jeweetzelf",
+        "fakka",
+        "swa",
+        "fakka g",
+        "vrind",
+        "faffie"
     ],
     "rij": [
         "blaas",
@@ -4409,8 +4409,8 @@
         "sukkels"
     ],
     "migranten": [
-        "skeerebezems",
-        "skeerezemmels"
+        "skeerezemmels",
+        "skeerebezems"
     ],
     "onbenul": [
         "gepetto"
@@ -4422,12 +4422,12 @@
         "twerkster"
     ],
     "euro": [
-        "eurow",
-        "pleuro",
-        "eurie",
-        "floes",
         "gila",
-        "beatrix"
+        "eurow",
+        "beatrix",
+        "floes",
+        "pleuro",
+        "eurie"
     ],
     "compensatie": [
         "floes"
@@ -4439,21 +4439,21 @@
         "cokedealer"
     ],
     "trekje": [
-        "shotje",
-        "snef",
         "leuren",
         "offoe",
         "suck",
         "sippie",
-        "afoe",
-        "soetoe"
+        "shotje",
+        "soetoe",
+        "snef",
+        "afoe"
     ],
     "h0mo": [
         "boeler"
     ],
     "gsm": [
-        "fonna",
-        "mobbi"
+        "mobbi",
+        "fonna"
     ],
     "gruwelijk": [
         "gunit",
@@ -4513,9 +4513,9 @@
         "jwz"
     ],
     "leraren": [
-        "sahbis",
         "sagbis",
-        "zemmels"
+        "zemmels",
+        "sahbis"
     ],
     "economie": [
         "hosselen"
@@ -4524,19 +4524,19 @@
         "n1gguhs"
     ],
     "slachtoffers": [
-        "aanstellers",
         "bezems",
+        "aanstellers",
         "zemmers"
     ],
     "word": [
         "wordt"
     ],
     "regelen": [
-        "fixen",
         "coveren",
-        "chanten",
+        "fixxen",
         "hosselen",
-        "fixxen"
+        "chanten",
+        "fixen"
     ],
     "rug": [
         "bakka"
@@ -4545,16 +4545,16 @@
         "voice"
     ],
     "directeur": [
-        "pimp",
-        "kneus",
-        "boss",
         "sukkl",
-        "mogool"
+        "boss",
+        "pimp",
+        "mogool",
+        "kneus"
     ],
     "bs": [
-        "skeere tijden",
         "bombet",
-        "leip"
+        "leip",
+        "skeere tijden"
     ],
     "zanger": [
         "rapper"
@@ -4576,12 +4576,12 @@
         "vimre"
     ],
     "heeft": [
-        "hebt",
-        "hebb"
+        "hebb",
+        "hebt"
     ],
     "zie": [
-        "szie",
-        "xie"
+        "xie",
+        "szie"
     ],
     "bedrijfsnaam": [
         "gang naam"
@@ -4597,12 +4597,12 @@
     ],
     "relaxed": [
         "chillex",
+        "chill",
+        "trankil",
+        "realx",
         "chillos",
         "trangosis",
         "spang",
-        "realx",
-        "trankil",
-        "chill",
         "lauw"
     ],
     "fotografe": [
@@ -4615,8 +4615,8 @@
         "famiri"
     ],
     "ouders": [
-        "ouwes",
-        "paroe"
+        "paroe",
+        "ouwes"
     ],
     "zij": [
         "zei"
@@ -4628,53 +4628,53 @@
         "patat"
     ],
     "politie": [
-        "polerius",
-        "offie",
-        "juten",
-        "ippi",
-        "ibahaz",
-        "balizie",
-        "fafoe",
-        "scotoe",
-        "smettas",
         "scotoeh",
-        "hnoush",
-        "wouten",
-        "ibahesj",
-        "smurfen",
-        "juut",
-        "po pos",
-        "babylon",
-        "coppers",
-        "scouto",
+        "ibahjs",
         "snorre",
+        "juten",
+        "babylon",
+        "juut",
+        "smettas",
+        "offie",
         "scootoe",
-        "skootoe",
-        "ibahas",
-        "la hora",
+        "scouto",
+        "coppers",
+        "wouten",
+        "fafoe",
+        "balizie",
         "jantjes",
-        "smurf",
-        "popo",
-        "smeris",
-        "skotoe",
+        "ippi",
         "kipp",
-        "ibahjs"
+        "la hora",
+        "ibahas",
+        "popo",
+        "ibahesj",
+        "hnoush",
+        "skotoe",
+        "polerius",
+        "ibahaz",
+        "skootoe",
+        "scotoe",
+        "smurf",
+        "smeris",
+        "po pos",
+        "smurfen"
     ],
     "nieuws": [
         "torris"
     ],
     "rijden": [
-        "boekuh",
-        "boeken",
+        "boeke",
         "fahren",
-        "boeke"
+        "boeken",
+        "boekuh"
     ],
     "televisie": [
         "tellie"
     ],
     "armoedig": [
-        "skeer",
-        "skirr"
+        "skirr",
+        "skeer"
     ],
     "command": [
         "hack"
@@ -4687,8 +4687,8 @@
     ],
     "wapens": [
         "pipas",
-        "bomme",
-        "blaffers"
+        "blaffers",
+        "bomme"
     ],
     "codes": [
         "hax"
@@ -4697,8 +4697,8 @@
         "nospangnl"
     ],
     "hoerenzoon": [
-        "fileduputain",
-        "ibnilkahbe"
+        "ibnilkahbe",
+        "fileduputain"
     ],
     "gestrikt": [
         "genaaid"
@@ -4710,20 +4710,20 @@
         "oglocs"
     ],
     "coden": [
-        "hosselen",
-        "monie maken"
+        "monie maken",
+        "hosselen"
     ],
     "nice": [
-        "aai",
-        "bruut",
-        "ait",
-        "aaai g",
         "radicaal",
-        "spang",
-        "vatzig",
-        "ai",
+        "bruut",
         "vies",
-        "ziek"
+        "vatzig",
+        "aai",
+        "spang",
+        "aaai g",
+        "ziek",
+        "ai",
+        "ait"
     ],
     "lekkerding": [
         "fatima"
@@ -4732,11 +4732,11 @@
         "beat"
     ],
     "flikker": [
-        "kneus",
+        "mogol",
         "sukkl",
-        "mogool",
         "sukeklt",
-        "mogol"
+        "mogool",
+        "kneus"
     ],
     "zwartepiet": [
         "tand2rasistisch",
@@ -4749,26 +4749,26 @@
         "snitches"
     ],
     "heroine": [
-        "skag",
         "smack",
-        "bruin"
+        "bruin",
+        "skag"
     ],
     "verhaal": [
-        "torrie",
+        "torie",
         "torri",
-        "torie"
+        "torrie"
     ],
     "gevechten": [
+        "fitty",
+        "fiti",
         "fittie",
         "paipai",
-        "rwina",
-        "fiti",
-        "fitty"
+        "rwina"
     ],
     "youtube": [
         "jewtube",
-        "utube",
-        "gaytube"
+        "gaytube",
+        "utube"
     ],
     "gigantisch": [
         "tantudikke"
@@ -4783,19 +4783,19 @@
         "meesterpimp"
     ],
     "mensen": [
-        "sahbis",
         "sagbis",
         "zemmels",
+        "sahbis",
         "peeps"
     ],
     "ede": [
         "etown"
     ],
     "noobs": [
-        "zemmels",
-        "moggools",
-        "boelertjes",
         "sahbis",
+        "moggools",
+        "zemmels",
+        "boelertjes",
         "sukkls"
     ],
     "gekelderd": [
@@ -4814,34 +4814,34 @@
         "computergangs"
     ],
     "niets": [
-        "weloe",
         "welloe",
-        "saus",
-        "welou",
         "niehts",
-        "nada"
+        "welou",
+        "nada",
+        "weloe",
+        "saus"
     ],
     "borsten": [
-        "joepen",
         "sketten",
-        "bobbies",
         "babeloobas",
+        "joepen",
         "bobs",
-        "toetoes",
-        "noenga noengas"
+        "bobbies",
+        "noenga noengas",
+        "toetoes"
     ],
     "welkom": [
-        "ewa",
-        "swa",
-        "jeweetzelf",
-        "faffie",
-        "fakka g",
         "sup g",
-        "rustig",
-        "vrind",
         "fawaka",
+        "ewa",
         "rustik",
-        "fakka"
+        "rustig",
+        "jeweetzelf",
+        "fakka",
+        "swa",
+        "fakka g",
+        "vrind",
+        "faffie"
     ],
     "maar": [
         "marr",
@@ -4852,8 +4852,8 @@
     ],
     "facebook": [
         "je zusje",
-        "ik check je bekendheid",
-        "je moeder"
+        "je moeder",
+        "ik check je bekendheid"
     ],
     "schoonheid": [
         "boetoe"
@@ -4868,13 +4868,13 @@
         "verklotn"
     ],
     "plaatje": [
-        "picx",
-        "pix"
+        "pix",
+        "picx"
     ],
     "zo": [
-        "s0hh",
+        "adoeg",
         "sang",
-        "adoeg"
+        "s0hh"
     ],
     "jeugdinstelling": [
         "jilla"
@@ -4883,13 +4883,13 @@
         "millie"
     ],
     "oja": [
-        "bam",
-        "jeweetzelf",
-        "jeweetzelluf",
-        "je weetzzz",
-        "jwt",
         "jeweet",
-        "swaggon movement zoeken monie"
+        "swaggon movement zoeken monie",
+        "jeweetzelf",
+        "je weetzzz",
+        "bam",
+        "jwt",
+        "jeweetzelluf"
     ],
     "goedkoopste": [
         "skeerste"
@@ -4905,17 +4905,17 @@
         "leech"
     ],
     "goedemorgen": [
-        "ewa",
-        "swa",
-        "jeweetzelf",
-        "faffie",
-        "fakka g",
         "sup g",
-        "rustig",
-        "vrind",
         "fawaka",
+        "ewa",
         "rustik",
-        "fakka"
+        "rustig",
+        "jeweetzelf",
+        "fakka",
+        "swa",
+        "fakka g",
+        "vrind",
+        "faffie"
     ],
     "vierlingsbeek": [
         "vtown"
@@ -4924,8 +4924,8 @@
         "hossels"
     ],
     "douchen": [
-        "fappen",
-        "fappe"
+        "fappe",
+        "fappen"
     ],
     "veldhoven": [
         "vtown"
@@ -4965,9 +4965,9 @@
         "wji"
     ],
     "zetels": [
-        "sahbis",
         "sagbis",
-        "zemmels"
+        "zemmels",
+        "sahbis"
     ],
     "hagenezen": [
         "hagnezuh"
@@ -4982,31 +4982,31 @@
         "ofzo0w"
     ],
     "personen": [
-        "sahbis",
         "sagbis",
-        "zemmels"
+        "zemmels",
+        "sahbis"
     ],
     "verenigingen": [
         "gangs"
     ],
     "criminelen": [
-        "bradas",
-        "ouwes",
         "kills",
-        "niva",
-        "matties",
-        "niffus",
         "neef",
-        "surinamers",
+        "ouwes",
+        "dawgs",
+        "bradas",
+        "niva",
+        "niffus",
+        "matties",
         "gs",
-        "dawgs"
+        "surinamers"
     ],
     "ministers": [
         "ogs"
     ],
     "sletjes": [
-        "smatjes",
-        "dushis"
+        "dushis",
+        "smatjes"
     ],
     "veiligheid": [
         "veiliggh31t"
@@ -5021,14 +5021,14 @@
         "xter"
     ],
     "aanhangers": [
-        "sahbis",
         "sagbis",
-        "zemmels"
+        "zemmels",
+        "sahbis"
     ],
     "werknemers": [
-        "sahbis",
         "sagbis",
-        "zemmels"
+        "zemmels",
+        "sahbis"
     ],
     "marokanen": [
         "mocros"
@@ -5037,62 +5037,62 @@
         "gesniperd"
     ],
     "penis": [
-        "pietje",
-        "tol",
-        "tolli",
-        "dick",
-        "tolly",
-        "cock",
-        "tolie",
-        "kerem",
         "snikkel",
+        "tol",
+        "pret stok",
+        "tolly",
         "ker",
-        "peen0r",
-        "pe33n0r",
-        "dollo",
-        "fallus",
         "zeb",
+        "tolli",
+        "tolie",
+        "fallus",
+        "kerem",
+        "pietje",
+        "peen0r",
         "bana",
-        "pret stok"
+        "cock",
+        "dick",
+        "dollo",
+        "pe33n0r"
     ],
     "hoofdgebouw": [
         "mainosso"
     ],
     "mafkees": [
+        "bezem",
         "dakhaas",
-        "mafcheese",
-        "bezem"
+        "mafcheese"
     ],
     "meer": [
         "mehrr"
     ],
     "eikel": [
-        "cabron",
-        "pokkaai",
-        "kneus",
-        "biotch",
-        "fo",
-        "pendejo",
-        "asshole",
-        "sukkl",
-        "mogool",
-        "fucker",
-        "beftekkel",
         "potter",
         "saka saka",
-        "sakat",
+        "mogol",
+        "sukkl",
+        "biotch",
+        "beftekkel",
+        "cabron",
         "sukeklt",
-        "mogol"
+        "pokkaai",
+        "fucker",
+        "pendejo",
+        "mogool",
+        "sakat",
+        "kneus",
+        "asshole",
+        "fo"
     ],
     "bent": [
         "zijt"
     ],
     "onduidelijkheid": [
+        "fitty",
+        "fiti",
         "fittie",
         "paipai",
-        "rwina",
-        "fiti",
-        "fitty"
+        "rwina"
     ],
     "demonstratie": [
         "rwina"
@@ -5139,11 +5139,11 @@
         "ronnie"
     ],
     "schommelingen": [
+        "fitty",
+        "fiti",
         "fittie",
         "paipai",
-        "rwina",
-        "fiti",
-        "fitty"
+        "rwina"
     ],
     "vegetarier": [
         "bladgroenbattie"
@@ -5155,8 +5155,8 @@
         "bomba"
     ],
     "boeken": [
-        "poekoes",
-        "torris"
+        "torris",
+        "poekoes"
     ],
     "tongen": [
         "bekken"
@@ -5165,9 +5165,9 @@
         "troebie"
     ],
     "kanker": [
+        "kenker",
         "kk",
         "cencer",
-        "kenker",
         "kenkr"
     ],
     "vertegenwoordigen": [
@@ -5183,13 +5183,13 @@
         "bridde"
     ],
     "schoenen": [
-        "pattas",
         "pattjobs",
-        "fizzles",
+        "ice creams",
+        "pattas",
+        "batas",
         "scoebaas",
         "pradas",
-        "ice creams",
-        "batas"
+        "fizzles"
     ],
     "voornemens": [
         "hossels"
@@ -5198,13 +5198,13 @@
         "streets"
     ],
     "auto": [
-        "waggi",
         "wagie",
-        "waggie",
-        "wagi",
-        "haggie",
         "ride",
-        "oto"
+        "oto",
+        "haggie",
+        "waggie",
+        "waggi",
+        "wagi"
     ],
     "fles": [
         "batra"
@@ -5237,14 +5237,14 @@
         "gepaast"
     ],
     "rennen": [
-        "peppen",
-        "dampen"
+        "dampen",
+        "peppen"
     ],
     "eikels": [
-        "zemmels",
-        "moggools",
-        "boelertjes",
         "sahbis",
+        "moggools",
+        "zemmels",
+        "boelertjes",
         "sukkls"
     ],
     "tieten": [
@@ -5263,10 +5263,10 @@
         "tokos"
     ],
     "beginner": [
-        "noop",
-        "n00b",
         "newbie",
-        "naab"
+        "naab",
+        "n00b",
+        "noop"
     ],
     "zakje": [
         "bakka"
@@ -5275,22 +5275,22 @@
         "spange"
     ],
     "bekende": [
-        "mimang",
         "brada",
-        "niffu",
-        "dawg",
-        "player",
-        "mang",
-        "gappie",
-        "g",
-        "ouwe",
-        "jacks",
-        "bomboclat",
-        "sahbi",
-        "mattie",
         "haabe",
+        "bomboclat",
+        "mii bohh",
+        "jacks",
+        "ouwe",
+        "sahbi",
+        "mang",
+        "niffu",
+        "player",
+        "dawg",
         "gardesh",
-        "mii bohh"
+        "gappie",
+        "mimang",
+        "g",
+        "mattie"
     ],
     "amerika": [
         "skeereniggas"
@@ -5299,24 +5299,24 @@
         "truk"
     ],
     "beginnen": [
-        "beginnuh",
-        "beginuh"
+        "beginuh",
+        "beginnuh"
     ],
     "klas": [
         "toko"
     ],
     "neuken": [
-        "baksen",
-        "knalle",
-        "bonke",
-        "batsen",
-        "rampetampe",
         "nakken",
-        "pale",
-        "bonen",
-        "palen",
+        "rampetampe",
         "ballen",
-        "geslagen"
+        "geslagen",
+        "knalle",
+        "pale",
+        "palen",
+        "batsen",
+        "baksen",
+        "bonke",
+        "bonen"
     ],
     "chaos": [
         "ru",
@@ -5326,68 +5326,68 @@
         "btown"
     ],
     "omdat": [
-        "cos",
         "bcuz",
-        "cuz"
+        "cuz",
+        "cos"
     ],
     "stuk": [
         "frox"
     ],
     "slecht": [
+        "gierig",
+        "f0ked up g",
         "kaka",
-        "gaar",
         "matig",
+        "gaga",
+        "wicked",
+        "gaar",
         "skeer",
         "derie",
         "faja",
-        "gaga",
-        "gierig",
-        "badd",
-        "wicked",
-        "f0ked up g"
+        "badd"
     ],
     "groningenstad": [
         "gtown"
     ],
     "kusje": [
-        "snoggie",
-        "boesa",
-        "bossie",
         "sunchi",
-        "nafnoe"
+        "snoggie",
+        "nafnoe",
+        "boesa",
+        "bossie"
     ],
     "programmeren": [
-        "hosselen",
-        "monie maken"
+        "monie maken",
+        "hosselen"
     ],
     "eenmanszaak": [
         "hoerenhuis"
     ],
     "schatje": [
         "scatie",
-        "boullie",
-        "azin",
-        "elfje",
-        "switi",
-        "dushi",
-        "askim",
-        "toetie",
-        "smatje",
-        "sayang",
-        "noonie",
-        "shortie",
         "habibi",
-        "baby boe",
-        "manis",
-        "bonitaa",
-        "skiddy",
-        "poepie",
         "skaatje",
-        "fuf",
-        "embraca",
+        "shortie",
+        "switi",
+        "noonie",
         "dusji",
+        "baby boe",
+        "poepie",
+        "askum",
+        "sayang",
+        "elfje",
+        "skiddy",
+        "fuf",
+        "dushi",
+        "bonitaa",
+        "toetie",
+        "boullie",
+        "manis",
+        "azin",
         "manies",
-        "askum"
+        "askim",
+        "embraca",
+        "smatje"
     ],
     "zuiden": [
         "southside"
@@ -5402,17 +5402,17 @@
         "tijdeluk"
     ],
     "drinken": [
-        "smoken",
         "drini",
-        "drinie",
-        "tappen",
-        "blazen",
-        "zippen",
+        "dampen",
         "nakken",
-        "sm0kuh",
-        "roekend",
+        "smoken",
+        "drinie",
         "dringi",
-        "dampen"
+        "zippen",
+        "roekend",
+        "blazen",
+        "sm0kuh",
+        "tappen"
     ],
     "ondernemen": [
         "hosselen"
@@ -5424,9 +5424,9 @@
         "marikus"
     ],
     "lol": [
+        "pppppppp",
         "wh3h4h4",
         "xdxdxd",
-        "pppppppp",
         "whaha",
         "ddddd"
     ],
@@ -5437,9 +5437,9 @@
         "gissen"
     ],
     "publiek": [
-        "sahbis",
         "sagbis",
-        "zemmels"
+        "zemmels",
+        "sahbis"
     ],
     "naakte": [
         "skeere"
@@ -5448,54 +5448,54 @@
         "pimping"
     ],
     "stemmers": [
-        "sahbis",
         "sagbis",
-        "zemmels"
+        "zemmels",
+        "sahbis"
     ],
     "backdoor": [
         "anaaldeur"
     ],
     "vagina": [
-        "pola",
-        "conjo",
-        "donchin",
-        "poenie",
-        "konjo",
-        "sanchi",
+        "voorbibs",
         "punani",
+        "poese",
+        "konjo",
+        "poenie",
+        "poeny",
+        "poes",
+        "am",
+        "conjo",
+        "flamoesj",
+        "foef",
+        "poenami",
+        "poeni",
+        "puni",
+        "doos",
+        "floenie",
+        "pola",
+        "donchin",
         "mapoentje",
         "picka",
-        "poeni",
-        "poeny",
-        "voorbibs",
-        "punnani",
-        "poenami",
-        "foef",
-        "doos",
-        "poese",
-        "tonto",
         "hankie pankie bos",
-        "flamoesj",
-        "koeta",
-        "poenta",
-        "puni",
         "cono",
-        "poes",
         "pussy",
-        "am",
-        "floenie"
+        "punnani",
+        "sanchi",
+        "poenta",
+        "koeta",
+        "tonto"
     ],
     "wilders": [
         "gilders"
     ],
     "man": [
-        "zemmel",
-        "kill",
         "homie",
-        "g",
+        "zemmel",
         "homeboy",
-        "mattie",
-        "apoe scapoe"
+        "apoe scapoe",
+        "kill",
+        "g",
+        "mattie"
     ],
     "juli": [
         "julyj"
@@ -5513,8 +5513,8 @@
         "iat"
     ],
     "bek": [
-        "koulu bek",
         "broodmolen",
+        "koulu bek",
         "kaulo bek"
     ],
     "arnhem": [
@@ -5522,49 +5522,49 @@
         "arnomsko"
     ],
     "klootzak": [
-        "cabron",
-        "bokkelul",
         "conjo",
         "biotch",
+        "cabron",
+        "sakasaka",
         "ibne",
-        "sakasaka"
+        "bokkelul"
     ],
     "bed": [
         "graf"
     ],
     "grapjes": [
-        "fatoes",
-        "fa2s"
+        "fa2s",
+        "fatoes"
     ],
     "presentatrice": [
         "hoer"
     ],
     "versieren": [
-        "flow",
-        "flowen",
         "scoren",
-        "sjansen",
-        "hosselen",
-        "flexxen",
         "tokkelen",
+        "flow",
+        "flexxen",
+        "flexen",
         "pimpen",
-        "flexen"
+        "hosselen",
+        "flowen",
+        "sjansen"
     ],
     "blij": [
         "breti",
         "breetie"
     ],
     "neef": [
-        "cuz",
-        "niffa",
         "niva",
-        "niffo"
+        "niffo",
+        "cuz",
+        "niffa"
     ],
     "huisgenoot": [
-        "ossobezem",
-        "huisbezem",
+        "huiszemmel",
         "cribzemmel",
-        "huiszemmel"
+        "huisbezem",
+        "ossobezem"
     ],
     "presentators": [
         "cokedealers"
@@ -5584,42 +5584,42 @@
         "hippies"
     ],
     "kapsones": [
-        "bigi fasi",
-        "bigitash",
         "kappie",
+        "bigi tash",
         "kappa",
-        "bigi tash"
+        "bigitash",
+        "bigi fasi"
     ],
     "gegevens": [
         "torris"
     ],
     "eten": [
-        "nazzar",
-        "bikken",
-        "chappen",
-        "nyan",
-        "skaveren",
         "tjappa",
-        "vreten",
+        "skaveren",
+        "bikken",
         "kanen",
+        "chappen",
+        "vreten",
+        "nyan",
+        "nazzar",
         "tjappen"
     ],
     "zovaak": [
         "szovaakk"
     ],
     "coke": [
+        "crack",
+        "wit",
         "perkie",
+        "kabouterpost",
         "base",
         "witty",
-        "crack",
-        "snow",
-        "kabouterpost",
-        "wit"
+        "snow"
     ],
     "kijken": [
         "checken",
-        "loekoe",
         "piepen",
+        "loekoe",
         "kieken"
     ],
     "jaar": [
@@ -5629,15 +5629,15 @@
         "openbsd"
     ],
     "vervelend": [
-        "spam",
+        "fok op",
         "werede",
-        "kaka",
+        "spam",
         "fokkop",
-        "fokop",
+        "kaka",
         "zuur",
         "bout",
-        "fok op",
-        "zout"
+        "zout",
+        "fokop"
     ],
     "vriendschap": [
         "broederschap"
@@ -5667,9 +5667,9 @@
         "uitgehoerd"
     ],
     "niet": [
-        "nie",
+        "niejt",
         "niett",
-        "niejt"
+        "nie"
     ],
     "gieten": [
         "pompen"
@@ -5678,12 +5678,12 @@
         "hcity"
     ],
     "partners": [
-        "wijfe",
+        "bitches",
         "chimeids",
         "smas",
         "hos",
         "sletjes",
-        "bitches",
+        "wijfe",
         "chickies"
     ],
     "operaties": [
@@ -5693,8 +5693,8 @@
         "moett"
     ],
     "justitie": [
-        "scotoe",
-        "popo"
+        "popo",
+        "scotoe"
     ],
     "jas": [
         "jacka"
@@ -5731,34 +5731,34 @@
         "mogelyk"
     ],
     "kinine": [
+        "konijntjewiebelen",
         "pwnientje",
-        "kininenub",
-        "konijntjewiebelen"
+        "kininenub"
     ],
     "mercedes": [
-        "mercie",
         "bibi binzi",
+        "mercie",
         "merrie"
     ],
     "vies": [
-        "chi",
         "fistie",
-        "grimey",
-        "ranzig",
+        "nasty",
         "dottie",
+        "grimey",
         "hard",
+        "ranzig",
         "renzape",
-        "faja",
+        "chi",
         "dotie",
-        "nasty"
+        "faja"
     ],
     "klappen": [
         "baffoes"
     ],
     "stijl": [
-        "style",
         "stilo",
-        "stalla"
+        "stalla",
+        "style"
     ],
     "computer": [
         "puter"
@@ -5779,17 +5779,17 @@
         "voorpagina jwt"
     ],
     "lul": [
+        "lala",
         "pampa",
-        "fo",
-        "lala"
+        "fo"
     ],
     "drugsdealer": [
         "nachtapotheek"
     ],
     "moeder": [
-        "moer",
         "moerr",
-        "madre"
+        "madre",
+        "moer"
     ],
     "janet": [
         "ibne"
@@ -5810,13 +5810,13 @@
         "hax"
     ],
     "klant": [
-        "kneus",
-        "sukkl",
-        "mogool",
         "bezem",
-        "sukeklt",
+        "klennie",
         "mogol",
-        "klennie"
+        "sukkl",
+        "sukeklt",
+        "mogool",
+        "kneus"
     ],
     "honderd": [
         "barki"
@@ -5831,9 +5831,9 @@
         "rwinas"
     ],
     "medewerkers": [
-        "sahbis",
         "sagbis",
-        "zemmels"
+        "zemmels",
+        "sahbis"
     ],
     "verdachte": [
         "g"
@@ -5845,15 +5845,15 @@
         "zieke disses"
     ],
     "vrinden": [
-        "bradas",
-        "ouwes",
         "kills",
-        "niva",
-        "matties",
-        "niffus",
         "neef",
-        "gs",
-        "dawgs"
+        "ouwes",
+        "dawgs",
+        "bradas",
+        "niva",
+        "niffus",
+        "matties",
+        "gs"
     ],
     "woordvoerder": [
         "eindbaas"
@@ -5870,14 +5870,14 @@
         "voetbalplaatjes"
     ],
     "kerel": [
-        "faffi",
-        "vato"
+        "vato",
+        "faffi"
     ],
     "verrader": [
-        "hersbach",
         "snitch",
-        "judas",
-        "dicko"
+        "hersbach",
+        "dicko",
+        "judas"
     ],
     "jezelf": [
         "jezelluf"
@@ -5887,12 +5887,12 @@
     ],
     "neger": [
         "bomboclat",
-        "niggu",
-        "n1gga"
+        "n1gga",
+        "niggu"
     ],
     "zwolle": [
-        "verreoosten",
-        "roddelcity"
+        "roddelcity",
+        "verreoosten"
     ],
     "goud": [
         "gelebuit"
@@ -5902,8 +5902,8 @@
     ],
     "adverteerders": [
         "drugsdealers",
-        "dr0gzdealaz",
-        "dr0gsdealers"
+        "dr0gsdealers",
+        "dr0gzdealaz"
     ],
     "grappiig": [
         "fa2"
@@ -5912,16 +5912,16 @@
         "skeereniggas"
     ],
     "partner": [
-        "bitch",
-        "chimeisje",
-        "chicki",
-        "chingmeid",
-        "ho",
-        "wijf",
-        "sma",
         "chimeid",
         "girly",
-        "sletje"
+        "chimeisje",
+        "sletje",
+        "ho",
+        "chicki",
+        "bitch",
+        "sma",
+        "chingmeid",
+        "wijf"
     ],
     "gegeten": [
         "gegetuhh"
@@ -5930,9 +5930,9 @@
         "soetoe"
     ],
     "hosselen": [
-        "h0ss3l3n",
         "husselen",
-        "stroggelen"
+        "stroggelen",
+        "h0ss3l3n"
     ],
     "zusjes": [
         "dushis"
@@ -5972,31 +5972,31 @@
     ],
     "almere": [
         "atown",
-        "alli",
-        "ally"
+        "ally",
+        "alli"
     ],
     "vuurtje": [
         "fonko",
         "fikkie"
     ],
     "vechten": [
-        "matten",
+        "fitty",
         "vittie",
+        "matten",
         "fighty",
-        "fitta",
-        "fitty"
+        "fitta"
     ],
     "jongedame": [
-        "bitch",
-        "chimeisje",
-        "chicki",
-        "chingmeid",
-        "ho",
-        "wijf",
-        "sma",
         "chimeid",
         "girly",
-        "sletje"
+        "chimeisje",
+        "sletje",
+        "ho",
+        "chicki",
+        "bitch",
+        "sma",
+        "chingmeid",
+        "wijf"
     ],
     "jongeman": [
         "ogloc",
@@ -6006,52 +6006,52 @@
         "meester pimp"
     ],
     "vrouw": [
-        "bitch",
-        "chimeisje",
-        "chicki",
-        "chingmeid",
-        "ho",
-        "wijf",
-        "sma",
         "chimeid",
-        "sletje"
+        "chimeisje",
+        "sletje",
+        "ho",
+        "chicki",
+        "bitch",
+        "sma",
+        "chingmeid",
+        "wijf"
     ],
     "reizigers": [
         "zemmels"
     ],
     "geen geld": [
-        "skeere tijden",
-        "broke",
         "doekoeloos",
-        "broko"
+        "skeere tijden",
+        "broko",
+        "broke"
     ],
     "lelijk": [
-        "tantoe leluk",
-        "tfoe",
-        "vies",
         "itske",
-        "leluk",
-        "kapot",
-        "cas",
+        "kikiriekie",
+        "tantoe leluk",
         "omin lelijk",
+        "leluk",
+        "vies",
         "lelie",
+        "tfoe",
         "taker",
-        "kikiriekie"
+        "kapot",
+        "cas"
     ],
     "stoer": [
-        "blitz",
-        "hip",
-        "koning",
-        "stier",
+        "biggi",
+        "bigie",
+        "stien",
         "kasta",
         "roff",
-        "rof",
+        "dope",
         "baga",
-        "biggi",
-        "stien",
-        "bigie",
+        "blitz",
+        "hip",
+        "rof",
+        "stier",
         "gevarljik",
-        "dope"
+        "koning"
     ],
     "werft": [
         "hosselt"
@@ -6063,17 +6063,17 @@
         "crystalmeth"
     ],
     "stoel": [
-        "stoeroe",
         "stoelie",
-        "tjara"
+        "tjara",
+        "stoeroe"
     ],
     "dansen": [
-        "schuren",
-        "stuiteren"
+        "stuiteren",
+        "schuren"
     ],
     "jonko": [
-        "jay",
-        "crack"
+        "crack",
+        "jay"
     ],
     "motorola": [
         "motorowla"
@@ -6113,45 +6113,45 @@
         "fedz"
     ],
     "linux": [
-        "groeneletters",
+        "nietwindows",
         "dosschermpje",
-        "nietwindows"
+        "groeneletters"
     ],
     "homo": [
-        "boelertje",
-        "gay",
-        "gitje",
-        "chiemboy",
-        "peder",
-        "maric",
-        "poot",
-        "choco",
-        "mariku",
-        "alfa",
-        "napl",
-        "elmo",
-        "zebby",
         "battie boy",
         "gomik",
-        "pendew",
-        "attyboi",
-        "ruigpoot",
-        "bezem",
-        "flick",
-        "marikoe",
-        "pustie",
-        "kontvriend",
-        "sachbin",
-        "koelie",
-        "faggit",
+        "gitje",
         "gordon",
-        "jamal",
-        "koeni",
         "kleibeuker",
+        "peder",
         "ibne",
-        "zibi",
+        "koelie",
+        "elmo",
+        "jamal",
+        "maric",
+        "attyboi",
+        "napl",
+        "zehmer",
         "boeler",
-        "zehmer"
+        "gay",
+        "chiemboy",
+        "marikoe",
+        "ruigpoot",
+        "flick",
+        "bezem",
+        "mariku",
+        "pustie",
+        "zebby",
+        "kontvriend",
+        "zibi",
+        "faggit",
+        "alfa",
+        "pendew",
+        "poot",
+        "sachbin",
+        "boelertje",
+        "choco",
+        "koeni"
     ],
     "home": [
         "osso"
@@ -6160,16 +6160,16 @@
         "vienne"
     ],
     "doei": [
-        "ktnxbye",
-        "challas"
+        "challas",
+        "ktnxbye"
     ],
     "verleden": [
         "past"
     ],
     "doen": [
+        "doewn",
         "landen",
-        "temmen",
-        "doewn"
+        "temmen"
     ],
     "doet": [
         "zet"
@@ -6190,8 +6190,8 @@
         "hossels"
     ],
     "houde": [
-        "houdne",
-        "houwe"
+        "houwe",
+        "houdne"
     ],
     "aangevallen": [
         "gedjackt"
@@ -6200,15 +6200,15 @@
         "blocks"
     ],
     "moeilijk": [
-        "faja",
-        "gruwelijk"
+        "gruwelijk",
+        "faja"
     ],
     "lifestyle": [
         "laifstilow"
     ],
     "tweakers": [
-        "tweak0rs",
-        "noobs4life"
+        "noobs4life",
+        "tweak0rs"
     ],
     "opleidingen": [
         "skorros"
@@ -6232,21 +6232,21 @@
         "gekillt"
     ],
     "moorden": [
-        "killing",
-        "murders"
+        "murders",
+        "killing"
     ],
     "duitsers": [
         "nazis"
     ],
     "hoofd": [
-        "eddeh",
-        "knar",
-        "edde",
-        "idder",
+        "ebbeh",
         "ebbe",
+        "edde",
+        "knar",
+        "idder",
+        "eddeh",
         "its",
-        "idi",
-        "ebbeh"
+        "idi"
     ],
     "gemixt": [
         "jacked"
@@ -6277,17 +6277,17 @@
         "ltown"
     ],
     "hi": [
-        "ewa",
-        "swa",
-        "jeweetzelf",
-        "faffie",
-        "fakka g",
         "sup g",
-        "rustig",
-        "vrind",
         "fawaka",
+        "ewa",
         "rustik",
-        "fakka"
+        "rustig",
+        "jeweetzelf",
+        "fakka",
+        "swa",
+        "fakka g",
+        "vrind",
+        "faffie"
     ],
     "xbox360": [
         "playbox420"
@@ -6301,8 +6301,8 @@
     ],
     "helemaal": [
         "tur tur den dash",
-        "tan2",
-        "tantoe"
+        "tantoe",
+        "tan2"
     ],
     "vriendjes": [
         "homies",
@@ -6318,11 +6318,11 @@
         "diensdagg"
     ],
     "arbeiders": [
-        "zemmels",
-        "slaven",
+        "sagbis",
         "sahbis",
+        "slaven",
         "sukkels",
-        "sagbis"
+        "zemmels"
     ],
     "bloedbad": [
         "driveby"
@@ -6337,8 +6337,8 @@
         "hosselde"
     ],
     "problemen": [
-        "trobbie",
         "rwinas",
+        "trobbie",
         "spangas"
     ],
     "pooierpraktijken": [
@@ -6353,9 +6353,9 @@
     "boos": [
         "loessoe",
         "para",
+        "faya",
         "pislink",
-        "broeia",
-        "faya"
+        "broeia"
     ],
     "nunl": [
         "joopnl"
@@ -6364,10 +6364,10 @@
         "tantoe dikke hax"
     ],
     "praten": [
-        "takki",
         "taki",
         "pieren",
-        "kwekku"
+        "kwekku",
+        "takki"
     ],
     "naaie": [
         "geven"
@@ -6379,8 +6379,8 @@
         "junieh"
     ],
     "oneerlijk": [
-        "foeroe",
-        "skraal"
+        "skraal",
+        "foeroe"
     ],
     "junk": [
         "ektekteg"
@@ -6389,9 +6389,9 @@
         "hossel"
     ],
     "stad": [
-        "city",
+        "fotto",
         "stittie",
-        "fotto"
+        "city"
     ],
     "nintendo": [
         "nintendowh",
@@ -6401,16 +6401,16 @@
         "rwinas"
     ],
     "zoetermeer": [
-        "zoeta",
-        "soetaars",
+        "zoetje",
         "zoetka",
         "soetka",
+        "soetaars",
         "sweetlake",
-        "zoetje"
+        "zoeta"
     ],
     "slaap": [
-        "crash",
-        "sriebie"
+        "sriebie",
+        "crash"
     ],
     "samsung": [
         "smasung"
@@ -6423,17 +6423,17 @@
         "gehaxed"
     ],
     "slaan": [
+        "bossen",
+        "smack",
+        "nakken",
+        "hoeken",
         "batten",
         "pompen",
-        "baksen",
-        "poekoel",
-        "bossen",
-        "nacken",
-        "smack",
         "chieren",
         "pakkie",
-        "hoeken",
-        "nakken",
+        "poekoel",
+        "nacken",
+        "baksen",
         "klappen"
     ],
     "lompdom": [
@@ -6546,8 +6546,8 @@
         "slaaf"
     ],
     "cyberprofessionals": [
-        "it bezems",
         "it zemmers",
+        "it bezems",
         "it sukkels"
     ],
     "rijksoverheid": [
@@ -6681,9 +6681,9 @@
         "rendument"
     ],
     "beter": [
-        "betr",
+        "meglio",
         "aight",
-        "meglio"
+        "betr"
     ],
     "hackersgroepen": [
         "criminelen"
@@ -6751,8 +6751,8 @@
         "aub"
     ],
     "apeldoorn": [
-        "apeltown",
-        "apd"
+        "apd",
+        "apeltown"
     ],
     "thijs": [
         "thissa"
@@ -6762,20 +6762,20 @@
         "donie"
     ],
     "100 euro": [
-        "hoenoe",
-        "barkie"
+        "barkie",
+        "hoenoe"
     ],
     "1000 euro": [
         "doezoe"
     ],
     "25 euro": [
-        "tjawa",
-        "chawa"
+        "chawa",
+        "tjawa"
     ],
     "5 euro": [
         "lotto",
-        "fifa",
-        "loto"
+        "loto",
+        "fifa"
     ],
     "50 euro": [
         "bankoe",
@@ -6806,11 +6806,11 @@
         "tbone"
     ],
     "afro": [
-        "nugu",
-        "nigger",
-        "speerwerper",
-        "nigga",
         "negro",
+        "nugu",
+        "nigga",
+        "speerwerper",
+        "nigger",
         "papua"
     ],
     "afro die wit voetje probeert te halen bij nederlanders": [
@@ -6829,24 +6829,24 @@
         "acab"
     ],
     "alleen": [
-        "remi",
-        "remy"
+        "remy",
+        "remi"
     ],
     "alles goed vriend": [
         "faka g"
     ],
     "alles goed": [
+        "wassup",
+        "alles toko",
+        "a mooi",
+        "fawaka",
         "dobro",
         "lebes",
-        "a mooi",
         "alles chill",
-        "alles gucci",
-        "wadup",
-        "alles toko",
-        "fawaka",
+        "alles cool",
         "faka",
-        "wassup",
-        "alles cool"
+        "alles gucci",
+        "wadup"
     ],
     "alles is goed": [
         "stabiel"
@@ -6899,8 +6899,8 @@
         "aso"
     ],
     "autoradio": [
-        "tippo",
-        "benzibox"
+        "benzibox",
+        "tippo"
     ],
     "baas van alle bazen": [
         "capo di tutti capi"
@@ -6923,8 +6923,8 @@
     ],
     "begrijp je": [
         "capish",
-        "graboe",
         "wette",
+        "graboe",
         "capishe"
     ],
     "behaarde vrouw": [
@@ -6946,8 +6946,8 @@
         "dieken"
     ],
     "ben je gek": [
-        "ju e lauw",
-        "ben je lauw"
+        "ben je lauw",
+        "ju e lauw"
     ],
     "beneden": [
         "benoekoe"
@@ -6962,9 +6962,9 @@
         "billenmattie"
     ],
     "betalen": [
-        "lappen",
         "dokken",
-        "coveren"
+        "coveren",
+        "lappen"
     ],
     "betrappen": [
         "klemmen"
@@ -6984,14 +6984,14 @@
     ],
     "billen": [
         "asser",
-        "assr",
-        "pantat",
-        "hezza",
-        "gotje",
         "sanka",
+        "pantat",
+        "kadetjes",
         "kuenu",
-        "chan chan",
-        "kadetjes"
+        "hezza",
+        "assr",
+        "gotje",
+        "chan chan"
     ],
     "billen afro": [
         "kaolo joeka"
@@ -7045,20 +7045,20 @@
         "piepen"
     ],
     "chillen": [
-        "klippen",
-        "riden"
+        "riden",
+        "klippen"
     ],
     "chillen zonder drank en drugs": [
         "pauperen"
     ],
     "chinees": [
-        "snesi",
-        "wok",
         "chinoe",
-        "chulu",
-        "snesie",
+        "snesi",
         "pinda",
-        "chiney"
+        "snesie",
+        "wok",
+        "chiney",
+        "chulu"
     ],
     "chineessurinaams gerecht": [
         "tjauw min"
@@ -7070,24 +7070,24 @@
         "kittelaar"
     ],
     "coca": [
-        "base",
-        "sossa",
-        "yayo",
-        "cokos",
-        "harken",
-        "snatsen",
         "yeyo",
+        "lala",
+        "base",
+        "harken",
         "sosaa",
         "sos",
-        "lala"
+        "yayo",
+        "sossa",
+        "snatsen",
+        "cokos"
     ],
     "coffeshop": [
-        "tjabbie",
-        "tjabie",
-        "shobba",
         "tjabi",
+        "shobba",
+        "chopa",
+        "tjabie",
         "tjabbi",
-        "chopa"
+        "tjabbie"
     ],
     "computeren": [
         "joeteren"
@@ -7100,11 +7100,11 @@
         "fope"
     ],
     "coole gozer": [
-        "giorgo",
         "maton",
-        "jonas",
         "michel",
-        "matong"
+        "giorgo",
+        "matong",
+        "jonas"
     ],
     "coolste": [
         "illest"
@@ -7135,9 +7135,9 @@
         "rimmen"
     ],
     "de baas": [
-        "kike",
         "bigi anu",
-        "mastah"
+        "mastah",
+        "kike"
     ],
     "de baas zijn": [
         "heersen"
@@ -7149,28 +7149,28 @@
         "slanging"
     ],
     "dealer": [
-        "nachtapotheek",
+        "icecreaman",
         "kuipoe",
-        "icecreaman"
+        "nachtapotheek"
     ],
     "delen": [
         "splitten"
     ],
     "delft": [
-        "diffi",
-        "devoe"
+        "devoe",
+        "diffi"
     ],
     "den helder": [
         "delly"
     ],
     "diaree": [
-        "dunne derrie",
-        "racekak"
+        "racekak",
+        "dunne derrie"
     ],
     "dik meisje": [
+        "jackie",
         "zeug",
-        "jabu jabu",
-        "jackie"
+        "jabu jabu"
     ],
     "dikke gozer": [
         "robin"
@@ -7192,8 +7192,8 @@
         "dd"
     ],
     "doe niet zo stoer": [
-        "weejoh",
-        "no play pompoe pompoe"
+        "no play pompoe pompoe",
+        "weejoh"
     ],
     "doe wat je wilt": [
         "doe je ding"
@@ -7233,12 +7233,12 @@
         "aftanken"
     ],
     "drugsgebruiker": [
+        "junk",
+        "jonki",
+        "marie",
+        "crackjunk",
         "bezerd",
         "jenk",
-        "jonki",
-        "crackjunk",
-        "junk",
-        "marie",
         "cracker"
     ],
     "druk maken": [
@@ -7277,11 +7277,11 @@
         "wannabee"
     ],
     "erectie": [
-        "stiffa",
-        "mi abi spier",
         "spieren",
+        "girpeh",
         "stibba",
-        "girpeh"
+        "mi abi spier",
+        "stiffa"
     ],
     "erg cool": [
         "omin lauw"
@@ -7311,9 +7311,9 @@
         "timer"
     ],
     "fck you": [
+        "kerem da kuset",
         "je zus",
         "diw lee",
-        "kerem da kuset",
         "jebi se"
     ],
     "fcking": [
@@ -7345,15 +7345,15 @@
         "damn"
     ],
     "ga weg": [
-        "gwanda",
-        "fok op",
         "ga loezoe",
-        "ga das"
+        "fok op",
+        "ga das",
+        "gwanda"
     ],
     "gaaf": [
-        "dodelijk",
+        "dik",
         "wix",
-        "dik"
+        "dodelijk"
     ],
     "gang": [
         "click"
@@ -7362,11 +7362,11 @@
         "spuiter"
     ],
     "ganster": [
-        "thug",
-        "wiseguy",
-        "peepz",
+        "epko",
         "gi",
-        "epko"
+        "peepz",
+        "wiseguy",
+        "thug"
     ],
     "gas geven": [
         "planken"
@@ -7403,8 +7403,8 @@
         "para"
     ],
     "gek worden": [
-        "flippa",
-        "flippen"
+        "flippen",
+        "flippa"
     ],
     "gelul": [
         "kaka info"
@@ -7425,8 +7425,8 @@
         "mezian"
     ],
     "gepakt": [
-        "zuur",
-        "gesniperd"
+        "gesniperd",
+        "zuur"
     ],
     "gepoord": [
         "pana"
@@ -7456,8 +7456,8 @@
         "kwasia"
     ],
     "gierig persoon": [
-        "koenis",
-        "vras"
+        "vras",
+        "koenis"
     ],
     "glas alcohol in": [
         "killen"
@@ -7482,24 +7482,24 @@
     ],
     "gozer": [
         "fur",
-        "chappie",
-        "knuiter",
-        "faffi",
-        "mos",
-        "sjappie",
-        "swa",
-        "kill",
-        "knul",
         "moruk",
-        "dude",
+        "chappie",
+        "sjappie",
+        "mos",
+        "knuiter",
         "patje",
-        "wanne",
-        "pappie"
+        "dude",
+        "pappie",
+        "kill",
+        "faffi",
+        "knul",
+        "swa",
+        "wanne"
     ],
     "graffiti": [
         "piece",
-        "verven",
-        "graff"
+        "graff",
+        "verven"
     ],
     "graffiti artiest": [
         "schrijver"
@@ -7527,10 +7527,10 @@
         "vunit"
     ],
     "groep vrienden": [
-        "click",
-        "clickah",
+        "cliq",
         "clan",
-        "cliq"
+        "click",
+        "clickah"
     ],
     "groot en lelijk": [
         "cl"
@@ -7543,15 +7543,15 @@
         "big patatoes"
     ],
     "h": [
-        "a mos",
         "ewa",
         "yo tjappie",
-        "ey man"
+        "ey man",
+        "a mos"
     ],
     "haar": [
         "wieri",
-        "wie",
-        "wier"
+        "wier",
+        "wie"
     ],
     "haar vagina": [
         "poentawierie"
@@ -7587,17 +7587,17 @@
         "boeken"
     ],
     "heel erg": [
+        "jeckols",
         "tantoe",
         "onmin",
-        "jeckols",
         "manne"
     ],
     "heel erg dronken worden": [
         "escaleren"
     ],
     "heel erg spanned": [
-        "tantoe spang",
-        "tantu spang"
+        "tantu spang",
+        "tantoe spang"
     ],
     "heemskerk": [
         "hsk"
@@ -7624,9 +7624,9 @@
         "come again"
     ],
     "hero": [
-        "wit",
+        "broenoe",
         "wittie",
-        "broenoe"
+        "wit"
     ],
     "het beste": [
         "meesterlijk"
@@ -7638,8 +7638,8 @@
         "mi de"
     ],
     "het gaat goed": [
-        "wandel",
         "het klapt",
+        "wandel",
         "soepel"
     ],
     "het is een indo": [
@@ -7675,10 +7675,10 @@
         "emmeloco"
     ],
     "hoogezand": [
-        "hsanti",
         "he santi",
         "hesanti",
-        "hgz"
+        "hgz",
+        "hsanti"
     ],
     "hou van jou": [
         "hvj"
@@ -7687,14 +7687,14 @@
         "hjb"
     ],
     "houd je mond": [
-        "saja luku",
-        "tab je lip",
+        "ta pie mov",
+        "ta pie movoe",
         "cala boca",
         "a blub ya",
-        "ta pie movoe",
-        "ta pie mov",
+        "tab je lip",
+        "shjattafakkap",
         "tap je smoel",
-        "shjattafakkap"
+        "saja luku"
     ],
     "huilen": [
         "janken"
@@ -7703,8 +7703,8 @@
         "hw"
     ],
     "hulpje": [
-        "koelie",
         "koeli",
+        "koelie",
         "koellie"
     ],
     "ideale orale bevredigings hoogte": [
@@ -7775,24 +7775,24 @@
     ],
     "ik hou van je": [
         "paka mii toet",
-        "mi lob you",
-        "kamaftoe",
-        "mi lobie you",
-        "mi lobi joe",
-        "iku cinta padamu",
         "ana habbek",
         "laf ya",
+        "mi lobi joe",
+        "mi lob you",
+        "mi lobi you",
         "seni seviyorum",
-        "mi lobi you"
+        "mi lobie you",
+        "kamaftoe",
+        "iku cinta padamu"
     ],
     "ik nk je": [
-        "scarrem",
         "sikerim",
+        "scarrem",
         "seni sikerim"
     ],
     "ik nk je moeder": [
-        "ik poepamoeder",
-        "annani sikyim"
+        "annani sikyim",
+        "ik poepamoeder"
     ],
     "ik sla je in elkaar": [
         "mo prietie"
@@ -7811,8 +7811,8 @@
     ],
     "ik zweer": [
         "walla",
-        "whola",
         "wallah",
+        "whola",
         "wollah"
     ],
     "in de beginfase van een relatie zijn": [
@@ -7838,15 +7838,15 @@
         "idw"
     ],
     "in elkaar slaan": [
-        "vloeren",
-        "kicken"
+        "kicken",
+        "vloeren"
     ],
     "in orde": [
         "ordes"
     ],
     "indo": [
-        "pinda",
-        "indo"
+        "indo",
+        "pinda"
     ],
     "ingepakt": [
         "genaaid"
@@ -7867,8 +7867,8 @@
         "a boeng"
     ],
     "italiaan": [
-        "italo",
-        "spaghettivreter"
+        "spaghettivreter",
+        "italo"
     ],
     "ja hij is gek": [
         "jhazhimzhim"
@@ -7902,26 +7902,26 @@
     ],
     "je moeder": [
         "je moer",
-        "mamak",
         "limi hodi",
+        "jemek",
         "mok",
         "himesh",
-        "jemek"
+        "mamak"
     ],
     "je moeder is een prostituee": [
-        "puta madri",
-        "puta madre"
+        "puta madre",
+        "puta madri"
     ],
     "je moeder sukkel": [
         "ma coolo ma pampa"
     ],
     "je moeders vagina": [
-        "youma pang pang",
-        "tabond jemek",
-        "tabon dimac",
         "ma pampa",
-        "mpampa",
-        "mapangpang"
+        "tabon dimac",
+        "tabond jemek",
+        "youma pang pang",
+        "mapangpang",
+        "mpampa"
     ],
     "je raar gedragen": [
         "martijnen"
@@ -7937,22 +7937,22 @@
     ],
     "je weet toch": [
         "aytogg",
-        "i sabi",
-        "sa kaba",
         "mi stima bo hopi dushi",
         "mi stimabu",
-        "jwt",
+        "sa kaba",
         "je weet zeluf",
-        "i sabhi toh",
-        "je weet toch"
+        "i sabi",
+        "je weet toch",
+        "jwt",
+        "i sabhi toh"
     ],
     "jij bent mijn leven": [
         "inta hayati"
     ],
     "joegoslaaf": [
-        "zemo",
+        "yugo",
         "joego",
-        "yugo"
+        "zemo"
     ],
     "joint dikke": [
         "toeter"
@@ -8007,9 +8007,9 @@
         "hubbabubba"
     ],
     "klaarkomen": [
-        "yoggeren",
         "spoitie",
-        "skeet"
+        "skeet",
+        "yoggeren"
     ],
     "klap": [
         "bakka",
@@ -8041,8 +8041,8 @@
         "poppen"
     ],
     "knap": [
-        "kleina",
-        "fly"
+        "fly",
+        "kleina"
     ],
     "knokkel": [
         "knaka"
@@ -8123,12 +8123,12 @@
         "leempy"
     ],
     "leeuwarden": [
-        "lwd",
-        "liuwsja"
+        "liuwsja",
+        "lwd"
     ],
     "leider": [
-        "baas",
-        "zalmi"
+        "zalmi",
+        "baas"
     ],
     "leiderdorp": [
         "lidorro"
@@ -8137,8 +8137,8 @@
         "spankhoofd"
     ],
     "lelijk meisje": [
-        "rachel",
-        "nepmop"
+        "nepmop",
+        "rachel"
     ],
     "lelijk persoon": [
         "gmurk",
@@ -8157,8 +8157,8 @@
         "liti"
     ],
     "liedje": [
-        "poku",
-        "pokoe"
+        "pokoe",
+        "poku"
     ],
     "liefhebber van nken in het andere gaatje": [
         "scat lover"
@@ -8214,38 +8214,38 @@
         "nol"
     ],
     "maf": [
+        "lori",
+        "loeloe",
+        "pietkwiet",
         "goofy",
         "leipo",
-        "pietkwiet",
-        "loeloe",
-        "lori",
         "leip"
     ],
     "maf doen": [
         "kleipen"
     ],
     "mafketel": [
-        "yosti",
+        "pino",
         "vogel",
         "eppo",
-        "maffie",
-        "misjkin",
-        "daap",
-        "pino",
-        "dakhaas",
+        "macfees",
+        "josti",
+        "malaka",
+        "jostie",
+        "weirdo",
+        "lijperik",
+        "retard",
         "freak",
+        "dakhaas",
+        "chizzle",
+        "daap",
+        "yosti",
+        "skintie",
+        "misjkin",
+        "ebby",
         "dummi",
         "wausie",
-        "ebby",
-        "retard",
-        "skintie",
-        "josti",
-        "macfees",
-        "lijperik",
-        "jostie",
-        "chizzle",
-        "malaka",
-        "weirdo"
+        "maffie"
     ],
     "mager meisje": [
         "splietje"
@@ -8270,14 +8270,14 @@
     ],
     "mastruberen": [
         "paga",
+        "pagga slaan",
+        "hari",
+        "pachen",
+        "fappen",
         "plagga slaan",
         "polsgymanstiek",
-        "hari",
         "wiecksen",
-        "fappen",
-        "pachen",
-        "sanlo",
-        "pagga slaan"
+        "sanlo"
     ],
     "mate van stoer zijn": [
         "rofheid"
@@ -8365,8 +8365,8 @@
         "modo"
     ],
     "moedernker": [
-        "kusmodar",
-        "pukimai"
+        "pukimai",
+        "kusmodar"
     ],
     "moeite doen": [
         "ye hossel"
@@ -8382,71 +8382,71 @@
     ],
     "mond": [
         "muil",
+        "maula",
+        "moffo",
         "kaak",
         "gaffel",
-        "mulut",
-        "moffo",
-        "maula"
+        "mulut"
     ],
     "mond dicht": [
-        "tapi movo",
-        "zippit"
+        "zippit",
+        "tapi movo"
     ],
     "mooi meisje": [
-        "pepa",
-        "mima",
-        "barbie",
-        "spange tanga",
-        "spangerd",
         "tyalosyni",
-        "hertje",
-        "tanga",
-        "spanga",
-        "cleopatra",
-        "tchumai",
-        "chicky",
-        "gmeid",
-        "lkkrding",
-        "fatima",
-        "lekka lek",
-        "cuty",
-        "chikie",
         "habibi",
-        "makkel",
-        "wahra",
-        "vpang",
-        "poepertje",
-        "tjumai",
-        "mooimeid",
-        "curva",
-        "mokkel",
-        "morajka",
-        "bella",
-        "zine",
-        "gramma girl",
-        "poes",
+        "pepa",
+        "chikie",
         "chima",
+        "lekka lek",
+        "cleopatra",
+        "makkel",
+        "cuty",
+        "vpang",
+        "mooimeid",
+        "bella",
+        "poes",
+        "hertje",
+        "mokkel",
+        "spanga",
+        "chicky",
+        "mima",
+        "poepertje",
+        "fatima",
+        "gramma girl",
+        "spangerd",
+        "tanga",
+        "gmeid",
+        "tchumai",
+        "curva",
+        "zine",
+        "wahra",
+        "spange tanga",
+        "poppie",
+        "morajka",
         "spange chick",
-        "poppie"
+        "tjumai",
+        "lkkrding",
+        "barbie"
     ],
     "mooi meisjes": [
         "flygirls"
     ],
     "mooie billen": [
-        "tazzibal",
-        "badonkadonk"
+        "badonkadonk",
+        "tazzibal"
     ],
     "mooie borsten": [
         "knijp kanjers"
     ],
     "mooie jongen": [
-        "swagga boy",
         "hot chocholate",
-        "swagga",
-        "moiboi",
-        "chiboy",
         "mooiboy",
-        "spangmang"
+        "moiboi",
+        "spangmang",
+        "swagga boy",
+        "chiboy",
+        "swagga"
     ],
     "mooie schoenen": [
         "moeilijke plattas"
@@ -8476,39 +8476,39 @@
         "gheilaiem"
     ],
     "nken": [
-        "honkeponken",
-        "kieren",
-        "pompen",
-        "bangen",
-        "pang pang",
-        "zauszen",
-        "ballen",
-        "geslagen",
-        "sexytime",
-        "pangpang",
-        "djobben",
-        "a kog",
-        "ketsen",
-        "douchen",
-        "ploppen",
-        "schoffelen",
-        "pompie doppe",
-        "tjoppen",
-        "knoeken",
-        "rieten",
-        "wiepen",
-        "batsen",
-        "skatten",
-        "ankeren",
-        "prikken",
-        "baksen",
         "choppen",
-        "klari",
-        "douwen",
-        "hupsen",
-        "rampetampen",
+        "zauszen",
+        "bangen",
         "palen",
-        "krikken"
+        "tjoppen",
+        "baksen",
+        "wiepen",
+        "skatten",
+        "douchen",
+        "pang pang",
+        "ploppen",
+        "geslagen",
+        "knoeken",
+        "pompen",
+        "ankeren",
+        "sexytime",
+        "batsen",
+        "prikken",
+        "hupsen",
+        "pangpang",
+        "schoffelen",
+        "krikken",
+        "douwen",
+        "klari",
+        "a kog",
+        "pompie doppe",
+        "djobben",
+        "ketsen",
+        "rieten",
+        "kieren",
+        "ballen",
+        "rampetampen",
+        "honkeponken"
     ],
     "nken in het andere gaatje": [
         "joyriden"
@@ -8524,8 +8524,8 @@
     ],
     "naar huis": [
         "oso cee",
-        "oslo",
-        "bai kas"
+        "bai kas",
+        "oslo"
     ],
     "nagaan": [
         "scannen"
@@ -8605,8 +8605,8 @@
         "splikka"
     ],
     "nijmegen": [
-        "nimma",
-        "nmgn"
+        "nmgn",
+        "nimma"
     ],
     "nike": [
         "noegoes"
@@ -8697,14 +8697,14 @@
         "tem"
     ],
     "oprotten": [
-        "mrsh",
-        "ma pima yo",
-        "siktir git",
-        "meaaas",
-        "sir takoewed",
-        "opjensen",
         "ilesh khadem",
-        "kardesh hardidih"
+        "ma pima yo",
+        "sir takoewed",
+        "meaaas",
+        "kardesh hardidih",
+        "mrsh",
+        "siktir git",
+        "opjensen"
     ],
     "opzij gaan": [
         "moven"
@@ -8713,13 +8713,13 @@
         "ge"
     ],
     "oraal bevredigen": [
+        "kokkie geven",
+        "cocken",
         "muie",
         "cockie",
-        "stofzuigen",
-        "cocken",
         "ippa",
-        "pijpen",
-        "kokkie geven"
+        "stofzuigen",
+        "pijpen"
     ],
     "oraal bevredigen van een meisje": [
         "eten"
@@ -8743,16 +8743,16 @@
         "duhhh"
     ],
     "oude mensen": [
-        "oldies",
-        "rimpel ratten"
+        "rimpel ratten",
+        "oldies"
     ],
     "overslaan": [
         "skippen"
     ],
     "pakistaan": [
         "paki",
-        "pakoe",
-        "paloe"
+        "paloe",
+        "pakoe"
     ],
     "pakistan": [
         "pakoland"
@@ -8801,8 +8801,8 @@
         "petta"
     ],
     "pil": [
-        "illie",
-        "pirkie"
+        "pirkie",
+        "illie"
     ],
     "pillen": [
         "yalla"
@@ -8830,12 +8830,12 @@
         "lossen"
     ],
     "player": [
+        "adham",
         "wakka mang",
-        "wakamang",
-        "chickie flasher",
         "romeo",
+        "wakamang",
         "charteboy",
-        "adham"
+        "chickie flasher"
     ],
     "poepsporen in de onderbroek of de wc": [
         "remsporen"
@@ -8860,10 +8860,10 @@
         "takkies"
     ],
     "problemen maken": [
-        "messen",
         "rwienna",
-        "rwiena",
-        "rwina"
+        "messen",
+        "rwina",
+        "rwiena"
     ],
     "prostuees": [
         "suki"
@@ -8875,8 +8875,8 @@
         "spara"
     ],
     "purmerend": [
-        "ptown",
-        "purra"
+        "purra",
+        "ptown"
     ],
     "puttershoek": [
         "puttercity",
@@ -8887,8 +8887,8 @@
     ],
     "raar": [
         "strano",
-        "vroes",
-        "weerie"
+        "weerie",
+        "vroes"
     ],
     "racist": [
         "nogro"
@@ -8909,8 +8909,8 @@
         "rep"
     ],
     "respect": [
-        "props",
-        "booka"
+        "booka",
+        "props"
     ],
     "rij voorzichtig": [
         "mooi rij"
@@ -8981,18 +8981,18 @@
         "puffen"
     ],
     "scheit": [
-        "scat",
+        "ka",
         "kupa",
-        "ka"
+        "scat"
     ],
     "schep": [
         "scopoe"
     ],
     "scheveningen": [
         "skevie",
+        "skiffy",
         "skiffa",
-        "sciffa",
-        "skiffy"
+        "sciffa"
     ],
     "schiebroek rotterdam": [
         "ski bronx"
@@ -9001,16 +9001,16 @@
         "fromoe"
     ],
     "schijt": [
-        "skit",
-        "taz",
+        "skitta",
         "tazz",
         "sikterla",
-        "skitmo",
-        "skitta",
+        "sikterlan",
         "skeit",
+        "taz",
+        "skit",
         "gnoen",
-        "skizzle",
-        "sikterlan"
+        "skitmo",
+        "skizzle"
     ],
     "schiphol": [
         "skippa"
@@ -9031,15 +9031,15 @@
         "moosie"
     ],
     "schrikken": [
-        "skrekie",
-        "skrieki"
+        "skrieki",
+        "skrekie"
     ],
     "schroevendraaier": [
         "skroeba"
     ],
     "schudden": [
-        "swollen",
-        "schuren"
+        "schuren",
+        "swollen"
     ],
     "sde weg kwijt": [
         "wasted"
@@ -9048,8 +9048,8 @@
         "cu"
     ],
     "seksueel opgewonden": [
-        "krasi",
         "gruizig",
+        "krasi",
         "perr"
     ],
     "selamat": [
@@ -9062,8 +9062,8 @@
         "sheit"
     ],
     "shit zeg": [
-        "pataaat",
-        "balu"
+        "balu",
+        "pataaat"
     ],
     "showen": [
         "clippen"
@@ -9105,27 +9105,27 @@
         "slapoes"
     ],
     "sloerie": [
-        "cabokka",
-        "voisha",
-        "ploeger",
-        "banga",
+        "katvanger",
+        "snol",
+        "teun",
+        "zoubie",
+        "oeter",
         "slejj",
+        "cabokka",
+        "ploeger",
+        "sloerie",
+        "euroknaller",
+        "marjolein",
+        "skida",
+        "trampa",
+        "sloeri",
+        "banga",
         "hizz",
         "straatmadelief",
         "picko",
-        "euroknaller",
-        "zoubie",
-        "snol",
-        "katvanger",
-        "dulo",
-        "teun",
-        "marjolein",
-        "sloeri",
-        "trampa",
         "tella",
-        "sloerie",
-        "oeter",
-        "skida"
+        "dulo",
+        "voisha"
     ],
     "slome": [
         "harry"
@@ -9158,8 +9158,8 @@
         "lyrics"
     ],
     "spannend": [
-        "spange",
-        "spang"
+        "spang",
+        "spange"
     ],
     "spel": [
         "gimma"
@@ -9168,8 +9168,8 @@
         "skippen"
     ],
     "spijkenisse": [
-        "spikri",
-        "vpiekerie"
+        "vpiekerie",
+        "spikri"
     ],
     "spoorwegpolitie": [
         "spopo"
@@ -9225,8 +9225,8 @@
     ],
     "stoer doen": [
         "popie joopie doen",
-        "showen",
-        "baat"
+        "baat",
+        "showen"
     ],
     "stoer hoor": [
         "tuk chiki"
@@ -9236,9 +9236,9 @@
     ],
     "stoere gozert": [
         "gangsta",
+        "gangster",
         "tjoenboi",
-        "kecin",
-        "gangster"
+        "kecin"
     ],
     "stoned en dronken": [
         "stronken"
@@ -9310,8 +9310,8 @@
         "kaboela"
     ],
     "suriname": [
-        "sranang",
-        "su"
+        "su",
+        "sranang"
     ],
     "surinamer": [
         "suri"
@@ -9345,10 +9345,10 @@
         "skinnen"
     ],
     "tilburg": [
+        "killburg",
         "tilly",
         "chillburg",
-        "tikoe",
-        "killburg"
+        "tikoe"
     ],
     "timberlands": [
         "timbas"
@@ -9375,38 +9375,38 @@
         "ciao"
     ],
     "tot ziens": [
+        "laterzzz",
+        "l",
+        "grosso",
+        "challa",
+        "aprez",
+        "tot bam",
+        "leyhaun",
+        "holla",
+        "hammazel",
+        "tabee",
+        "oz",
+        "thala",
+        "check je later",
         "hade",
         "latoe",
-        "laterzzz",
-        "challa",
-        "tabee",
-        "texel",
-        "tot bam",
-        "one",
-        "poedels",
-        "latra",
-        "thalla",
         "challas",
-        "oz",
-        "holla",
         "wo box",
-        "check je later",
-        "thala",
-        "lata",
+        "one",
+        "thalla",
+        "chali",
+        "poedels",
+        "texel",
         "layhoun",
-        "grosso",
-        "l",
-        "aprez",
-        "leyhaun",
-        "hammazel",
-        "chali"
+        "lata",
+        "latra"
     ],
     "trippen": [
         "trips"
     ],
     "trut": [
-        "koskesh",
         "ya bitch",
+        "koskesh",
         "laura",
         "kifesh"
     ],
@@ -9456,12 +9456,12 @@
         "werhaal"
     ],
     "verloren": [
-        "lassie",
-        "las my balsem"
+        "las my balsem",
+        "lassie"
     ],
     "vers": [
-        "rijp",
-        "schraal"
+        "schraal",
+        "rijp"
     ],
     "verveel niet": [
         "hodeer niet"
@@ -9515,8 +9515,8 @@
         "tralalalala"
     ],
     "vrouw met snor": [
-        "snorro",
-        "el snorro"
+        "el snorro",
+        "snorro"
     ],
     "waalwijk": [
         "ww"
@@ -9531,15 +9531,15 @@
         "balu"
     ],
     "wakker": [
-        "wiekie",
-        "wicky de viking"
+        "wicky de viking",
+        "wiekie"
     ],
     "wandelen": [
         "stekkeren"
     ],
     "wanna be ganster": [
-        "wangster",
-        "wanksta"
+        "wanksta",
+        "wangster"
     ],
     "wannabee afro": [
         "wigga"
@@ -9576,16 +9576,16 @@
         "watskeburt"
     ],
     "wat is er": [
+        "wazzup",
         "wazabi",
-        "ghebe",
-        "samsa",
         "whaddap",
+        "samsa",
         "watser",
-        "wazzup"
+        "ghebe"
     ],
     "wat moet je": [
-        "nandayo",
-        "nan da yo"
+        "nan da yo",
+        "nandayo"
     ],
     "wat wil je dan doen": [
         "wattangek"
@@ -9597,9 +9597,9 @@
         "blackatoly"
     ],
     "wazig": [
+        "dizzy",
         "woebelie",
-        "woozy",
-        "dizzy"
+        "woozy"
     ],
     "wc": [
         "plee"
@@ -9611,29 +9611,29 @@
         "i know"
     ],
     "weet je": [
-        "i sabi",
-        "ie sabie"
+        "ie sabie",
+        "i sabi"
     ],
     "weg": [
-        "kas",
+        "gwe",
         "raus",
         "esma",
-        "gwe"
+        "kas"
     ],
     "weg gaan": [
         "knijpen"
     ],
     "wegrennen": [
         "planken",
-        "boeken",
-        "dashen"
+        "dashen",
+        "boeken"
     ],
     "wegwezen": [
-        "cutty ranks",
-        "haradang",
-        "gratie",
+        "hallie hallie",
         "splitten",
-        "hallie hallie"
+        "gratie",
+        "cutty ranks",
+        "haradang"
     ],
     "what the fck": [
         "wat the fack",
@@ -9658,8 +9658,8 @@
         "pundi purro"
     ],
     "xtc pil": [
-        "ptje",
         "snackie",
+        "ptje",
         "perkie"
     ],
     "xtcpil": [
@@ -9675,12 +9675,12 @@
         "basis"
     ],
     "zeikerd": [
-        "bitchass",
-        "wanker"
+        "wanker",
+        "bitchass"
     ],
     "zeker weten": [
-        "hoppie sekoer",
-        "for sure"
+        "for sure",
+        "hoppie sekoer"
     ],
     "zeuren": [
         "bitchen"
@@ -9704,8 +9704,8 @@
         "op een feest boren"
     ],
     "zonnebril": [
-        "plangas",
-        "planga"
+        "planga",
+        "plangas"
     ],
     "zoon van een prostituee": [
         "ibnil kahbe"
@@ -9726,9 +9726,9 @@
         "penchot"
     ],
     "zwerver": [
-        "wakka mang",
         "swerri",
+        "choller",
         "zwiffa",
-        "choller"
+        "wakka mang"
     ]
 }

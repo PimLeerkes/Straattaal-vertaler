@@ -1,9 +1,12 @@
 import requests
 import json
 import re
+import os
+import sys
+sys.path.append('../')
 
 def save_to_file(lijst):
-    with open("woorden.json",'w') as write_file:
+    with open("/data/woorden.json",'w') as write_file:
          json.dump(lijst, write_file, indent=4)
 
 def json_api_to_list():
@@ -17,7 +20,7 @@ def json_api_to_list():
     return processed_data
 
 def meerwoorden():
-    with open("meerwoorden.txt", "r") as data:
+    with open("../data/meerwoorden.txt", "r") as data:
         processed_data = []
         for woord in data:
             woord = woord.split("=")

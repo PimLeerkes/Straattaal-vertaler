@@ -2,6 +2,8 @@ from pprint import pprint
 import json
 import random
 import sys
+sys.path.append('../')
+
 
 allowed = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','0','1','2','3','4','5','6','7','8','9','A','B','C','D','E','F','G','H','I','J','K','L',
 'M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z']
@@ -100,20 +102,12 @@ def vertaal_zin(zin, woorden):
 
 def main(zin):
     # laad de "woorden.json" gemaakt door api request in get-data.py
-    with open("woorden.json", "r") as data:
+    with open("../data/woorden.json", "r") as data:
         woorden = json.load(data)
         ned_str = Woordenboek()
         for key, val in woorden.items():
             ned_str.add(key, val)
 
-    # vertaal de woorden van nederlands naar straattaal:
-    # del sys.argv[0]
-    # zin = sys.argv
     woordenlijst = ned_str
     vertaalde_zin = vertaal_zin(zin, woordenlijst)
-    # print("\nDie vertaling is:\n" + vertaalde_zin)
-    de_vertaling = {"Vertaling": vertaalde_zin}
-    return de_vertaling
-
-# if __name__ == '__main__':
-#    main()
+    return vertaalde_zin
