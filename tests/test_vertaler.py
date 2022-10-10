@@ -1,11 +1,10 @@
 import unittest
-import requests
 import sys
 sys.path.append('../')
-import re
 
 import app.vertaler as vertaler
 
+# Dit test voor het juist doorlaten van woorden zonder spaces
 class Test_No_Spaces(unittest.TestCase):
     
     def test_vertaal(self):
