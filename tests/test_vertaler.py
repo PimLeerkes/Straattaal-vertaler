@@ -1,5 +1,6 @@
 import unittest
 import sys
+import re
 sys.path.append('../')
 
 import app.vertaler as vertaler
