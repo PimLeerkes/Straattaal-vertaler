@@ -8,7 +8,6 @@ import app.vertaler as vertaler
 
 class Test_No_Spaces(unittest.TestCase):
     
-
     def test_vertaal(self):
         regexp = re.compile('[ ]')
         test_string = 'thisisatest'
