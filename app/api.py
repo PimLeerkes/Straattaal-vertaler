@@ -9,13 +9,9 @@ import app.vertaler as vertaler
 
 app = FastAPI()
 
-def run_me():
-    uvicorn.run(app, host="127.0.0.1", port=8000, log_level="info")
-
-
 @app.get("/")
 async def root():
-    return {"message": "Hello World"}
+    return {"message": "Hello World, I'm working!?"}
 
 @app.get("/nederlands/")
 async def translate(message: str = Query(default=None, max_length=50)):

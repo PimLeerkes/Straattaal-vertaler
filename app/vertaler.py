@@ -110,14 +110,7 @@ def laad_woorden():
     return ned_str
 
 def main(zin):
-    # laad de "woorden.json" gemaakt door api request in get-data.py
-    with open("../data/woorden.json", "r") as data:
-        woorden = json.load(data)
-        ned_str = Woordenboek()
-        for key, val in woorden.items():
-            ned_str.add(key, val)
-
-    woordenlijst = ned_str
+    woordenlijst = laad_woorden()
     vertaalde_zin = vertaal_zin(zin, woordenlijst)
     return vertaalde_zin
 
