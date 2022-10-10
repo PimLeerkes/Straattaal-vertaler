@@ -71,11 +71,12 @@ def leestekens(woord, woorden):
 
 # iterate door de zin en vertaald elk woord of zinsdeel los van elkaar:
 def vertaal_zin(zin, woorden):
+    zin = zin.split()
     vertaalde_zin = ""
 
     #we lopen door elk woord van de zin heen en nemen ze als begin punt:
     i = 0
-    while i < len(zin):
+    while i < len(zin) and i < 10:
         #vertaal het woord:
         woord = zin[i]
         woord, tekens = leestekens(woord, woorden)
@@ -100,6 +101,14 @@ def vertaal_zin(zin, woorden):
     return vertaalde_zin[1:]
 
 
+def laad_woorden():
+    with open("../data/woorden.json", "r") as data:
+        woorden = json.load(data)
+        ned_str = Woordenboek()
+        for key, val in woorden.items():
+            ned_str.add(key, val)
+    return ned_str
+
 def main(zin):
     # laad de "woorden.json" gemaakt door api request in get-data.py
     with open("../data/woorden.json", "r") as data:
@@ -111,3 +120,5 @@ def main(zin):
     woordenlijst = ned_str
     vertaalde_zin = vertaal_zin(zin, woordenlijst)
     return vertaalde_zin
+
+
