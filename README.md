@@ -8,6 +8,9 @@ Een vertaler gemaakt door Mensen die graag normaal nederlands maar ook straattaa
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
+	- [Run](#Run)
+	- [Use](#Use)
+- [Configuration](#Configuration)
 - [Built With](#built-with)
 
 ## Getting Started
@@ -76,6 +79,7 @@ After that build the container.
 
 ## Usage
 
+### Run
 With python:
 ```shell
 streamlit run app/web_app.py 
@@ -86,10 +90,31 @@ With docker:
 docker run -d --name straatvertaler -p 8080:8080 straatvertaler/web_app
 ```
 
+### Use
 1. Open up your webbrowser at `localhost:8080`.
 2. Type what you want translated
-3. Done!
+3. Copy the text you want to use
+4. Done!
+
+## Configuration
+If you want to use it for your server you can definitely do that. Here are some examples:
+`Dockerfile`:
+``` Dockerfile
+# Set server port to 80 or 443
+ENTRYPOINT ["streamlit", "run", "app/web_app.py", "--server.port=8080", "--server.address=0.0.0.0"]
+```
+
+`.streamlit/config.tom`:
+```toml
+# Set server port to 80 or 443
+[server]
+port = 8080
+```
+
+Also, streamlit has a community cloud where you can host it [here](https://streamlit.io/cloud)
 
 ## Build With
 Libraries:
 - [Streamlit](https://streamlit.io/) 
+
+
