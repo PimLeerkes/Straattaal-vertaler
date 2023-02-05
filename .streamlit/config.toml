@@ -1,0 +1,10 @@
+[server]
+port = 8080
+
+[browser]
+gatherUsageStats = false
+# This is for docker it defaults to localhost
+# serverAddress = "0:0:0:0"
+
+[theme]
+base="dark"

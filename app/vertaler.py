@@ -2,8 +2,6 @@ from pprint import pprint
 import json
 import random
 import sys
-sys.path.append('../')
-
 
 allowed = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','0','1','2','3','4','5','6','7','8','9','A','B','C','D','E','F','G','H','I','J','K','L',
 'M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z']
@@ -102,7 +100,7 @@ def vertaal_zin(zin, woorden):
 
 
 def laad_woorden():
-    with open("../data/woorden.json", "r") as data:
+    with open("./app/data/woorden.json", "r") as data:
         woorden = json.load(data)
         ned_str = Woordenboek()
         for key, val in woorden.items():
@@ -113,5 +111,3 @@ def main(zin):
     woordenlijst = laad_woorden()
     vertaalde_zin = vertaal_zin(zin, woordenlijst)
     return vertaalde_zin
-
-

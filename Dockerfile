@@ -1,13 +1,20 @@
-FROM tiangolo/uvicorn-gunicorn:python3.8-slim
+FROM python:3.9-slim
 
-LABEL maintainer="Sebastian Ramirez <tiangolo@gmail.com>"
-
-COPY requirements.txt /tmp/requirements.txt
-
-RUN pip install --no-cache-dir -r /tmp/requirements.txt
 COPY ./app /app
-COPY ./data /data
 
 WORKDIR /app
 
-CMD ["uvicorn", "api:app", "--host", "0.0.0.0", "--port", "80"]
+RUN apt-get update && apt-get install -y \
+    build-essential \
+    curl \
+    software-properties-common \
+    git \
+    && rm -rf /var/lib/apt/lists/*
+
+RUN pip3 install -r requirements.txt
+
+EXPOSE 8080
+
+HEALTHCHECK CMD curl --fail http://localhost:8080/_stcore/health
+
+ENTRYPOINT ["streamlit", "run", "app/web_app.py", "--server.port=8080", "--server.address=0.0.0.0"]
