@@ -87,8 +87,9 @@ streamlit run app/web_app.py
 
 With docker:
 ``` shell
-docker run -d --name straatvertaler -p 8080:8080 straatvertaler/web_app
+docker run --name straatvertaler -p 8080:8080 straatvertaler/web_app
 ```
+> You can add -d flag for background use 
 
 ### Use
 1. Open up your webbrowser at `localhost:8080`.
